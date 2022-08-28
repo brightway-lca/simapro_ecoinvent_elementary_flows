@@ -11,4 +11,8 @@ This repository follows the data fomats used in [GLAD Elementary Flow Resources]
 
 ## Contributing
 
-Additions to the existing mapping are done using Github Actions. 
+Additions to the existing mapping are done using Github Actions, and can be done manually or programmatically. If you are interested in contributing, please first check the `Status` directory, whose readme file describes the number and types of flows already mapped.
+
+### Manual contributions
+
+### Programmatic contributions
