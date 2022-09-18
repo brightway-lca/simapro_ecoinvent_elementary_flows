@@ -37,7 +37,7 @@ def check_duplicates():
         if filename.suffix.lower() == ".csv":
             new = {
                 tuple([row[field] for field in FIELDS])
-                for row in pd.read_csv(CONTRIBUTE_DIR / filename).iterrows()
+                for _, row in pd.read_csv(CONTRIBUTE_DIR / filename).iterrows()
             }
             if new.intersection(existing):
                 errors.append(

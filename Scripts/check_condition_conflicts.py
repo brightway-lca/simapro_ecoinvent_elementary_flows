@@ -37,7 +37,7 @@ def check_condition_conflicts():
         if filename.suffix.lower() == ".csv":
             new = {
                 tuple([row[field] for field in FIELDS]): row["MatchCondition"]
-                for row in pd.read_csv(CONTRIBUTE_DIR / filename).iterrows()
+                for _, row in pd.read_csv(CONTRIBUTE_DIR / filename).iterrows()
             }
             conflicts = []
 
