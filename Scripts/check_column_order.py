@@ -1,13 +1,28 @@
-import pandas as pd
 from pathlib import Path
+
+import pandas as pd
 
 BASE_DIR = Path(__file__).parent.parent.resolve()
 CONTRIBUTE_DIR = BASE_DIR / "Contribute"
 COLUMN_ORDER = [
-    "SourceListName", "SourceFlowName", "SourceFlowUUID", "SourceFlowContext", "SourceUnit",
-    "MatchCondition", "TargetListName", "TargetFlowName", "TargetFlowUUID",
-    "TargetFlowContext", "TargetUnit", "Mapper", "Verifier", "LastUpdated", "MemoMapper",
-    "MemoVerifier", "MemoSource", "MemoTarget"
+    "SourceListName",
+    "SourceFlowName",
+    "SourceFlowUUID",
+    "SourceFlowContext",
+    "SourceUnit",
+    "MatchCondition",
+    "TargetListName",
+    "TargetFlowName",
+    "TargetFlowUUID",
+    "TargetFlowContext",
+    "TargetUnit",
+    "Mapper",
+    "Verifier",
+    "LastUpdated",
+    "MemoMapper",
+    "MemoVerifier",
+    "MemoSource",
+    "MemoTarget",
 ]
 
 
