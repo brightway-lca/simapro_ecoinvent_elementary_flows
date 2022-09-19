@@ -1,0 +1,26 @@
+name: Check pull request
+on: [pull request]
+jobs:
+  Run-All-Checks:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Setup Python environment
+        uses: actions/setup-python@v4.2.0
+      - run: pip install pandas jinja2
+      - name: List Contribute data files
+        run: ls ${{ github.workspace }}/Contribute
+      - run: python Scripts/check_inputs.yml
+      - run: python Scripts/check_column_order.py
+      - run: python Scripts/check_flows_in_input_flowslists.py
+      - run: python Scripts/check_condition_conflicts.py
+      - run: python Scripts/check_duplicates.py
+      - run: python Scripts/raise_error.py
+      - name: Archive error logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: JSON error logs
+          path: Logs/*.json
+      - run: echo "🍏 This job's status is ${{ job.status }}."

@@ -1,5 +1,4 @@
 import json
-import sys
 from pathlib import Path
 
 import pandas as pd
@@ -23,6 +22,9 @@ FIELDS = [
 def check_duplicates():
     assert CONTRIBUTE_DIR.is_dir()
     assert MAPPED_FILES_DIR.is_dir()
+
+    if any(filename.suffix.lower() == ".json" for filename in LOGS_DIR.iterdir()):
+        return
 
     existing = {
         tuple([row[field] for field in FIELDS])
@@ -53,7 +55,6 @@ def check_duplicates():
     if errors:
         with open(LOGS_DIR / "check_duplicates.json", "w", encoding="utf-8") as f:
             json.dump(errors, f, ensure_ascii=False, indent=2)
-        sys.exit(1)
 
 
 if __name__ == "__main__":

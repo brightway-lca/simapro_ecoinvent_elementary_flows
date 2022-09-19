@@ -1,5 +1,4 @@
 import json
-import sys
 from pathlib import Path
 
 import pandas as pd
@@ -32,6 +31,9 @@ EXPECTED_COLUMNS = {
 def check_inputs():
     assert CONTRIBUTE_DIR.is_dir()
 
+    if any(filename.suffix.lower() == ".json" for filename in LOGS_DIR.iterdir()):
+        return
+
     errors = []
 
     for filename in CONTRIBUTE_DIR.iterdir():
@@ -55,7 +57,6 @@ def check_inputs():
     if errors:
         with open(LOGS_DIR / "check_inputs.json", "w", encoding="utf-8") as f:
             json.dump(errors, f, ensure_ascii=False, indent=2)
-        sys.exit(1)
 
 
 if __name__ == "__main__":

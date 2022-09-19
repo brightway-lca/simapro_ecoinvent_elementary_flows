@@ -1,5 +1,4 @@
 import json
-import sys
 from pathlib import Path
 
 import pandas as pd
@@ -13,6 +12,9 @@ FLOWLISTS_DIR = BASE_DIR / "Mapping" / "Input" / "Flowlists"
 def check_flows_in_input_flowslists():
     assert CONTRIBUTE_DIR.is_dir()
     assert FLOWLISTS_DIR.is_dir()
+
+    if any(filename.suffix.lower() == ".json" for filename in LOGS_DIR.iterdir()):
+        return
 
     ecoinvent_df = pd.read_csv(FLOWLISTS_DIR / "ecoinventEFv3.7.csv")
     simapro_df = pd.read_csv(FLOWLISTS_DIR / "SimaProv9.4.csv")
@@ -73,7 +75,6 @@ def check_flows_in_input_flowslists():
             LOGS_DIR / "check_flows_in_input_flowslists.json", "w", encoding="utf-8"
         ) as f:
             json.dump(errors, f, ensure_ascii=False, indent=2)
-        sys.exit(1)
 
 
 if __name__ == "__main__":
