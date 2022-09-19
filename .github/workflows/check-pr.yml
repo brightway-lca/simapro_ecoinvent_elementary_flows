@@ -1,5 +1,5 @@
 name: Check pull request
-on: [pull request]
+on: pull_request
 jobs:
   Run-All-Checks:
     runs-on: ubuntu-latest
