@@ -16,7 +16,7 @@ jobs:
         run: ls ${{ github.workspace }}/Contribute
       - run: python Scripts/check_inputs.py
       - run: python Scripts/check_column_order.py
-      - run: python Scripts/check_flows_in_input_flowslists.py
+      - run: python Scripts/check_flows_in_input_flowlists.py
       - run: python Scripts/check_condition_conflicts.py
       - run: python Scripts/check_duplicates.py
       - run: python Scripts/raise_error.py
