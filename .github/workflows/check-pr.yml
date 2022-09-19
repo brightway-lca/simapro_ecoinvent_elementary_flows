@@ -10,6 +10,8 @@ jobs:
       - name: Setup Python environment
         uses: actions/setup-python@v4.2.0
       - run: pip install pandas jinja2
+      - name: List repo directory
+        run: ls ${{ github.workspace }}
       - name: List Contribute data files
         run: ls ${{ github.workspace }}/Contribute
       - run: python Scripts/check_inputs.py

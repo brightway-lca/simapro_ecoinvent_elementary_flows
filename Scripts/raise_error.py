@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).parent.parent.resolve()
-LOGS_DIR = BASE_DIR / "logs"
+LOGS_DIR = BASE_DIR / "Logs"
 
 
 def check_duplicates():

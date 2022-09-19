@@ -6,7 +6,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).parent.parent.resolve()
 CONTRIBUTE_DIR = BASE_DIR / "Contribute"
 MAPPED_FILES_DIR = BASE_DIR / "Mapping" / "Output" / "Mapped_files"
-LOGS_DIR = BASE_DIR / "logs"
+LOGS_DIR = BASE_DIR / "Logs"
 
 
 FIELDS = [

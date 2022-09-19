@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 
 BASE_DIR = Path(__file__).parent.parent.resolve()
-LOGS_DIR = BASE_DIR / "logs"
+LOGS_DIR = BASE_DIR / "Logs"
 CONTRIBUTE_DIR = BASE_DIR / "Contribute"
 COLUMN_ORDER = [
     "SourceListName",
