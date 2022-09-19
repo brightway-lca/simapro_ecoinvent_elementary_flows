@@ -12,7 +12,7 @@ jobs:
       - run: pip install pandas jinja2
       - name: List Contribute data files
         run: ls ${{ github.workspace }}/Contribute
-      - run: python Scripts/check_inputs.yml
+      - run: python Scripts/check_inputs.py
       - run: python Scripts/check_column_order.py
       - run: python Scripts/check_flows_in_input_flowslists.py
       - run: python Scripts/check_condition_conflicts.py
