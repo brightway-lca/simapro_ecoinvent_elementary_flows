@@ -1,0 +1,31 @@
+name: Upate authors and status after pull request
+on: pull_request
+    types:
+      - closed
+jobs:
+  Merge-New-Mapping:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Setup Python environment
+        uses: actions/setup-python@v4.2.0
+      - run: pip install pandas jinja2
+      - name: List repo directory
+        run: ls ${{ github.workspace }}
+      - name: List Contribute data files
+        run: ls ${{ github.workspace }}/Contribute
+      - run: python Scripts/add_mappings.py
+      - run: python Scripts/add_contributor.py "${{ github.actor }}"
+      - name: Commit changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          add_timestamp: true
+          commit_prefix: "[AUTO]"
+          commit_message: "Update authors list and current status"
+          force: false
+          target_branch: main
+      - run: echo "🍏 This job's status is ${{ job.status }}."
