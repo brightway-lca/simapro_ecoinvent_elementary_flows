@@ -12,7 +12,8 @@ def check_duplicates():
     if any(filename.suffix.lower() == ".json" for filename in LOGS_DIR.iterdir()):
         print("Errors found:")
         for filename in LOGS_DIR.iterdir():
-            pprint(json.load(open(filename)))
+            if filename.suffix.lower() == ".json":
+                pprint(json.load(open(filename)))
 
         sys.exit(1)
 
