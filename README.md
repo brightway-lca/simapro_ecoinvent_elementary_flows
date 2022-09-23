@@ -21,9 +21,13 @@ Our objective is to improve on the UNEP workflow by making the process of creati
 
 ## Workflow
 
-This repository uses Github Actions to merge contributions, and update the documentation (including this file). Specifically:
+We follow the [Github Flow, a workflow based around pull requests](https://docs.github.com/en/get-started/quickstart/github-flow), and use Github actions to do quality assurance. The Github flow documentation covers the basics; to make a contribution here you will need to:
+So, if you want to contribute you need to:
 
-* A contributor forks this repository and adds their mapping contribution as a new CSV file in the `Contribute` directory. Ideally these constributions will be generated programmatically, either via a Jupyter Notebook (added to `Notebooks`) or a script (added to `Scripts`).
+* Write some code to create CSVs following the [Output flow mapping](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources/blob/master/Formats/FlowMapping.md) format. You can also do mappings manually, though we would prefer you to automate this as much as possible, so that we can easily change or regenerate the mappings if needed. The repo includes a [template for doing matching](https://github.com/brightway-lca/simapro_ecoinvent_elementary_flows/blob/main/Notebooks/Template%20matching%20notebook.ipynb), and the folder `Notebooks` includes matching notebooks that have been incorporated into the current data.
+* However you generate it, you must create a CSV with new mappings **in the `Contribute` directory**.
+* Create a pull request, using the `new_mapping` template. Make sure you have done the tasks given in the template; you can always update your pull request with new commits!
+A contributor forks this repository and adds their mapping contribution as a new CSV file in the `Contribute` directory. Ideally these contributions will be generated programmatically, either via a Jupyter Notebook (added to `Notebooks`) or a script (added to `Scripts`).
 * They create a pull request, which triggers Github Actions which check the validity of their mapping file, and checks whether the new mappings contradict existing mappings. If there are errors, an error log is created and attached to the pull request.
 * If the pull request is accepted, a separate set of Github Actions are run which merge the new mappings into `Mapping/Output/Mapped_files`, and updates the `README.md` file and status reports.
 
