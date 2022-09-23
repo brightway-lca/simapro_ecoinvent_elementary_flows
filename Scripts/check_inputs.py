@@ -19,7 +19,7 @@ REQUIRED_COLUMNS = {
     "TargetUnit",
 }
 OPTIONAL_COLUMNS = {
-    "ConversionFactor"
+    "ConversionFactor",
     "MatchCondition",
     "Mapper",
     "Verifier",
