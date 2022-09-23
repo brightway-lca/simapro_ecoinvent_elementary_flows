@@ -23,7 +23,7 @@ def check_flows_in_input_flowslists():
         for _, row in ecoinvent_df.iterrows()
     }
     simapro_set = {
-        (row["Flow UUID"], row["Flowable"], row["Context"], row["Unit"])
+        (row["Flow UUID"], row["Flowable"], row["Unit"])
         for _, row in simapro_df.iterrows()
     }
 
@@ -37,7 +37,6 @@ def check_flows_in_input_flowslists():
                 (
                     row["SourceFlowUUID"],
                     row["SourceFlowName"],
-                    row["SourceFlowContext"],
                     row["SourceUnit"],
                 )
                 for _, row in df.iterrows()
