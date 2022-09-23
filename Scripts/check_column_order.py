@@ -12,6 +12,7 @@ COLUMN_ORDER = [
     "SourceFlowContext",
     "SourceUnit",
     "MatchCondition",
+    "ConversionFactor",
     "TargetListName",
     "TargetFlowName",
     "TargetFlowUUID",
@@ -36,8 +37,10 @@ def check_column_order():
     for filename in CONTRIBUTE_DIR.iterdir():
         if filename.suffix.lower() == ".csv":
             df = pd.read_csv(CONTRIBUTE_DIR / filename)
-            if list(df.columns) != COLUMN_ORDER:
-                df = df[COLUMN_ORDER]
+            USED_COLUMNS = [column for column in COLUMN_ORDER if column in df.columns]
+
+            if list(df.columns) != USED_COLUMNS:
+                df = df[USED_COLUMNS]
                 df.to_csv(filename, index=False)
 
 
