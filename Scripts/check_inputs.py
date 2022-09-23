@@ -6,18 +6,21 @@ import pandas as pd
 BASE_DIR = Path(__file__).parent.parent.resolve()
 CONTRIBUTE_DIR = BASE_DIR / "Contribute"
 LOGS_DIR = BASE_DIR / "Logs"
-EXPECTED_COLUMNS = {
+REQUIRED_COLUMNS = {
     "SourceListName",
     "SourceFlowName",
     "SourceFlowUUID",
     "SourceFlowContext",
     "SourceUnit",
-    "MatchCondition",
     "TargetListName",
     "TargetFlowName",
     "TargetFlowUUID",
     "TargetFlowContext",
     "TargetUnit",
+}
+OPTIONAL_COLUMNS = {
+    "ConversionFactor"
+    "MatchCondition",
     "Mapper",
     "Verifier",
     "LastUpdated",
@@ -26,6 +29,7 @@ EXPECTED_COLUMNS = {
     "MemoSource",
     "MemoTarget",
 }
+ALLOWED_COLUMNS = REQUIRED_COLUMNS.union(OPTIONAL_COLUMNS)
 
 
 def check_inputs():
@@ -39,16 +43,16 @@ def check_inputs():
     for filename in CONTRIBUTE_DIR.iterdir():
         if filename.suffix.lower() == ".csv":
             df = pd.read_csv(CONTRIBUTE_DIR / filename)
-            if set(df.columns).symmetric_difference(EXPECTED_COLUMNS):
+            if set(df.columns).symmetric_difference(REQUIRED_COLUMNS).difference(OPTIONAL_COLUMNS):
                 errors.append(
                     {
                         "message": "Incorrect columns",
                         "filename": filename.name,
                         "extra columns": sorted(
-                            set(df.columns).difference(EXPECTED_COLUMNS)
+                            set(df.columns).difference(ALLOWED_COLUMNS)
                         ),
                         "missing columns": sorted(
-                            EXPECTED_COLUMNS.difference(set(df.columns))
+                            REQUIRED_COLUMNS.difference(set(df.columns))
                         ),
                     }
                 )
