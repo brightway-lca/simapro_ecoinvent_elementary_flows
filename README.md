@@ -55,16 +55,16 @@ Here is our current mapping for different base `Context` values
 
 #### Water
 
-    | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
-    | ----------------- | --------------- | -------------------------------------- |
-    | water/fossil well | Emissions to water/groundwater, long-term | ~ |
-    | water/ground- | Emissions to water/groundwater | = |
-    | water/ground-, long-term | Emissions to water/groundwater, long-term | = |
-    | water/ocean | Emissions to water/ocean | = |
-    | water/surface water | Emissions to water/lake | < |
-    | water/surface water | Emissions to water/river | < |
-    | water/surface water | Emissions to water/river, long-term | < |
-    | water/unspecified | Emissions to water/(unspecified) | = |
+| ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
+| ----------------- | --------------- | -------------------------------------- |
+| water/fossil well | Emissions to water/groundwater, long-term | ~ |
+| water/ground- | Emissions to water/groundwater | = |
+| water/ground-, long-term | Emissions to water/groundwater, long-term | = |
+| water/ocean | Emissions to water/ocean | = |
+| water/surface water | Emissions to water/lake | < |
+| water/surface water | Emissions to water/river | < |
+| water/surface water | Emissions to water/river, long-term | < |
+| water/unspecified | Emissions to water/(unspecified) | = |
 
 ## Contributing
 
