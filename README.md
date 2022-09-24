@@ -19,7 +19,54 @@ Translating across nomenclature lists is an eternal problem in many problem doma
 
 Our objective is to improve on the UNEP workflow by making the process of creating the mappings transparent and open to any one who wants to contribute. In addition to other benefits, this should also make future updates easier.
 
-## Workflow
+### Simapro `Context` values
+
+To the best of our understanding, the elementary flow list provided by PRé uses a different model for the `Context` value than what is used in ecoinvent. For one thing, they have one UUID for flows, regardless of the subcategory `Context` values. Indeed, the master data list includes only the base `Category` values, namely:
+
+* 'Airborne emissions'
+* 'Economic issues'
+* 'Emissions to soil'
+* 'Final waste flows'
+* 'Non material emissions'
+* 'Raw materials'
+* 'Social issues'
+* 'Waterborne emissions'
+
+They also use slightly different names for these base `Context` values, e.g. for `Airborne emissions`:
+
+* In the master flow list: Airborne emissions
+* In an LCI file: Emissions to air
+* In an LCIA file: Air
+
+We use the LCI file version, as this is the most common use case for data conversion. These are (again, to the best of our knowledge):
+
+* Emissions to air
+* Economic issues
+* Emissions to soil
+* Final waste flows
+* Non material emissions
+* Resources
+* Social issues
+* Emissions to water
+
+### `Context` mapping
+
+Here is our current mapping for different base `Context` values
+
+#### Water
+
+    | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
+    | ----------------- | --------------- | -------------------------------------- |
+    | water/fossil well | Emissions to water/groundwater, long-term | ~ |
+    | water/ground- | Emissions to water/groundwater | = |
+    | water/ground-, long-term | Emissions to water/groundwater, long-term | = |
+    | water/ocean | Emissions to water/ocean | = |
+    | water/surface water | Emissions to water/lake | < |
+    | water/surface water | Emissions to water/river | < |
+    | water/surface water | Emissions to water/river, long-term | < |
+    | water/unspecified | Emissions to water/(unspecified) | = |
+
+## Contributing
 
 We follow the [Github Flow, a workflow based around pull requests](https://docs.github.com/en/get-started/quickstart/github-flow), and use Github actions to do quality assurance. The Github flow documentation covers the basics; to make a contribution here you will need to:
 So, if you want to contribute you need to:
