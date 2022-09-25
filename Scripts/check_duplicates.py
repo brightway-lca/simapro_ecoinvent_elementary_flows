@@ -28,7 +28,7 @@ def check_duplicates():
 
     existing = {
         tuple([row[field] for field in FIELDS])
-        for row in pd.read_csv(
+        for _, row in pd.read_csv(
             MAPPED_FILES_DIR / "SimaProv94-ecoinventEFv3.7.csv"
         ).iterrows()
     }
