@@ -104,7 +104,7 @@ Contributions should come as pull requests from named branches. So, you should:
 ## Maintainers
 
 * [Chris Mutel](https://github.com/cmutel/)
-* [Tomás Navarrete](https://github.com/tngtudor)
+* [Tomás Navarrete Gutiérrez](https://github.com/tngtudor)
 
 ## License
 
