@@ -1,7 +1,7 @@
 name: Upate authors and status after pull request
-on: pull_request
-  types:
-    - closed
+on: 
+  pull_request:
+    types: [closed]
 jobs:
   Merge-New-Mapping:
     if: github.event.pull_request.merged == true
