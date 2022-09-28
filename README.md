@@ -53,6 +53,12 @@ We use the LCI file version, as this is the most common use case for data conver
 
 Here is our current mapping for different base `Context` values
 
+#### Resources
+
+| ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
+| ----------------- | --------------- | -------------------------------------- |
+| natural resource/land | Resources/land | = |
+
 #### Water
 
 | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
@@ -65,6 +71,17 @@ Here is our current mapping for different base `Context` values
 | water/surface water | Emissions to water/river | < |
 | water/surface water | Emissions to water/river, long-term | < |
 | water/unspecified | Emissions to water/(unspecified) | = |
+
+#### Air
+
+| ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
+| ----------------- | --------------- | -------------------------------------- |
+| air/indoor | Emissions to air/indoor | = |
+| air/low population density, long-term | Emissions to air/low. pop., long-term | = |
+| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere + troposphere | = |
+| air/non-urban air or from high stacks | Emissions to air/low. pop. | = |
+| air/unspecified | Emissions to air/(unspecified) | = |
+| air/urban air close to ground | Emissions to air/high. pop. | = |
 
 ## Contributing
 
