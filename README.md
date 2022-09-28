@@ -97,7 +97,7 @@ A contributor forks this repository and adds their mapping contribution as a new
 
 ## Status
 
-Current status is reported in
+Current status is reported in [status.md](status.md)
 
 ## Contributing
 
