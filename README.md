@@ -83,6 +83,15 @@ Here is our current mapping for different base `Context` values
 | air/unspecified | Emissions to air/(unspecified) | = |
 | air/urban air close to ground | Emissions to air/high. pop. | = |
 
+#### Soil
+
+| ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
+| ----------------- | --------------- | -------------------------------------- |
+| soil/agricultural |  Emissions to soil/agricultural | = |
+| soil/forestry |  Emissions to soil/forestry | = |
+| soil/industrial |  Emissions to soil/industrial | = |
+| soil/unspecified |  Emissions to soil/(unspecified) | = |
+
 ## Contributing
 
 We follow the [Github Flow, a workflow based around pull requests](https://docs.github.com/en/get-started/quickstart/github-flow), and use Github actions to do quality assurance. The Github flow documentation covers the basics; to make a contribution here you will need to:
