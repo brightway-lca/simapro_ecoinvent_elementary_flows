@@ -18,10 +18,12 @@ def run():
     mask = ~df_inputs_sp['Flow UUID'].isin(set(df_mapped.SourceFlowUUID))
     df_unmatched_sp = df_inputs_sp[mask]
     sp_series = df_unmatched_sp.groupby("Context").size().sort_index()
+    sp_series_all = df_inputs_sp.groupby("Context").size()
 
     mask = ~df_inputs_ei['FlowUUID'].isin(set(df_mapped.TargetFlowUUID))
     df_unmatched_ei = df_inputs_ei[mask]
     ei_series = df_unmatched_ei.groupby("Context").size().sort_index()
+    ei_series_all = df_inputs_ei.groupby("Context").size()
 
     with open(BASE_DIR / "Templates" / 'status_template.md') as template_f:
         template = Template(template_f.read())
@@ -30,8 +32,8 @@ def run():
         "total_ei_flows": len(set(df_inputs_ei['FlowUUID'])),
         "matched_sp_flows": len(set(df_mapped.SourceFlowUUID)),
         "total_sp_flows": len(set(df_inputs_sp['Flow UUID'])),
-        "unmatched_ei_table": list(zip(ei_series.index, ei_series)),
-        "unmatched_sp_table": list(zip(sp_series.index, sp_series)),
+        "unmatched_ei_table": [(label, ei_series.at[label], ei_series_all.at[label]) for label in ei_series.index],
+        "unmatched_sp_table": [(label, sp_series.at[label], sp_series_all.at[label]) for label in sp_series.index],
     })
     with open('status.md', "w+") as status_file:
         status_file.write(output)
