@@ -23,9 +23,9 @@ jobs:
         uses: devops-infra/action-commit-push@master
         with:
           github_token: "${{ secrets.GITHUB_TOKEN }}"
-          add_timestamp: true
+          add_timestamp: false
           commit_prefix: "[AUTO]"
           commit_message: "Update authors list and current status"
           force: false
-          target_branch: main
+          # target_branch: main - According to readme this forces creation of new branch
       - run: echo "🍏 This job's status is ${{ job.status }}."
