@@ -23,5 +23,11 @@ def add_mappings():
     ).to_csv(MAPPED_FILES_DIR / "SimaProv94-ecoinventEFv3.7.csv", index=False)
 
 
+def archive_contributions():
+    for file in CONTRIBUTE_DIR.glob("*.csv"):
+        file.rename(CONTRIBUTE_DIR / "Archive" / file.name)
+
+
 if __name__ == "__main__":
     add_mappings()
+    archive_contributions()
