@@ -1,2 +1,3 @@
 pandas
-jinja
+jinja2
+jupyter

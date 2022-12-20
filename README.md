@@ -1,6 +1,6 @@
 # simapro_ecoinvent_elementary_flows
 
-This repository is a openly-developed and openly-available mapping of the elementary flow lists of ecoinvent 3.8 and SimaPro 9.4.
+This repository is a openly-developed and openly-available mapping of the elementary flow lists of ecoinvent 3.7 and SimaPro 9.4.
 
 ## Table of Contents
 
