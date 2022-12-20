@@ -6,13 +6,13 @@ CSV files with unmatched flows are in `Mapping/Output/Unmatched`.
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 2821 | 1489 | 4310 |
+| 3731 | 579 | 4310 |
 
 ## SimaPro flows
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 699 | 12604 | 13303 |
+| 1478 | 11825 | 13303 |
 
 ## Unmatched ecoinvent flows by context
 
@@ -27,13 +27,13 @@ CSV files with unmatched flows are in `Mapping/Output/Unmatched`.
 | natural resource/biotic | 9 | 9 |
 | natural resource/fossil well | 1 | 1 |
 | natural resource/in air | 9 | 9 |
-| natural resource/in ground | 232 | 232 |
+| natural resource/in ground | 67 | 232 |
 | natural resource/in water | 17 | 17 |
-| natural resource/land | 182 | 182 |
-| soil/agricultural | 499 | 499 |
-| soil/forestry | 45 | 45 |
-| soil/industrial | 48 | 48 |
-| soil/unspecified | 54 | 54 |
+| natural resource/land | 40 | 182 |
+| soil/agricultural | 36 | 499 |
+| soil/forestry | 2 | 45 |
+| soil/industrial | 2 | 48 |
+| soil/unspecified | 3 | 54 |
 | water/ground- | 44 | 300 |
 | water/ground-, long-term | 38 | 268 |
 | water/ocean | 42 | 279 |
@@ -47,9 +47,9 @@ CSV files with unmatched flows are in `Mapping/Output/Unmatched`.
 | --- | --- | --- |
 | Airborne emissions | 4563 | 4952 |
 | Economic issues | 7 | 7 |
-| Emissions to soil | 3618 | 3618 |
+| Emissions to soil | 3146 | 3618 |
 | Final waste flows | 135 | 135 |
 | Non material emissions | 12 | 12 |
-| Raw materials | 714 | 714 |
+| Raw materials | 407 | 714 |
 | Social issues | 19 | 19 |
 | Waterborne emissions | 3536 | 3846 |
