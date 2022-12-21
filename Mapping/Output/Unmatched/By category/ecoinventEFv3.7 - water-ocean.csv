@@ -1,0 +1,43 @@
+Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
+2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,water/ocean,b5a8e697-f5ac-413f-828c-51f6aace2e36,,,513-35-9
+"Acrylate, ion",000079-10-7,,,kg,chemical,,,water/ocean,6446e9ba-9cdd-410e-aae3-41d71d971750,,,
+"Arsenic, ion",017428-41-0,,,kg,chemical,,,water/ocean,d70b4182-d633-4178-84c0-8854f5f6594b,,,
+"BOD5, Biological Oxygen Demand",,,,kg,other,,,water/ocean,f012d2d5-ebb4-4531-8285-0b98af3dcbd4,,,
+Boron carbide,012069-32-8,,,kg,chemical,,,water/ocean,965244c8-43ad-4629-91df-43c845d391e5,,,12316-49-3; 12069-32-8
+Butanol,000071-36-3,,,kg,chemical,,,water/ocean,20c6c6d7-904c-4d33-923e-80e8ae7ee199,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
+"Cadmium, ion",022537-48-0,,,kg,chemical,,,water/ocean,62fcd384-906d-474f-a84b-9f944b78f804,,,
+"Calcium, ion",014127-61-8,,,kg,chemical,,,water/ocean,55bf893f-0d89-429c-be59-2f99b33ddb11,,,
+"Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,water/ocean,d9de01f7-815c-4946-b10f-02972805260a,,,
+"Chromium, ion",016065-83-1,,,kg,chemical,,,water/ocean,d98f0ec0-bf19-4c90-a457-a8593dec497f,,,
+"COD, Chemical Oxygen Demand",,,,kg,other,,,water/ocean,ec76fb5c-b402-416b-825c-53e074fe7525,,,
+"Copper, ion",017493-86-6,,,kg,chemical,,,water/ocean,d8f9ccf6-fd32-4348-83c0-1cee724af9ae,,,
+Diborane,019287-45-7,,,kg,chemical,,,water/ocean,16176f2c-6c9e-447b-99fb-e2f1d651c849,,,14452-61-0; 19287-45-7
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,water/ocean,d069e5a1-c3c0-4513-9fa5-ff3ebe687ea7,,,
+"Discarded fish, demersal, to ocean",,,,kg,biological,,,water/ocean,61505469-d82e-4f73-9ac6-bb6910038c26,,,
+"Discarded fish, pelagic, to ocean",,,,kg,biological,,,water/ocean,68e3130c-7c4b-4825-a383-c54410568d5d,,,
+Dissolved solids,,,,kg,other,,,water/ocean,901a459c-9a1c-46a0-a785-6ec01a33b04f,,,
+Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,water/ocean,8e159def-c94d-4400-bde2-9b936315d183,,,110-80-5
+Fluoboric acid,016872-11-0,,,kg,chemical,,,water/ocean,969e148a-eeb1-4d37-b388-8cee13212281,,,16872-11-0
+"Iron, ion",015438-31-0,,,kg,chemical,,,water/ocean,2c9a7182-37c8-4777-a37a-9a007c3edb2f,,,
+Krypton-85,013983-27-2,,,kBq,chemical,,,water/ocean,30614997-3952-4e2a-bde2-4bce2cada098,,,13983-27-2
+"Lithium, ion",017341-24-1,,,kg,chemical,,,water/ocean,cf88e72e-13bc-416c-ac41-7d4b24bda86a,,,17341-24-1
+"Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,water/ocean,773583cc-a2f6-4912-87b5-0555aeb4e0fc,,,
+Methyl amine,000074-89-5,CH5N,,kg,chemical,,,water/ocean,cf931265-6fad-44f1-a6ab-3c53dd21f9c3,,,74-89-5
+Methyl borate,000121-43-7,,,kg,chemical,,,water/ocean,25577c13-5625-41cf-a921-9e82f81d2131,,,1212-43-7; 3349-42-6; 121-43-7
+Monochloroethane,000075-00-3,,,kg,chemical,,,water/ocean,944e2b6d-7a4e-4d37-875d-12e9ab746375,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
+"Nickel, ion",014701-22-5,,,kg,chemical,,,water/ocean,23cb10a4-6228-4ce4-9fb5-7043bc31faec,,,
+o-Dichlorobenzene,000095-50-1,,,kg,chemical,,,water/ocean,d0caddde-f101-4d86-9beb-d46d2d430eb0,,,24634-92-2; 95-50-1; 95-50-1
+"Oils, non-fossil",,,,kg,group,,,water/ocean,ae8a126c-b807-4e88-88e8-e7f46d098301,,,
+"Perchlorate, ion",014797-73-0,,,kg,chemical,,,water/ocean,de333139-a26f-42de-ba1b-c7c24c2964bc,,,
+"Potassium, ion",024203-36-9,,,kg,chemical,,,water/ocean,297cc04f-e215-433c-ae3b-d1e34464c785,,,
+Propanol,000071-23-8,,"propan-1-ol, 1-propanol, propyl alcohol, n-propanol, n-propyl alcohol",kg,chemical,,,water/ocean,1f5c895e-f17c-4e2e-ba55-368273bdcf21,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
+"Radioactive species, from fission and activation",,,,kBq,group,,,water/ocean,cd13af82-bcbf-4c27-bbf5-f07ed38b6294,,,
+Salt water (obsolete),,,,m3,water,,,water/ocean,91861063-1826-4860-9957-7c5bde5817a6,,,
+"Silver, ion",014701-21-4,,,kg,chemical,,,water/ocean,21c257b2-57ce-4a6e-b4bd-40f0f75f310f,,,
+"Sodium, ion",017341-25-2,,,kg,chemical,,,water/ocean,9310f497-3205-4717-aaa8-1a94c321f7d8,,,
+"Tin, ion",022537-50-4,,,kg,chemical,,,water/ocean,2a992e5e-9f16-47b8-8bcb-733d00bed658,,,
+"Titanium, ion",022541-75-9,,,kg,chemical,,,water/ocean,2beb46d1-2d1d-48ca-bf95-f0668fed29bf,,,15969-58-1
+"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,water/ocean,404f6e56-ea30-47ec-9679-ec3955d287b3,,,
+Trichlorosilane,010025-78-2,,,kg,chemical,,,water/ocean,7e8362c6-7627-4d9c-b035-38e02c3c1625,,,
+"Vanadium, ion",022541-77-1,,,kg,chemical,,,water/ocean,dbdc3ea8-cc2b-4dbe-82b9-e954e333281d,,,
+"Zinc, ion",023713-49-7,,,kg,chemical,,,water/ocean,2195d86f-e4c8-4e86-9f18-b5b065b1df7e,,,

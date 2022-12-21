@@ -9,7 +9,11 @@ MAPPED_FILE = BASE_DIR / "Mapping" / "Output" / "Mapped_files" / "SimaProv94-eco
 INPUTS_EI = BASE_DIR / "Mapping" / "Input" / "Flowlists" / "ecoinventEFv3.7.csv"
 INPUTS_SP = BASE_DIR / "Mapping" / "Input" / "Flowlists" / "SimaProv9.4.csv"
 
-    
+UNMATCHED_DIR = BASE_DIR / "Mapping" / "Output" / "Unmatched"
+UNMATCHED_DIR.mkdir(exist_ok=True)
+BY_CATEGORY = UNMATCHED_DIR / "By category"
+BY_CATEGORY.mkdir(exist_ok=True)
+
 def run():
     df_mapped = pd.read_csv(MAPPED_FILE)
     df_inputs_ei = pd.read_csv(INPUTS_EI)
@@ -24,6 +28,17 @@ def run():
     df_unmatched_ei = df_inputs_ei[mask]
     ei_series = df_unmatched_ei.groupby("Context").size().sort_index()
     ei_series_all = df_inputs_ei.groupby("Context").size()
+
+    df_unmatched_sp.to_csv(UNMATCHED_DIR / "SimaProv9.4.csv", index=False)
+    df_unmatched_ei.to_csv(UNMATCHED_DIR / "ecoinventEFv3.7.csv", index=False)
+
+    for label in df_unmatched_sp.groupby("Context").size().index:
+        filtered_dp = df_unmatched_sp[df_unmatched_sp.Context == label]
+        filtered_dp.to_csv(BY_CATEGORY / "SimaProv9.4 - {}.csv".format(label.replace("/", "-")), index=False)
+
+    for label in df_unmatched_ei.groupby("Context").size().index:
+        filtered_dp = df_unmatched_ei[df_unmatched_ei.Context == label]
+        filtered_dp.to_csv(BY_CATEGORY / "ecoinventEFv3.7 - {}.csv".format(label.replace("/", "-")), index=False)
 
     with open(BASE_DIR / "Templates" / 'status_template.md') as template_f:
         template = Template(template_f.read())

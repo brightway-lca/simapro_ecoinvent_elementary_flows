@@ -1,0 +1,13 @@
+Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
+Noise from bus km,,,Noise from bus km,km,Non material emissions,Non material emissions,B0F2CBA1-5759-46B4-A3D2-F552F285C537,
+Noise from other vehicle km,,,Noise from other vehicle km,km,Non material emissions,Non material emissions,BE5A1139-79D1-4716-B5D6-2CB0794D4198,
+Noise from tractor km,,,Noise from tractor km,km,Non material emissions,Non material emissions,8EA46344-24B8-4CB6-9EAA-781E3D1D1612,
+Noise from truck km,,,Noise from truck km,km,Non material emissions,Non material emissions,22609EFA-BAF9-41C5-8563-4C20C897DE8C,
+Noise from van km,,,Noise from van km,km,Non material emissions,Non material emissions,B0A2C1FA-B02C-470C-8105-927433FBA816,
+"Noise, aircraft, freight",,,"Noise, aircraft, freight",tkm,Non material emissions,Non material emissions,2923EDA5-649B-48E3-AD1A-9E2AA95DF03C,
+"Noise, aircraft, passenger",,,"Noise, aircraft, passenger",personkm,Non material emissions,Non material emissions,DAD5C46A-9EB0-45CF-BDF5-B78B7F28F350,
+"Noise, rail, freight train",,,"Noise, rail, freight train",tkm,Non material emissions,Non material emissions,511A7E99-15F4-4C36-BE8F-1A86B0AEF46B,
+"Noise, rail, passenger train, average",,,"Noise, rail, passenger train, average",personkm,Non material emissions,Non material emissions,66CFDE8E-F3F5-4090-AC9B-016ADD4CF1D5,
+"Noise, road, lorry, average",,,"Noise, road, lorry, average",km,Non material emissions,Non material emissions,A3015799-2C89-4CFA-8947-15C72C77DDF5,
+"Noise, road, passenger car, average",,,"Noise, road, passenger car, average",km,Non material emissions,Non material emissions,0D3E5E9C-E7B0-49E9-A1F9-313E25B7A021,
+Vehicle noise,,,Vehicle noise,km,Non material emissions,Non material emissions,6C2C6EDE-35B1-443F-B33F-9BC04724C28F,

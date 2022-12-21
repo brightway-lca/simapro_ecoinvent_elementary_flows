@@ -1,0 +1,10 @@
+Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
+"Energy, gross calorific value, in biomass",,,,MJ,energy,,,natural resource/biotic,01c12fca-ad8b-4902-8b48-2d5afe3d3a0f,,,
+"Energy, gross calorific value, in biomass, primary forest",,,,MJ,energy,,,natural resource/biotic,8842042d-7f07-45f8-bf43-fa83833d75de,,,
+"Fish, demersal, in ocean",,,,kg,biological,,,natural resource/biotic,55219a64-a6ed-4675-9210-7ed14c82a05f,,,
+"Fish, pelagic, in ocean",,,,kg,biological,,,natural resource/biotic,d22719d0-8afd-45d3-b9eb-222112f84cc7,,,
+"Peat, in ground",,,,kg,fossil?,,,natural resource/biotic,c5035ce2-5ee5-431f-a287-4b25da42be74,,,
+"Wood, hard, standing",,,,m3,biological,,,natural resource/biotic,bac875f4-75fb-4dde-841a-b07d3a41bcd1,,,
+"Wood, primary forest, standing",,,,m3,biological,,,natural resource/biotic,28528881-7154-48d5-9cc3-5c13ddcdc47a,,,
+"Wood, soft, standing",,,,m3,biological,,,natural resource/biotic,b073ec00-a5bf-4b64-bda0-ef366a3ac9bb,,,
+"Wood, unspecified, standing",,,,m3,biological,,,natural resource/biotic,23e83c1f-07c9-4b5f-a898-0f4f09a6691f,,,
