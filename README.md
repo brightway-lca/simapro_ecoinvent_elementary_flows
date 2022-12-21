@@ -19,6 +19,10 @@ Translating across nomenclature lists is an eternal problem in many problem doma
 
 Our objective is to improve on the UNEP workflow by making the process of creating the mappings transparent and open to any one who wants to contribute. In addition to other benefits, this should also make future updates easier.
 
+## Status
+
+Current status is reported in [status.md](status.md)
+
 ### Simapro `Context` values
 
 To the best of our understanding, the elementary flow list provided by PRé uses a different model for the `Context` value than what is used in ecoinvent. For one thing, they have one UUID for flows, regardless of the subcategory `Context` values. Indeed, the master data list includes only the base `Category` values, namely:
@@ -103,10 +107,6 @@ So, if you want to contribute you need to:
 A contributor forks this repository and adds their mapping contribution as a new CSV file in the `Contribute` directory. Ideally these contributions will be generated programmatically, either via a Jupyter Notebook (added to `Notebooks`) or a script (added to `Scripts`).
 * They create a pull request, which triggers Github Actions which check the validity of their mapping file, and checks whether the new mappings contradict existing mappings. If there are errors, an error log is created and attached to the pull request.
 * If the pull request is accepted, a separate set of Github Actions are run which merge the new mappings into `Mapping/Output/Mapped_files`, and updates the `README.md` file and status reports.
-
-## Status
-
-Current status is reported in [status.md](status.md)
 
 ## Contributing
 
