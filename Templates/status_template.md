@@ -1,6 +1,6 @@
 # Current status of the matching
 
-CSV files with unmatched flows are in `Mapping/Output/Unmatched`.
+CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://github.com/brightway-lca/simapro_ecoinvent_elementary_flows/tree/main/Mapping/Output/Unmatched).
 
 ## ecoinvent flows
 
