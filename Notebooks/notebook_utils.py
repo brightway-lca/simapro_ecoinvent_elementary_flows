@@ -191,6 +191,21 @@ def expand_simapro_context(df: pd.DataFrame, kind: str = "air"):
         expander = pd.DataFrame(zip(CONTEXTS, itertools.repeat("Emissions to soil")), columns=["Context", "ParentContext"])
         df = df.merge(expander, how="outer", on="ParentContext")
         return df
+    elif kind == "resources":
+        df = df[df.Context == "Raw materials"]
+        CONTEXTS = [
+            'Resources/land',
+            'Resources/(unspecified)',
+            'Resources/biotic',
+            'Resources/in ground',
+            'Resources/in air',
+            'Resources/in water',
+            'Resources/fossil well',
+        ]
+        df = df.rename(columns={"Context": "ParentContext"})
+        expander = pd.DataFrame(zip(CONTEXTS, itertools.repeat("Raw materials")), columns=["Context", "ParentContext"])
+        df = df.merge(expander, how="outer", on="ParentContext")
+        return df
     else:
         raise ValueError
 
@@ -226,6 +241,17 @@ def add_ecoinvent_context_column(df: pd.DataFrame, label: str, kind: str = "air"
             ('Emissions to soil/forestry', 'soil/forestry'),
             ('Emissions to soil/industrial', 'soil/industrial'),
             ('Emissions to soil/urban, non industrial', 'soil/industrial'),
+        ], columns=["Context", label])
+        return df.merge(expander, how="left", on="Context")
+    elif kind == "resources":
+        expander = pd.DataFrame([
+            ('Resources/(unspecified)', 'natural resource/unspecified'),
+            ('Resources/biotic', 'natural resource/biotic'),
+            ('Resources/fossil well', 'natural resource/in water'),
+            ('Resources/in air', 'natural resource/in air'),
+            ('Resources/in ground', 'natural resource/in ground'),
+            ('Resources/in water', 'natural resource/in water'),
+            ('Resources/land', 'natural resource/land'),
         ], columns=["Context", label])
         return df.merge(expander, how="left", on="Context")
     else:
