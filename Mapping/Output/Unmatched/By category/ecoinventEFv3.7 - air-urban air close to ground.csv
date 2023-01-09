@@ -1,28 +1,12 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-2-Methyl pentane,000107-83-5,C6H14,Isohexane,kg,chemical,,,air/urban air close to ground,d5649872-502b-4d23-b882-26d74a9fc4b4,,,107-83-5
-2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,air/urban air close to ground,79a87f98-0b00-4e7e-86f8-70667307f696,,,513-35-9
-"Benzene, dichloro",000095-50-1,,,kg,chemical,,,air/urban air close to ground,9645e02f-855a-4b9f-8baf-f34a08fa80c4,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,air/urban air close to ground,8aaf5a8b-b753-4d4b-8fe7-2f4969147738,,,12316-49-3; 12069-32-8
-Butanol,000071-36-3,,,kg,chemical,,,air/urban air close to ground,efc4290c-1404-4e01-8b5e-e75c6d90615c,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 Calcium hydroxide,001305-62-0,,,kg,chemical,,,air/urban air close to ground,03c9b5ac-a8f1-4a10-a0a5-b01f699545d1,,,1305-62-0
 Cyclohexane (for all cycloalkanes),000110-82-7,C6H12,,kg,group,,,air/urban air close to ground,2a042136-80fd-4c1c-8996-65a7985497d3,,,
 Diborane,019287-45-7,,,kg,chemical,,,air/urban air close to ground,febe9ac2-ab48-4351-97cb-afcea765d411,,,14452-61-0; 19287-45-7
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,air/urban air close to ground,237a5f15-8119-472a-8988-88b7ecb42405,,,
-Elemental carbon,007440-44-0,C,,kg,chemical,,,air/urban air close to ground,57af157e-2054-407d-949b-8cc9c2aa4655,,,
-Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,air/urban air close to ground,ffa34df1-d949-48e3-b602-183eee5df605,,,110-80-5
-"Methane, chloro-fluoro-, HCFC-31",000593-70-4,,,kg,chemical,,,air/urban air close to ground,5fa05c4f-8766-41ff-9dd1-fa47c0b7ea48,,,
-"Methane, tetrachloro-, R-10",000056-23-5,,Freon 10,kg,chemical,,,air/urban air close to ground,5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,,,
-"Methane, tetrafluoro-, R-14",000075-73-0,,,kg,chemical,,,air/urban air close to ground,dfe1da1e-7756-4f7e-a393-6d5e2342a962,,,
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/urban air close to ground,7238734e-18ef-4759-914d-61e9ed11bd4e,,,74-89-5
-Monochloroethane,000075-00-3,,,kg,chemical,,,air/urban air close to ground,f3f34697-7231-4575-aaf5-e35b972d329a,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
 "NMVOC, non-methane volatile organic compounds, unspecified origin",,,,kg,group,,,air/urban air close to ground,175baa64-d985-4c5e-84ef-67cc3a1cf952,,,
-o-Nitrotoluene,000088-72-2,,"o-Mononitrotoluene, o-methylnitrobenzene, 2-nitrotoluene, ONT",kg,chemical,,,air/urban air close to ground,a4420691-4666-4855-9124-3030ed233407,,,88-72-2
-"Phenol, 2,4-dichloro",000120-83-2,,,kg,chemical,,,air/urban air close to ground,e4f501bb-02e2-4562-be3c-5a047b6d2581,,,
 Potassium chloride,007447-40-7,,,kg,chemical,,,air/urban air close to ground,46b2ddbc-a5b9-451b-842f-3d89d0614d2e,,,14336-88-0; 7447-40-7
 Potassium hydroxide,001310-58-3,,,kg,chemical,,,air/urban air close to ground,38d7e9ef-5bea-4233-aa48-760785d060ed,,,1310-58-3
-Propanol,000071-23-8,,,kg,chemical,,,air/urban air close to ground,4a6af581-af93-4d79-9f45-a5c43f463bbb,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
 "Radiation, electromagnetic",,,,MJ,energy,,,air/urban air close to ground,4f9a751e-5992-40a9-bbd6-18f337ac66c8,,,
 Sodium perchlorate,007601-89-0,,,kg,chemical,,,air/urban air close to ground,c8e91ad0-a019-492d-87d6-5885a8d1258d,,,7601-89-0
-Sodium tetrahydridoborate,016940-66-2,,,kg,chemical,,,air/urban air close to ground,ba317646-ea99-4060-838f-7933b10f0033,,,
-"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,air/urban air close to ground,a3833724-a816-4c9e-b6fd-ac43e8aeedc2,,,
 Trichlorosilane,010025-78-2,,,kg,chemical,,,air/urban air close to ground,68824a06-2815-4202-9f12-efec86f8df89,,,

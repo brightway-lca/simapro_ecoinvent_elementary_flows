@@ -149,7 +149,7 @@ def finish_notebook(
 def expand_simapro_context(df: pd.DataFrame, kind: str = "air"):
     if kind == "air":
         df = df[df.Context == "Airborne emissions"]
-        AIR_CONTEXTS = [
+        CONTEXTS = [
             "Emissions to air/(unspecified)",
             "Emissions to air/indoor",
             "Emissions to air/high. pop.",
@@ -159,9 +159,40 @@ def expand_simapro_context(df: pd.DataFrame, kind: str = "air"):
             "Emissions to air/stratosphere",
         ]
         df = df.rename(columns={"Context": "ParentContext"})
-        expander = pd.DataFrame(zip(AIR_CONTEXTS, itertools.repeat("Airborne emissions")), columns=["Context", "ParentContext"])
+        expander = pd.DataFrame(zip(CONTEXTS, itertools.repeat("Airborne emissions")), columns=["Context", "ParentContext"])
         df = df.merge(expander, how="outer", on="ParentContext")
         return df
+    elif kind == "water":
+        df = df[df.Context == "Waterborne emissions"]
+        CONTEXTS = [
+            "Emissions to water/fossilwater",
+            "Emissions to water/groundwater",
+            "Emissions to water/groundwater, long-term",
+            "Emissions to water/ocean",
+            "Emissions to water/lake",
+            "Emissions to water/river",
+            "Emissions to water/river, long-term",
+            "Emissions to water/(unspecified)"
+        ]
+        df = df.rename(columns={"Context": "ParentContext"})
+        expander = pd.DataFrame(zip(CONTEXTS, itertools.repeat("Waterborne emissions")), columns=["Context", "ParentContext"])
+        df = df.merge(expander, how="outer", on="ParentContext")
+        return df
+    elif kind == "soil":
+        df = df[df.Context == "Emissions to soil"]
+        CONTEXTS = [
+            "Emissions to soil/agricultural",
+            "Emissions to soil/forestry",
+            "Emissions to soil/industrial",
+            "Emissions to soil/urban, non industrial",
+            "Emissions to soil/(unspecified)",
+        ]
+        df = df.rename(columns={"Context": "ParentContext"})
+        expander = pd.DataFrame(zip(CONTEXTS, itertools.repeat("Emissions to soil")), columns=["Context", "ParentContext"])
+        df = df.merge(expander, how="outer", on="ParentContext")
+        return df
+    else:
+        raise ValueError
 
 
 def add_ecoinvent_context_column(df: pd.DataFrame, label: str, kind: str = "air"):
@@ -176,3 +207,26 @@ def add_ecoinvent_context_column(df: pd.DataFrame, label: str, kind: str = "air"
             ("Emissions to air/stratosphere", "air/lower stratosphere + upper troposphere"),
         ], columns=["Context", label])
         return df.merge(expander, how="left", on="Context")
+    elif kind == "water":
+        expander = pd.DataFrame([
+            ("Emissions to water/fossilwater", "water/fossil well"),
+            ("Emissions to water/groundwater", "water/ground-"),
+            ("Emissions to water/groundwater, long-term", "water/ground-, long-term"),
+            ("Emissions to water/ocean", "water/ocean"),
+            ("Emissions to water/lake", "water/surface water"),
+            ("Emissions to water/river", "water/surface water"),
+            ("Emissions to water/river, long-term", "water/surface water"),
+            ("Emissions to water/(unspecified)", "water/unspecified"),
+        ], columns=["Context", label])
+        return df.merge(expander, how="left", on="Context")
+    elif kind == "soil":
+        expander = pd.DataFrame([
+            ('Emissions to soil/(unspecified)', 'soil/unspecified'),
+            ('Emissions to soil/agricultural', 'soil/agricultural'),
+            ('Emissions to soil/forestry', 'soil/forestry'),
+            ('Emissions to soil/industrial', 'soil/industrial'),
+            ('Emissions to soil/urban, non industrial', 'soil/industrial'),
+        ], columns=["Context", label])
+        return df.merge(expander, how="left", on="Context")
+    else:
+        raise ValueError

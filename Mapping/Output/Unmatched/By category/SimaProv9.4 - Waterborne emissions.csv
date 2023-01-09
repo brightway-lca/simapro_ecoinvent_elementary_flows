@@ -20,7 +20,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 1-Bromohexane,000111-25-1,,1-Bromohexane,kg,Waterborne emissions,Waterborne emissions,F39F5F43-27E8-4A87-904A-B0D14757B8A5,
 1-Bromooctane,000111-83-1,,1-Bromooctane,kg,Waterborne emissions,Waterborne emissions,6E604FD4-7473-4DDF-BFB6-820841C2FAA9,
 1-Bromopropane,000106-94-5,,1-Bromopropane,kg,Waterborne emissions,Waterborne emissions,FA8DAA65-86DA-446D-AA40-F3B7886B4DBF,
-1-Butanol,000071-36-3,,1-Butanol,kg,Waterborne emissions,Waterborne emissions,974B2A5E-6F26-43B8-A23A-C600F93FD82E,Formula: C4H10O
 1-butyl-1-nitrosourea,000869-01-2,,1-butyl-1-nitrosourea,kg,Waterborne emissions,Waterborne emissions,2B6315D0-81E7-4F6F-BD74-8498FC486DAA,
 1-Chloro-2-nitro-propane,002425-66-3,,1-Chloro-2-nitro-propane,kg,Waterborne emissions,Waterborne emissions,54FCFFF7-6DDE-437E-9368-D7B75679E6BD,
 1-Chloro-2-propanol,000127-00-4,,1-Chloro-2-propanol,kg,Waterborne emissions,Waterborne emissions,622ED6D5-26F8-410D-8455-885112EC20A9,
@@ -75,7 +74,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "1-Piperidinyloxy, 2,2,6,6-tetramethyl-4-oxo-",002896-70-0,,"1-Piperidinyloxy, 2,2,6,6-tetramethyl-4-oxo-",kg,Waterborne emissions,Waterborne emissions,03D57B55-075B-4AB2-A2C7-741320A1B348,
 "1-Piperoyl-(e,e)-piperidine",000094-62-2,,"1-Piperoyl-(e,e)-piperidine",kg,Waterborne emissions,Waterborne emissions,80252C20-DFB2-45C1-BCF5-8AB5ADFF8D86,
 1-Propanethiol,000107-03-9,,1-Propanethiol,kg,Waterborne emissions,Waterborne emissions,B70760BA-A9F3-4489-AA9D-501DC1831263,
-1-Propanol,000071-23-8,,1-Propanol,kg,Waterborne emissions,Waterborne emissions,8C31919B-2D42-4CAD-A10E-8084CCD6BE99,Formula: C3H8O
 "1-Propanol, 2-chloro-, phosphate (3:1)",006145-73-9,,"1-Propanol, 2-chloro-, phosphate (3:1)",kg,Waterborne emissions,Waterborne emissions,F3FCFAE4-67A7-4275-A288-FF310489D64D,CAS number: 006145-73-9Formula: C9H18Cl3O4P
 "1-Propanone, 1-(4-aminophenyl)-",000070-69-9,,"1-Propanone, 1-(4-aminophenyl)-",kg,Waterborne emissions,Waterborne emissions,E1F3874C-4FFE-4F67-9823-9EF75DEE709C,
 "1-Propene, 3,3-diethoxy-",003054-95-3,,"1-Propene, 3,3-diethoxy-",kg,Waterborne emissions,Waterborne emissions,AAEEFDC6-FB5A-4349-96DF-30A5F9A9037D,
@@ -268,7 +266,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 2-Butenal,004170-30-3,,2-Butenal,kg,Waterborne emissions,Waterborne emissions,6B8A5FD6-ADF2-4BFE-AA91-1720DD6192CF,"Formula: C4H6O Synonyms: beta-methylacrolein; But-2-enal; Butenal; crotonal; Crotonaldehyde; CROTONALDEHYDE, INHIBITED; Crotonic aldehyde; methyl acrolein; topanel"
 "2-Butenal, 3-methyl-",000107-86-8,,"2-Butenal, 3-methyl-",kg,Waterborne emissions,Waterborne emissions,1B38B5FA-87A0-4595-8BD2-C0A9BCB3AA50,
 "2-Butene, 1,4-dichloro-",000764-41-0,,"2-Butene, 1,4-dichloro-",kg,Waterborne emissions,Waterborne emissions,0CB359BC-E46B-4DE8-B58E-84D4015D047C,"Formula: C4H6Cl2 Synonyms: 1,4-dichloro-2-Butene; 1,4-dichlorobut-2-ene; 1,4-Dichlorobutene-2; "
-"2-Butene, 2-methyl-",000513-35-9,,"2-Butene, 2-methyl-",kg,Waterborne emissions,Waterborne emissions,9717FD0A-D87C-4C17-8365-A6CBF53909AD,
 "2-Butenedioic acid (e)-, dibutyl ester",000105-75-9,,"2-Butenedioic acid (e)-, dibutyl ester",kg,Waterborne emissions,Waterborne emissions,FFFD09FA-F9CC-4847-8C39-BFA234C9D15D,
 "2-Butenedioic acid (e)-, diethyl ester",000623-91-6,,"2-Butenedioic acid (e)-, diethyl ester",kg,Waterborne emissions,Waterborne emissions,E09FCED6-15BD-445D-9146-85B4D335B0F6,
 2-Butoxyethanol acetate,000112-07-2,,2-Butoxyethanol acetate,kg,Waterborne emissions,Waterborne emissions,5FC4996E-13E1-4826-83AD-8C5E29E43491,
@@ -281,7 +278,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "2-Chloro-n,n-diallylacetamide",000093-71-0,,"2-Chloro-n,n-diallylacetamide",kg,Waterborne emissions,Waterborne emissions,89CDC3C7-C173-4851-BA2E-7E5DE2DB085C,
 2-Chloroacetophenone,000532-27-4,,2-Chloroacetophenone,kg,Waterborne emissions,Waterborne emissions,6E098A9D-72A8-41FB-A616-7DD2EBCB95E9,Formula: C8H7ClO Synonyms: 2-Chloro-1-phenylethanone; alpha-Chloroacetophenone; alpha-phenacyl chloride; chloromethyl phenyl ketone; phenacylchloride; Phenyl chloromethyl ketone; omega-chloroacetophenone
 2-Chloroaniline,000095-51-2,,2-Chloroaniline,kg,Waterborne emissions,Waterborne emissions,116118EF-4853-423D-BB61-B827A13FBFC1,
-2-Chlorobenzaldehyde,000089-98-5,,2-Chlorobenzaldehyde,kg,Waterborne emissions,Waterborne emissions,7697CFA5-E91D-4B96-AD11-441D4B05A2F6,
 2-Chloroethanol,000107-07-3,,2-Chloroethanol,kg,Waterborne emissions,Waterborne emissions,1D7C6528-363B-4592-A138-7AA3B14B25ED,
 2-Chloroethyl vinyl ether,000110-75-8,,2-Chloroethyl vinyl ether,kg,Waterborne emissions,Waterborne emissions,B5086A1C-1702-4F4B-B4A0-D9ABD6288AF5,
 2-Chloropyridine,000109-09-1,,2-Chloropyridine,kg,Waterborne emissions,Waterborne emissions,E8ECB16E-480F-4D73-BBA9-F28F1E2D2FAF,
@@ -328,7 +324,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "2-Methyl-2,4-pentanediol",000107-41-5,,"2-Methyl-2,4-pentanediol",kg,Waterborne emissions,Waterborne emissions,840DF648-D5F9-4884-BDE7-42E829E78233,
 2-Methyl-3-butyn-2-ol,000115-19-5,,2-Methyl-3-butyn-2-ol,kg,Waterborne emissions,Waterborne emissions,9F9A8E4A-EB6D-40D1-AE54-3498C14CE077,
 2-Methyl-4-chlorophenol,001570-64-5,,2-Methyl-4-chlorophenol,kg,Waterborne emissions,Waterborne emissions,5016768D-E6FA-4D84-912F-DF4266434384,
-2-Methyl-4-chlorophenoxyacetic acid,000094-74-6,,2-Methyl-4-chlorophenoxyacetic acid,kg,Waterborne emissions,Waterborne emissions,AAC53CC2-9A40-4C92-92B4-6213C2B905D8,Formula: C9H9ClO3
 2-Methyl-6-chlorophenol,000087-64-9,,2-Methyl-6-chlorophenol,kg,Waterborne emissions,Waterborne emissions,19195C92-6FC6-44EA-886D-52FEF41AFDD3,
 2-Methyl-6-nitrobenzeneamine,000570-24-1,,2-Methyl-6-nitrobenzeneamine,kg,Waterborne emissions,Waterborne emissions,3E49B5FB-7B1B-402F-A105-B4869ACDEDB4,
 2-Methylanthracene,000613-12-7,,2-Methylanthracene,kg,Waterborne emissions,Waterborne emissions,C2EC0A6B-0DD3-4CA8-9D88-41CA90FFD0B0,
@@ -452,7 +447,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "2,4-D sodium salt",002702-72-9,,"2,4-D sodium salt",kg,Waterborne emissions,Waterborne emissions,5153D158-2FE7-4130-A62A-151FA39BD2D0,"Formula: C8H5Cl2NaO3 Synonyms: Acetic acid, (2,4-dichlorophenoxy)-, sodium salt; Fernoxone; Sodium 2,4-dichlorophenoxyacetate"
 "2,4-d, Butoxypropyl ester",001928-45-6,,"2,4-d, Butoxypropyl ester",kg,Waterborne emissions,Waterborne emissions,3FF89D51-C86B-461F-A431-584394F5FB15,
 "2,4-D, diethanolamine salt",005742-19-8,,"2,4-D, diethanolamine salt",kg,Waterborne emissions,Waterborne emissions,21DFF8F6-7D06-457B-8974-EC1F71E2BED8,"Formula: C12H17Cl2NO5Synonyms: 2,4-Dichlorophenoxyacetic acid, diethanolamine salt; 2,4-Dichlorophenoxyacetic acid with 2,2'-iminodiethanol; Acetic acid, (2,4-dichlorophenoxy)-, compd. with 2,2'-iminobis(ethanol) (1:1); Diethanolamine (2,4-dichlorophenoxy)acetate"
-"2,4-D, dimethylamine salt",002008-39-1,,"2,4-D, dimethylamine salt",kg,Waterborne emissions,Waterborne emissions,157AFF33-5A18-4611-8C8E-DF2AFBA09EBA,"Formula: C10H13Cl2NO3 Synonyms: (2,4-Dichlorophenoxy)acetic acid dimethylamine salt; 2,4-d dna; acetic acid,(2,4-dichlorophenoxy)-compd. with N-methyl methanamine (1:1); dimethylamine, (2,4-dichlorophenoxy)acetate; dimethylamine salt of 2,4-d; dimethylammonium 2,4-dichlorophenoxyacetate; N-methylmethanamine 2,4-dichlorophenoxyacetate"
 "2,4-D, isopropylamine salt",005742-17-6,,"2,4-D, isopropylamine salt",kg,Waterborne emissions,Waterborne emissions,16EB8546-16D8-434E-9D88-7A407922D535,"Formula: C11H15Cl2NO3Synonyms: 2,4-Dichlorophenoxyacetic acid, isopropylamine salt; Acetic acid, (2,4-dichlorophenoxy)-, compd. with 2-propanamine (1:1); Isopropylamine 2,4-dichlorophenoxyacetate"
 "2,4-Diaminoanisole sulfate",039156-41-7,,"2,4-Diaminoanisole sulfate",kg,Waterborne emissions,Waterborne emissions,D9497C1A-AC27-4E62-B006-953593A12A9E,"Formula: C7H12N2O5SSynonyms: 1,3-Benzenediamine, 4-Methoxy, Sulfate; 1,3-diamino-4-methoxybenzene sulfate; 2,4-diamino-1-methoxybenzene sulfate; 2,4-DAA, Sulfate; 4-methoxy-m-phenylenediamine sulfate; 4-MMPD sulfate; anisole, 2,4-diamino-, hydrogen sulfate; C.I. 76051; C.I. Oxidation Base 12a; Fourrine SLA; Pelagol SLA"
 "2,4-Diaminoazobenzene",000495-54-5,,"2,4-Diaminoazobenzene",kg,Waterborne emissions,Waterborne emissions,CC47CBB8-2724-40B1-8F68-CB814F0B2994,
@@ -841,7 +835,6 @@ Acriflavine,008048-52-0,,Acriflavine,kg,Waterborne emissions,Waterborne emission
 Acronycine,007008-42-6,,Acronycine,kg,Waterborne emissions,Waterborne emissions,27A04B67-AFE0-41AD-A0C8-03C04DD1ABC9,"Formula: C20H19NO3Synonyms: 3,12-dihydro-6-methoxy-3,3,12-trimethyl-7H-pyrano(2,3-c)acridin-7-one; Acronine"
 Acrylamide,000079-06-1,,Acrylamide,kg,Waterborne emissions,Waterborne emissions,C415C546-BA58-40B7-AB54-DABBC2D83CF5,Formula: C3H5NO Synonyms: 2-Propenamide; Ethylene carboxamide; Ethylenecarboxamide; propenamide; vinyl amide
 Acrylate,009063-87-0,,Acrylate,kg,Waterborne emissions,Waterborne emissions,3D3663F5-7A78-45C6-ABE1-609DB7FDA98C,Chemical Formula: C3H4O2 
-Acrylic acid,000079-10-7,,Acrylic acid,kg,Waterborne emissions,Waterborne emissions,BC190C37-764B-41FD-A957-ABA4A2E4048F,"Formula: C3H4O2 Synonyms: 2-Propenoic acid; Acroleic Acid; Acrylate; Acrylic acid; Acrylic acid ; Acrylic acid, stabilized with 200 ppm MEHQ; Ethylenecarboxylic acid; propene acid; Propenoic acid; Vinylformic Acid; "
 Actarit,018699-02-0,,Actarit,kg,Waterborne emissions,Waterborne emissions,2FB237B5-E265-4DF0-B932-D0CA2702F203,
 "Adipate, bis(2-ethylhexyl)-",000103-23-1,,"Adipate, bis(2-ethylhexyl)-",kg,Waterborne emissions,Waterborne emissions,E4A8D847-967D-4783-AAA7-835F6718457C,Formula: C22H42O4Synonyms: Adipic acid bis (2-ethylhexyl) ester; adipol 2EH; sicol 250; staflex doa; Di(2-ethylhexyl)adipate; Bis(2-ethylhexyl) hexanedioate; Dioctyl Adipate; Hexanedioic acid bis(2-ethylhexyl) ester; Octyl Adipate
 "Adipic acid, compound with hexane-1,6-diamine (1:1)",003323-53-3,,"Adipic acid, compound with hexane-1,6-diamine (1:1)",kg,Waterborne emissions,Waterborne emissions,8AE8918F-84C7-4F0B-9D4D-D15A9FC7AB97,
@@ -1031,7 +1024,6 @@ Benzamide,000055-21-0,,Benzamide,kg,Waterborne emissions,Waterborne emissions,A9
 "Benzene, 1,1'-sulfonylbis 4-chloro-",000080-07-9,,"Benzene, 1,1'-sulfonylbis 4-chloro-",kg,Waterborne emissions,Waterborne emissions,26F7FADF-A7AC-4E91-AA94-E20FE8832D2E,
 "Benzene, 1,1 -[1,2-ethanediylbis(oxy)]bis[2,4,6-tribromo-",037853-59-1,,"Benzene, 1,1 -[1,2-ethanediylbis(oxy)]bis[2,4,6-tribromo-",kg,Waterborne emissions,Waterborne emissions,14FF5A83-DF85-4A21-9CC2-1B449F1BD5A7,CAS number: 037853-59-1Formula: C14H8Br6O2
 "Benzene, 1,1 -oxybis-, octabromo deriv.",032536-52-0,,"Benzene, 1,1 -oxybis-, octabromo deriv.",kg,Waterborne emissions,Waterborne emissions,46C9BDD2-4615-4CE4-A052-4E86B3B7BEE2,CAS number: 032536-52-0Formula: C12H2Br8O
-"Benzene, 1,2-dichloro-",000095-50-1,,"Benzene, 1,2-dichloro-",kg,Waterborne emissions,Waterborne emissions,C35F1EF0-D479-4959-967F-4CDB7D31CFC8,"Formula: C6H4Cl2 Synonyms: 1,2-Dichlorobenzene; o,p-Dichlorobenzene mixture; o-dichlorobenzene; o-Dichlorobenzol; Dichlorobenzene, 1,2- ; Dichlorobenzol; Dichloricide; dilantin db; dilatin db; dizene; chloroben; chloroden; cloroben; DCB; dowtherm e; ODB; ODCB; special termite fluid; termitkil;"
 "Benzene, 1,2-dichloro-3-methoxy-",001984-59-4,,"Benzene, 1,2-dichloro-3-methoxy-",kg,Waterborne emissions,Waterborne emissions,3974E1DF-DDF9-45C2-9BC5-98399C2987AB,
 "Benzene, 1,2-dimethoxy-4-methyl-",000494-99-5,,"Benzene, 1,2-dimethoxy-4-methyl-",kg,Waterborne emissions,Waterborne emissions,CE64A190-1101-4C6E-9F05-18F792AD0609,
 "Benzene, 1,2-dinitro-",000528-29-0,,"Benzene, 1,2-dinitro-",kg,Waterborne emissions,Waterborne emissions,18160E12-6BBD-4B15-BF31-271E2F93460A,"Formula: C6H4N2O4 Synonyms: 1,2-Dinitrobenzene; 1,2-Dinitrobenzol; o-Dinitrobenzene; o-Nitrobenzene "
@@ -1102,14 +1094,12 @@ Benzidine dihydrochloride,000531-85-1,,Benzidine dihydrochloride,kg,Waterborne e
 "Benzidine, 3,3'-dimethoxy-, dihydrochloride",020325-40-0,,"Benzidine, 3,3'-dimethoxy-, dihydrochloride",kg,Waterborne emissions,Waterborne emissions,CB5C96B0-D55E-4FE6-A22B-533555062F61,"Formula: C14H18Cl2N2O2 Synonyms: Dianisidine dihydrochloride; 3,3'-dimethoxy-[1,1'-biphenyl]-4,4'-diamine, dihydrochloride"
 "Benzidine, 3,3'-dimethyl-",000119-93-7,,"Benzidine, 3,3'-dimethyl-",kg,Waterborne emissions,Waterborne emissions,3EC75AA9-75F9-4544-B5C1-0B37DF079042,"Formula: C14H16N2 Synonyms: ortho-Tolidine; 3,3'-Dimethyl-1,1'-Biphenyl-4,4'-Diamine"
 "Benzidine, 3,3'-dimethyl-, dihydrochloride",000612-82-8,,"Benzidine, 3,3'-dimethyl-, dihydrochloride",kg,Waterborne emissions,Waterborne emissions,53574B80-40DD-4ABB-A91E-D6104E0699EE,"Formula: C14H18Cl2N2Synonyms: o-Tolidine dihydrochloride; 3,3'-dimethyl-[1,1'-biphenyl]-4,4'-diamine, dihydrochloride"
-Benzo(a)anthracene,000056-55-3,,Benzo(a)anthracene,kg,Waterborne emissions,Waterborne emissions,5191CAD6-D6BD-408F-ADCD-A5254AD55E1C,Formula: C18H12 
 "Benzo(b)naphtho(1,2-d)thiophene",000205-43-6,,"Benzo(b)naphtho(1,2-d)thiophene",kg,Waterborne emissions,Waterborne emissions,591C3BB1-6685-4E7C-86C1-2E64E0CF641D,
 Benzo(b)thiophene,000095-15-8,,Benzo(b)thiophene,kg,Waterborne emissions,Waterborne emissions,DD075FFA-BE59-4C10-9B56-EA329F21279A,
 "Benzo(b)thiophene s,s-dioxide",000825-44-5,,"Benzo(b)thiophene s,s-dioxide",kg,Waterborne emissions,Waterborne emissions,C3A46CFA-042D-4091-A797-E54844C5B5B8,
 "Benzo(b,j,k)fluoranthene",,,"Benzo(b,j,k)fluoranthene",kg,Waterborne emissions,Waterborne emissions,CF1CBCC7-D700-4B21-8B52-F611C0CD519B,CAS number not available
 Benzo(e)pyrene,073467-76-2,,Benzo(e)pyrene,kg,Waterborne emissions,Waterborne emissions,A22FFC6C-FAA0-46E8-8D4C-BE79AC9974EF,Formula: C20H12
 Benzo(f)quinoline,000085-02-9,,Benzo(f)quinoline,kg,Waterborne emissions,Waterborne emissions,E5305E3E-A856-4027-BD43-A1A596C11E62,
-"Benzo(g,h,i)perylene",000191-24-2,,"Benzo(g,h,i)perylene",kg,Waterborne emissions,Waterborne emissions,A5CF3AE3-0165-4196-BCC1-506F5803B186,Formula: C22H12 
 Benzo(h)quinoline,000230-27-3,,Benzo(h)quinoline,kg,Waterborne emissions,Waterborne emissions,A9D31D01-2A4E-4FC1-9F92-32BD34104217,
 "Benzo[b]thiophene, 5-methyl-",014315-14-1,,"Benzo[b]thiophene, 5-methyl-",kg,Waterborne emissions,Waterborne emissions,D0508A1F-D04B-49B9-BBF8-ADD3DD861C9D,
 Benzofluoranthene,056832-73-6,,Benzofluoranthene,kg,Waterborne emissions,Waterborne emissions,EB0BC92F-DBE1-4275-92EF-E0A4AD78C883,
@@ -1250,7 +1240,6 @@ Butylated hydroxyanisole,025013-16-5,,Butylated hydroxyanisole,kg,Waterborne emi
 Butylphthalyl butylglycolate,000085-70-1,,Butylphthalyl butylglycolate,kg,Waterborne emissions,Waterborne emissions,A081D980-69E2-4601-AA5D-432A09FDA686,"Formula: C18H24O6Synonyms: Butylglycolyl butyl phthalate; 1,2-Benzenedicarboxylic acid 2-butoxy-2-oxoethyl butyl ester; Butoxycarbonylmethyl butyl phthalate; Butyl carbobutoxymethyl phthalate; Phthalic acid, butyl ester, ester with butyl glycolate"
 Butylurea,000592-31-4,,Butylurea,kg,Waterborne emissions,Waterborne emissions,3490F862-6E59-4A9F-96B3-43C6B5267C3A,
 Butyric acid,000107-92-6,,Butyric acid,kg,Waterborne emissions,Waterborne emissions,D6EC2B5C-55FF-4B04-A231-680E8B22D9FE,
-"Butyric acid, 4-(2,4-dichlorophenoxy)-",000094-82-6,,"Butyric acid, 4-(2,4-dichlorophenoxy)-",kg,Waterborne emissions,Waterborne emissions,83328AE5-29EC-4762-957A-3AFAF09F2649,"Formula: C10H10Cl2O3 Synonyms: 2,4-dichlorophenoxybutyric acid; 2,4-DB; 2,4-DB acid; 2,4-DB amine; 4-(2,4-dichlorophenoxy)butanoic acid; 4-(2,4-DB); Butyric acid, 4-(2,4-dichlorophenoxy) ; Embutone; Legumex; Venceweed; 2,4-DM"
 "Butyric acid, butyl ester",,,"Butyric acid, butyl ester",kg,Waterborne emissions,Waterborne emissions,C62FF307-FE43-4F80-A276-DC7B507B1BA3,
 "Butyric acid, ethyl ester",,,"Butyric acid, ethyl ester",kg,Waterborne emissions,Waterborne emissions,0EB1A29A-BB18-4B42-BEC5-68DFA74F1043,
 "Butyrolactone, beta-",003068-88-0,,"Butyrolactone, beta-",kg,Waterborne emissions,Waterborne emissions,C472995A-6A23-48BC-BE0F-22A088E3EF00,Formula: C4H6O2Synonyms: 3-Hydroxybutanoic Acid beta-Lactone; 4-Methyl-2-oxetanone; beta-Butyrolacetone
@@ -1345,7 +1334,6 @@ Carbendazim,010605-21-7,,Carbendazim,kg,Waterborne emissions,Waterborne emission
 Carbetamide,016118-49-3,,Carbetamide,kg,Waterborne emissions,Waterborne emissions,92744B43-EC6E-410A-84EB-D6B935CDD4B6,Formula: C12H16N2O3
 Carbofuran,001563-66-2,,Carbofuran,kg,Waterborne emissions,Waterborne emissions,F334C8B0-5031-4BCA-B864-997B6A342800,Formula:C12H15NO3 
 Carbofuran phenol,001563-38-8,,Carbofuran phenol,kg,Waterborne emissions,Waterborne emissions,3CB098CD-F11A-480C-A1F4-DC2F2FEC939D,
-Carbon,007440-44-0,,Carbon,kg,Waterborne emissions,Waterborne emissions,CF34932D-B167-42C2-88CA-457A3EB7B21A,Formula: C
 Carbon dioxide,,,Carbon dioxide,kg,Waterborne emissions,Waterborne emissions,4FFBCFFC-0B8B-43DF-90D7-E8C5E1A60A5E,
 Carbon monoxide,000630-08-0,,Carbon monoxide,kg,Waterborne emissions,Waterborne emissions,8D02B667-EAA4-4247-B40A-A7F587F715C0,Formula: CO
 "Carbonic acid, cyclic propylene ester",000108-32-7,,"Carbonic acid, cyclic propylene ester",kg,Waterborne emissions,Waterborne emissions,7509CD7C-1943-4C2D-B5A0-CDB9510AD8C1,
@@ -1432,7 +1420,6 @@ Choline chloride,000067-48-1,,Choline chloride,kg,Waterborne emissions,Waterborn
 Chromate,011104-59-9,,Chromate,kg,Waterborne emissions,Waterborne emissions,2C22B54B-3477-4F7D-8D14-99B80D96C990,Formula: CrO4[-2]-2 
 Chromium,007440-47-3,,Chromium,kg,Waterborne emissions,Waterborne emissions,94C3CD6E-9C3C-448B-912C-53545252C0D0,Formula: Cr
 Chromium compounds,007440-47-3,,Chromium compounds,kg,Waterborne emissions,Waterborne emissions,063057B1-53C4-40AD-B75E-197C8BCDA093,Chemical Formula: Cr 
-Chromium III,016065-83-1,,Chromium III,kg,Waterborne emissions,Waterborne emissions,C1799763-D6D6-4C49-91E9-A604C137CC09,Formula: Cr3+
 Chrysazin,000117-10-2,,Chrysazin,kg,Waterborne emissions,Waterborne emissions,A2DA6AA2-36FB-43BC-B0C9-2FD467DBD37E,"Formula: C14H8O4Synonyms: 1,8-dihydroxy-9,10-anthracenedione; 1,8-dihydroxy-9,10-anthraquinone; Modane; zwitsalax; 1,8-dioxyanthraquinone; Altan; antrapurol; dianthon; diaquone; dioxyanthrachinonum; danivac; danthro-lax; Danthron; Dantron; dorbane; dorbanex; duolax; Istin; istizin; laxanorm; laxanthreen; laxipur; laxipurin; LTAN"
 Cimetidine,051481-61-9,,Cimetidine,kg,Waterborne emissions,Waterborne emissions,AD3BCAA9-7C17-4D81-A06F-5014176F738A,
 Cinnamyl anthranilate,000087-29-6,,Cinnamyl anthranilate,kg,Waterborne emissions,Waterborne emissions,7FB40349-6F6E-49C9-B49E-00763BC470D0,"Formula: C16H15NO2Synonyms: 2-aminobenzoic acid 3-phenyl-2-propenyl ester; 2-Propen-1-ol, 3-phenyl-, 2-aminobenzoate; 3-phenyl-2-propen-1-yl anthranilate; Anthranilic acid cinnamyl ester; cinnamyl alcohol, anthranilate; cinnamyl 2-aminobenzoate"
@@ -1714,7 +1701,6 @@ Dinoterb,001420-07-1,,Dinoterb,kg,Waterborne emissions,Waterborne emissions,3053
 Dioxacarb,006988-21-2,,Dioxacarb,kg,Waterborne emissions,Waterborne emissions,A6A9DF1A-D34A-4F8B-9A5A-A60537E606E6,
 Dioxathion,000078-34-2,,Dioxathion,kg,Waterborne emissions,Waterborne emissions,475DA087-460A-4599-86DA-141CAD50948D,
 "Dioxin, 1,2,3,7,8,9-hexachlorodibenzo-",019408-74-3,,"Dioxin, 1,2,3,7,8,9-hexachlorodibenzo-",kg,Waterborne emissions,Waterborne emissions,1B74942C-F717-47F3-A8A6-3157DFB614AE,"Formula: C12H2Cl6O2Synonyms: 1,2,3,7,8,9-hcdd; 1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin; HXCDD"
-"Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",001746-01-6,,"Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",kg,Waterborne emissions,Waterborne emissions,54A6C0F0-56C2-434F-9709-B8028F2E8E88,"Synonym: 2,3,7,8-tetracdd"
 Dioxins (unspec.),,,Dioxins (unspec.),kg,Waterborne emissions,Waterborne emissions,502878B8-79C8-48C0-A31E-AF4ACC73C996,
 Dioxolane,000100-79-8,,Dioxolane,kg,Waterborne emissions,Waterborne emissions,BE883D8B-A2D9-4E9F-AC6D-B66ADEB27B9B,
 Diphenamid,000957-51-7,,Diphenamid,kg,Waterborne emissions,Waterborne emissions,1A8D37D8-D803-43D1-B09C-4706F741EAC1,"Formula: C16H17NOSynonyms: DIF 4; Diherbid; Dimethyl-2,2-diphenylacetamide; Dimid; Diphenyl-N,N-dimethylacetamide; Dyfen; Dymid; Enide; Fenam; Lilly 34,314; N,N-dimethyl-alpha-phenylbenzeneacetamide; Rideon"
@@ -1755,7 +1741,6 @@ Dmpa,000299-85-4,,Dmpa,kg,Waterborne emissions,Waterborne emissions,00E31F77-761
 DNOC,000534-52-1,,DNOC,kg,Waterborne emissions,Waterborne emissions,CAD15361-FB47-4EE2-9558-FA6BE45C2F34,"Formula: C7H6N2O5Synonym: 4,6-dinitro-o-cresol"
 Docosane,000629-97-0,,Docosane,kg,Waterborne emissions,Waterborne emissions,CCDBC39E-53D5-4ECF-A820-29EEDD72F300,Formula: C22H46 
 Dodecane,000112-40-3,,Dodecane,kg,Waterborne emissions,Waterborne emissions,E2E27322-FD9D-447C-92D5-D66010A4FE03,Formula: C12H26 
-Dodecanoic acid,000143-07-7,,Dodecanoic acid,kg,Waterborne emissions,Waterborne emissions,1BBF80DC-2A74-4459-8C39-ECE0A0B1556D,
 "Dodecanoic acid, 2-ethylhexyl ester",020292-08-4,,"Dodecanoic acid, 2-ethylhexyl ester",kg,Waterborne emissions,Waterborne emissions,4AF0191E-55E9-4C64-8683-D68573F6B0CF,
 "Dodecanoic acid, pentachlorophenyl ester",003772-94-9,,"Dodecanoic acid, pentachlorophenyl ester",kg,Waterborne emissions,Waterborne emissions,A65951CF-6D9A-448D-9A87-25F4FE37EE7F,
 Dodecyl 2-methyl-2-propenoate,000142-90-5,,Dodecyl 2-methyl-2-propenoate,kg,Waterborne emissions,Waterborne emissions,43299333-C2E7-40D8-8B0C-210F971DCEB4,
@@ -1828,7 +1813,6 @@ Ethane thiol,000075-08-1,,Ethane thiol,kg,Waterborne emissions,Waterborne emissi
 "Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",002837-89-0,,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",kg,Waterborne emissions,Waterborne emissions,B5F8A5F0-6B81-41BE-AEAB-9982EE5AFE52,Formula: C2HClF4
 "Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",000306-83-2,,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",kg,Waterborne emissions,Waterborne emissions,9EAE5F07-11CC-4232-B3AE-4A5F9677ABE6,Formula: C2HCl2F3
 "Ethane, bromo-",000074-96-4,,"Ethane, bromo-",kg,Waterborne emissions,Waterborne emissions,1934AF0F-307F-453F-BAD9-2B87463EB3C9,Formula: C2H5BrSynonyms: bromic ether; Ethyl bromide; halon 2001; hydrobromic ether; Monobromoethane
-"Ethane, chloro-",000075-00-3,,"Ethane, chloro-",kg,Waterborne emissions,Waterborne emissions,35B4F13C-2B0B-487A-8613-C7856308CA0C,Formula: C2H5Cl Synonyms: aethylis; aethylis chloridum; anodynon; chelen; chlorene; Chloroethane; chlorethyl; chloridum; chloryl; cloretilo; dublofix; ether chloratus; ether hydrochloric; ether muriatic; Ethyl Chloride; hydrochloric ether; kelene; monochloroethane; Muriatic Ether; narcotile
 "Ethane, dichloro-",001300-21-6,,"Ethane, dichloro-",kg,Waterborne emissions,Waterborne emissions,A5710E1C-A1BF-44A8-A8DE-73073DB98F5D,Formula: C2H4Cl2 
 "Ethane, pentachloro-",000076-01-7,,"Ethane, pentachloro-",kg,Waterborne emissions,Waterborne emissions,52CED72E-B7DE-4045-BFAB-8A0117759D44,Formula: C2HCl5 Synonyms: ethane pentachloride; Pentachloroethane; pentalin
 "Ethane, pentafluoro-, HFC-125",000354-33-6,,"Ethane, pentafluoro-, HFC-125",kg,Waterborne emissions,Waterborne emissions,5A305B16-2BBD-4C51-AE8A-72808BF51357,Formula: C2HF5
@@ -1844,7 +1828,6 @@ Ethane thiol,000075-08-1,,Ethane thiol,kg,Waterborne emissions,Waterborne emissi
 "Ethanol, 2-(ethylthio)-",000110-77-0,,"Ethanol, 2-(ethylthio)-",kg,Waterborne emissions,Waterborne emissions,3CDF8DD6-E793-4ECA-8079-B6033226524D,
 "Ethanol, 2-(hexyloxy)-",000112-25-4,,"Ethanol, 2-(hexyloxy)-",kg,Waterborne emissions,Waterborne emissions,C988B72E-4EC6-4F08-9533-13B79B841ADE,
 "Ethanol, 2-butoxy-",000111-76-2,,"Ethanol, 2-butoxy-",kg,Waterborne emissions,Waterborne emissions,D61698A5-63D5-4ACA-B34B-061C155CDD54,Formula: C6H14O2
-"Ethanol, 2-ethoxy-",000110-80-5,,"Ethanol, 2-ethoxy-",kg,Waterborne emissions,Waterborne emissions,900887D5-16B9-4FC9-9EC9-94F251D6A507,"Formula: C4H10O2Synonyms: 2EE; 2-Ethoxyethanol; cellosolve; cellosolve solvent; Dowanol EE; EGEE; ektasolve ee; Ethoxyethanol; Ethoxyethanol, 2- ; Ethyl cellosolve; ethylene glycol ethyl ether; Ethylene glycol monoethyl ether; Ethyl Glycol; glycol ether ee; Glycol ethyl ether; Glycol monoethyl ether; Jeffersol EE; oxitol; poly-solv ee; "
 "Ethanol, 2-mercapto-",000060-24-2,,"Ethanol, 2-mercapto-",kg,Waterborne emissions,Waterborne emissions,48094D7A-D580-41AF-AE25-17C7FB536336,
 "Ethanol, 2-methoxy-",000109-86-4,,"Ethanol, 2-methoxy-",kg,Waterborne emissions,Waterborne emissions,2BD651F8-97A8-4BF3-8278-0375C57139F4,Formula: C3H8O2
 "Ethanol, 2,2 -[(1-methylethylidene)bis[(2,6-dibromo-4,1-phenylene)oxy]]bis-",,,"Ethanol, 2,2 -[(1-methylethylidene)bis[(2,6-dibromo-4,1-phenylene)oxy]]bis-",kg,Waterborne emissions,Waterborne emissions,78D9E414-8A13-42B2-B395-9EECAE45874C,
@@ -2102,7 +2085,6 @@ Hydrazine sulfate,010034-93-2,,Hydrazine sulfate,kg,Waterborne emissions,Waterbo
 "Hydrocarbons, halogenated",,,"Hydrocarbons, halogenated",kg,Waterborne emissions,Waterborne emissions,446A295F-60D1-48D7-95A2-75BC27EB790D,
 Hydrochlorothiazide,000058-93-5,,Hydrochlorothiazide,kg,Waterborne emissions,Waterborne emissions,7EC62FB6-BF46-4DC4-88A0-009A11FF99CE,
 Hydrocortisone,000050-23-7,,Hydrocortisone,kg,Waterborne emissions,Waterborne emissions,11F135DD-4065-444C-96BC-2B1E71C63948,
-Hydrogen chloride,007647-01-0,,Hydrogen chloride,kg,Waterborne emissions,Waterborne emissions,86CC7141-1097-4BE4-8C0D-EE930379017A,Formula: HCl
 Hydrogen cyanide,000074-90-8,,Hydrogen cyanide,kg,Waterborne emissions,Waterborne emissions,0D7F93F3-E673-42BE-9B45-222E3F47DD3D,Formula: CHN 
 Hydrogen fluoride,007664-39-3,,Hydrogen fluoride,kg,Waterborne emissions,Waterborne emissions,C129F99D-735E-4D5C-B245-6E9E94FC18E3,Formula: HF
 Hydroquinone,000123-31-9,,Hydroquinone,kg,Waterborne emissions,Waterborne emissions,368AF440-14B8-4043-9213-8224764B814E,"Formula: C6H6O2 Synonyms: 1,4-Benzendil; 1,4-benzenediol; Hydroquinol; quinnone; Quinol; Tecquinol; tenox hq; tequinol; 1,4-Dihydroxybenzene; 1,4-Hydroxybenzene; p Benzendiol; p-Dihydroxybenzene; p-dioxobenzene; p-Diphenol; p-Hydroquinone; para-Hydroxyphenol; alpha-hydroquinone; Aida; arctuvin;Dihydroquinone; Dihydroxybenzene; eldopaque; Eldoquin; Elopaque; Hydrochinon; hydrokinone"
@@ -2144,7 +2126,6 @@ Iprodione,036734-19-7,,Iprodione,kg,Waterborne emissions,Waterborne emissions,51
 Ipt (isoprothiolane),050512-35-1,,Ipt (isoprothiolane),kg,Waterborne emissions,Waterborne emissions,0CF59256-2FE1-4960-A4FC-B02759EE76A2,
 Irgarol,028159-98-0,,Irgarol,kg,Waterborne emissions,Waterborne emissions,C89289E5-D265-4657-A4C8-D295E1BCC390,"Formula: C11H19N5SSynonyms: 1,3,5-Triazine-2,4-diamine, N-cyclopropyl-N'-(1,1-dimethylethyl)-6-(methylthio)-; 1,3,5-Triazine, 2-(tert-butylamino)-4-(cyclopropylamino)-6-(methylthio)-; Cyclopropyl-N'-(1,1-dimethylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine"
 "Iron compounds, unspecified",,,"Iron compounds, unspecified",kg,Waterborne emissions,Waterborne emissions,2F718AE4-74EA-4203-A903-8BDE1ED4FF49,
-Iron II,015438-31-0,,Iron II,kg,Waterborne emissions,Waterborne emissions,C05B89D8-50DD-4D3D-8D55-B9FD77093B16,
 Iron III,020074-52-6,,Iron III,kg,Waterborne emissions,Waterborne emissions,BE0A7AB3-4637-4FBF-8443-AF12D5C25649,
 Isoamyl acetate,000123-92-2,,Isoamyl acetate,kg,Waterborne emissions,Waterborne emissions,04DD4214-A797-4273-9ABE-C58F140DE1DA,
 Isobenzan,000297-78-9,,Isobenzan,kg,Waterborne emissions,Waterborne emissions,1B93A8C5-8CEC-433D-922F-1F0D7AB2BFBF,
@@ -2321,7 +2302,6 @@ Methane arsonate,000124-58-3,,Methane arsonate,kg,Waterborne emissions,Waterborn
 "Methane, iodo-, Halon 10001",000074-88-4,,"Methane, iodo-, Halon 10001",kg,Waterborne emissions,Waterborne emissions,4095A43D-D27B-4114-A559-56BE8231BA5C,Formula: CH3I Synonyms: Halon 10001; Iodomethane; Methyl iodide; Methyl iodine; Monoiodomethane
 "Methane, monochloro-, R-40",000074-87-3,,"Methane, monochloro-, R-40",kg,Waterborne emissions,Waterborne emissions,1D357EF1-09C7-4CDC-98AB-30A3711839B5,Formula: CH3Cl
 "Methane, sulfonylbis trichloro-",003064-70-8,,"Methane, sulfonylbis trichloro-",kg,Waterborne emissions,Waterborne emissions,D6B995AB-8535-45F5-9021-6D25BDDC9F88,
-"Methane, tetrachloro-, CFC-10",000056-23-5,,"Methane, tetrachloro-, CFC-10",kg,Waterborne emissions,Waterborne emissions,334BA988-2E6E-4441-9C8F-F6D6FB2D7D52,Formula: CCl4Synonyms: Benzinoform; carbona; carbon chloride; Carbon tet; Carbon tetrachloride; Carbon tetrachloride ; flukoids; Methane tetrachloride; necatorine; Necatorina; Perchloromethane; R 10; r 10 (refrigerant); Refrigerant R10; tetrachlorocarbon; Tetrachloromethane; tetrafinol; tetraform; tetrasol; univerm; vermoestricid;
 "Methane, tetrafluoro-",000075-73-0,,"Methane, tetrafluoro-",kg,Waterborne emissions,Waterborne emissions,BA0D8593-812C-442E-A86B-2059106BAD86,
 "Methane, tetranitro-",000509-14-8,,"Methane, tetranitro-",kg,Waterborne emissions,Waterborne emissions,38AD312C-E374-4F88-9C03-5F2836FA3203,Formula: CN4O8Synonyms: Tetan; TNM
 "Methane, trichlorofluoro-, CFC-11",000075-69-4,,"Methane, trichlorofluoro-, CFC-11",kg,Waterborne emissions,Waterborne emissions,5E20207A-E530-47E4-8D98-50C89AEF1059,Formula: CCl3F
@@ -2366,7 +2346,6 @@ Methyl p-nitrobenzoate,000619-50-1,,Methyl p-nitrobenzoate,kg,Waterborne emissio
 Methyl paraoxon,000950-35-6,,Methyl paraoxon,kg,Waterborne emissions,Waterborne emissions,6AAE5E14-E4E1-4BF8-A9D8-1B60B2054A3C,
 Methyl pentynol,000077-75-8,,Methyl pentynol,kg,Waterborne emissions,Waterborne emissions,D204D6D4-E6E0-4A02-9345-294F4D7BC00B,
 Methyl selenac,000144-34-3,,Methyl selenac,kg,Waterborne emissions,Waterborne emissions,2A763644-DBCD-4F74-8D3A-102958D1A4BD,
-Methylamine,000074-89-5,,Methylamine,kg,Waterborne emissions,Waterborne emissions,24C16AC6-B24E-4635-A42B-CD87337C11A6,
 "Methylbenzyl alcohol, alpha-",000098-85-1,,"Methylbenzyl alcohol, alpha-",kg,Waterborne emissions,Waterborne emissions,38EA884F-E252-455E-B833-1DEABB9B355A,"Formula: C8H10O Synonyms: methylphenyl carbinol, 1-phenylethanol, styralyl alcohol, 1-phenethan-1-ol "
 Methylcyclohexane,000108-87-2,,Methylcyclohexane,kg,Waterborne emissions,Waterborne emissions,8E1BE234-901A-4C02-8D9E-1478FC291492,"Formula: C7H14Synonyms: Cyclohexane, methyl-; Hexahydrotoluene; Cyclohexylmethane; Toluene hexahydride"
 Methylene-bis(4-cyclohexylisocyanate),005124-30-1,,Methylene-bis(4-cyclohexylisocyanate),kg,Waterborne emissions,Waterborne emissions,8F8C143F-442C-4D0C-BE5F-499B2BB5AF67,"Formula: C15H22N2O2Synonyms: 1,1-Methylene bis(4-isocyanatocyclohexane); 1,1'-Methylenebis-(4-Isocyanatocyclohexane); 4,4'-diisocyanatodicyclohexylmethane; 4,4'-methylenebis(cyclohexyl isocyanate); Bis(4-Isocyanatocyclohexyl) Methane; dicyclohexylmethane-4,4'-diisocyanate; Hydrogenated MDI; Methylene-bis(4-Cyclohexylisocyanate); methylenebis(1,4-cyclohexylene) diisocyanate; methylenedi-1,4-cyclohexylene isocyanate; methylenedi-4,1-cyclohexylene isocyanate; methylenedi-4-cyclohexylene diisocyanate; methylenebis(4-isocyanatocyclohexane); Nacconate H 12;"
@@ -2490,7 +2469,6 @@ Nabam,000142-59-6,,Nabam,kg,Waterborne emissions,Waterborne emissions,2BC22717-1
 Nafenopin,003771-19-5,,Nafenopin,kg,Waterborne emissions,Waterborne emissions,B959E377-F530-4C52-BF32-7722B6837B37,Formula: C20H22O3 
 Naled,000300-76-5,,Naled,kg,Waterborne emissions,Waterborne emissions,4F6BE4DE-9B37-4442-BB73-1EC48E3EB14D,"Formula: C4H7Br2Cl2O4P Synonyms: 1,2-Dibromo-2,2-dichloroethyl dimethyl phosphate; Alvora; Dibrom; Dibromfos; Bromchlorphos; Bromex; Hibrom"
 Nalidixic acid,000389-08-2,,Nalidixic acid,kg,Waterborne emissions,Waterborne emissions,AB921DB5-D6F4-4777-B3FF-A3132C3BD144,
-Naphthalene,000091-20-3,,Naphthalene,kg,Waterborne emissions,Waterborne emissions,1B4D8C8C-76B7-4037-9B07-3749C0D8DD27,Formula: C10H8
 Naphthalene-2-sulfonic acid,000120-18-3,,Naphthalene-2-sulfonic acid,kg,Waterborne emissions,Waterborne emissions,13BC2276-243B-469C-9214-0BA1EEEFA151,
 "Naphthalene, 1,2,3,4-tetrahydro-",,,"Naphthalene, 1,2,3,4-tetrahydro-",kg,Waterborne emissions,Waterborne emissions,640CFF1B-B32A-4310-816E-710FFCD553AF,
 "Naphthalene, 1,5-diamino-",002243-62-1,,"Naphthalene, 1,5-diamino-",kg,Waterborne emissions,Waterborne emissions,E954B1EE-618A-47D4-B84D-244B200D7615,Formula: C10H10N2 
@@ -3050,7 +3028,6 @@ Pulegone,000089-82-7,,Pulegone,kg,Waterborne emissions,Waterborne emissions,4E18
 Purpurin,000081-54-9,,Purpurin,kg,Waterborne emissions,Waterborne emissions,E70A56C9-C4C7-43BF-8151-27067D9C125C,
 Pymetrozine,123312-89-0,,Pymetrozine,kg,Waterborne emissions,Waterborne emissions,71DB97A5-A640-40D4-8408-6271893AACBE,Formula: C10H11N5O 
 Pyraclofos,077458-01-6,,Pyraclofos,kg,Waterborne emissions,Waterborne emissions,1DA7425A-4353-4754-A0F3-511C2C75EEDD,
-Pyraclostrobin (prop),175013-18-0,,Pyraclostrobin (prop),kg,Waterborne emissions,Waterborne emissions,5150B937-C90B-4FA2-B1C8-FBEAB792796B,Formula: C19H18ClN3O4Synonyms: methyl {2-[1-(4-chlorophenyl)pyrazol-3-yloxymethyl]phenyl}(methoxy)carbamatemethyl [2-[[[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamate
 Pyraflufen-ethyl,,,Pyraflufen-ethyl,kg,Waterborne emissions,Waterborne emissions,ECBC1782-12F3-438F-AE76-5E9C117E14BF,
 Pyrazophos,013457-18-6,,Pyrazophos,kg,Waterborne emissions,Waterborne emissions,570A5615-F6F5-4E33-A529-C911433085F3,Formula: C14H20N3O5PS 
 Pyrazoxyfen,071561-11-0,,Pyrazoxyfen,kg,Waterborne emissions,Waterborne emissions,15E84DF9-7D61-45E6-B7F4-8F6E7D4B9C98,
@@ -3366,7 +3343,6 @@ Tolazamide,001156-19-0,,Tolazamide,kg,Waterborne emissions,Waterborne emissions,
 Tolbutamide,000064-77-7,,Tolbutamide,kg,Waterborne emissions,Waterborne emissions,ED2D88B8-B8B6-4705-AC18-81F3F87C01C1,
 Tolclophos-methyl,057018-04-9,,Tolclophos-methyl,kg,Waterborne emissions,Waterborne emissions,9C47A369-E320-4518-8C53-46401362E464,Formula: C9H11Cl2O3PS 
 Toluene diisocyanate,026471-62-5,,Toluene diisocyanate,kg,Waterborne emissions,Waterborne emissions,A64C4AB0-30B1-4081-A93C-7EE907A9F732,"Formula: C9H6N2O2Synonyms: 2,4 + 2,6-Toluenediisocyanate; 2,4-/2,6-Toluene diisocyanate mixture; diisocyanatomethylbenzene; diisocyanatotoluene; methylphenylene isocyanate; Toluene diisocyanates; Toluene diisocyanate (mixed isomers);diisocyanate (unspecified isomer); tolylene isocyanate"
-"Toluene, 2-chloro-",000095-49-8,,"Toluene, 2-chloro-",kg,Waterborne emissions,Waterborne emissions,005DF698-9FB1-4064-8580-9899D1CD19F5,Formula: C7H7Cl 
 "Toluene, 2,4-diamine",000095-80-7,,"Toluene, 2,4-diamine",kg,Waterborne emissions,Waterborne emissions,40C50CDF-6874-4B9D-86A7-5CCF760F4762,Formula: C7H10N2 
 "Toluene, 2,4-diamino-, dihydrochloride",000636-23-7,,"Toluene, 2,4-diamino-, dihydrochloride",kg,Waterborne emissions,Waterborne emissions,CE164AB2-8D1E-42F6-9EB3-3B6C1B6DED47,"Formula: C7H12Cl2N2Synonyms: 1,3-Benzenediamine, 4-methyl-, dihydrochloride; 2,4-Toluenediamine dihydrochloride; Toluene-2,4-diamine, dihydrochloride"
 "Toluene, 2,4-diisocyanate",000584-84-9,,"Toluene, 2,4-diisocyanate",kg,Waterborne emissions,Waterborne emissions,9427D437-96AE-4350-899B-AFE8F9BB934F,Formula: C9H6N2O2 
