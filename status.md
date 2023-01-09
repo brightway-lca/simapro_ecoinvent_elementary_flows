@@ -6,24 +6,23 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 3758 | 552 | 4310 |
+| 3791 | 519 | 4310 |
 
 ## SimaPro flows
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 1505 | 11798 | 13303 |
+| 1515 | 11788 | 13303 |
 
 ## Unmatched ecoinvent flows by context
 
 | Context | Unmatched | Total |
 | --- | --- | --- |
-| air/indoor | 3 | 4 |
-| air/low population density, long-term | 31 | 325 |
-| air/lower stratosphere + upper troposphere | 31 | 325 |
-| air/non-urban air or from high stacks | 38 | 390 |
-| air/unspecified | 42 | 366 |
-| air/urban air close to ground | 33 | 334 |
+| air/low population density, long-term | 25 | 325 |
+| air/lower stratosphere + upper troposphere | 25 | 325 |
+| air/non-urban air or from high stacks | 32 | 390 |
+| air/unspecified | 36 | 366 |
+| air/urban air close to ground | 27 | 334 |
 | natural resource/biotic | 1 | 9 |
 | natural resource/fossil well | 1 | 1 |
 | natural resource/in air | 4 | 9 |
@@ -45,7 +44,7 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 
 | Context | Unmatched | Total |
 | --- | --- | --- |
-| Airborne emissions | 4563 | 4952 |
+| Airborne emissions | 4553 | 4952 |
 | Economic issues | 7 | 7 |
 | Emissions to soil | 3146 | 3618 |
 | Final waste flows | 135 | 135 |

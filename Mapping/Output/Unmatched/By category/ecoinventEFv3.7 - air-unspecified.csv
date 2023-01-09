@@ -9,10 +9,6 @@ Benzo(ghi)perylene,000191-24-2,,,kg,chemical,,,air/unspecified,0605e241-ce98-4c1
 Boron carbide,012069-32-8,,,kg,chemical,,,air/unspecified,4c0d236e-e50f-409e-b84b-b053da3394fa,,,12316-49-3; 12069-32-8
 Butanol,000071-36-3,,,kg,chemical,,,air/unspecified,b9a9b2ad-5db3-47aa-81de-3a48ae9ad4ec,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 Calcium hydroxide,001305-62-0,,,kg,chemical,,,air/unspecified,5c2957fe-5790-4bbe-a7f1-06be8e6fb89a,,,1305-62-0
-"Carbon dioxide, from soil or biomass stock",000124-38-9,,,kg,chemical,,,air/unspecified,e4e9febc-07c1-403d-8d3a-6707bb4d96e6,,,
-"Carbon dioxide, non-fossil",000124-38-9,,,kg,chemical,,,air/unspecified,eba59fd6-f37e-41dc-9ca3-c7ea22d602c7,,,
-"Carbon monoxide, from soil or biomass stock",000124-38-9,CO2,,kg,chemical,,,air/unspecified,69a6c884-39be-444f-a67c-7436a5e66de2,,,
-"Carbon monoxide, non-fossil",000630-08-0,,,kg,chemical,,,air/unspecified,2cb2333c-1599-46cf-8435-3dffce627524,,,
 Diborane,019287-45-7,,,kg,chemical,,,air/unspecified,57655806-a54e-47ca-a8d2-9881813b7afa,,,14452-61-0; 19287-45-7
 "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,air/unspecified,082903e4-45d8-4078-94cb-736b15279277,,,
 Ethylene,000074-85-1,,,kg,chemical,,,air/unspecified,90f722bf-cb9b-571a-88fc-34286632bdc4,,,68037-39-8; 9002-88-4; 74-85-1
@@ -20,8 +16,6 @@ Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,air/unspecified,45e2
 Hydrochloric acid,007647-01-0,,,kg,chemical,,,air/unspecified,c9a8073a-8a19-5b9b-a120-7d549563b67b,,,185912-82-7; 124760-64-1; 2647-01-0; 7698-05-7; 7647-01-0
 Lauric acid,000143-07-7,,,kg,chemical,,,air/unspecified,b0d2b7b9-c76d-50d4-b776-b9419ae83abe,,,143-07-7
 "Methane, chloro-fluoro-, HCFC-31",000593-70-4,,,kg,chemical,,,air/unspecified,5eafb840-6f50-418d-98bd-27b86f75613c,,,
-"Methane, from soil or biomass stock",000074-82-8,CH4,,kg,chemical,,,air/unspecified,7f0ba7c9-341e-413d-80f6-8753727d65d1,,,
-"Methane, non-fossil",000074-82-8,,,kg,chemical,,,air/unspecified,da1157e2-7593-4dfd-80dd-a3449b37a4d8,,,
 "Methane, tetrachloro-, R-10",000056-23-5,,,kg,chemical,,,air/unspecified,86d12e70-0c64-4ecf-ba52-114fa0c5d402,,,
 "Methane, tetrafluoro-, R-14",000075-73-0,,,kg,chemical,,,air/unspecified,33681770-a0e1-4ce8-93c3-941fd607fa5f,,,
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/unspecified,ec420d84-577b-402e-bd90-f8a4b2310135,,,74-89-5
