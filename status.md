@@ -6,13 +6,13 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 3991 | 319 | 4310 |
+| 4007 | 303 | 4310 |
 
 ## SimaPro flows
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 1597 | 11706 | 13303 |
+| 1634 | 11669 | 13303 |
 
 ## Unmatched ecoinvent flows by context
 
@@ -25,30 +25,30 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 | air/urban air close to ground | 11 | 334 |
 | natural resource/biotic | 1 | 9 |
 | natural resource/fossil well | 1 | 1 |
-| natural resource/in air | 4 | 9 |
-| natural resource/in ground | 62 | 232 |
+| natural resource/in air | 3 | 9 |
+| natural resource/in ground | 60 | 232 |
 | natural resource/in water | 8 | 17 |
 | natural resource/land | 40 | 182 |
-| soil/agricultural | 10 | 499 |
+| soil/agricultural | 9 | 499 |
 | soil/forestry | 1 | 45 |
 | soil/industrial | 1 | 48 |
 | soil/unspecified | 2 | 54 |
-| water/ground- | 26 | 300 |
-| water/ground-, long-term | 25 | 268 |
-| water/ocean | 29 | 279 |
-| water/surface water | 27 | 310 |
-| water/unspecified | 27 | 312 |
+| water/ground- | 24 | 300 |
+| water/ground-, long-term | 23 | 268 |
+| water/ocean | 25 | 279 |
+| water/surface water | 25 | 310 |
+| water/unspecified | 25 | 312 |
 
 
 ## Unmatched SimaPro flows by context
 
 | Context | Unmatched | Total |
 | --- | --- | --- |
-| Airborne emissions | 4521 | 4952 |
+| Airborne emissions | 4508 | 4952 |
 | Economic issues | 7 | 7 |
-| Emissions to soil | 3120 | 3618 |
+| Emissions to soil | 3117 | 3618 |
 | Final waste flows | 135 | 135 |
 | Non material emissions | 12 | 12 |
-| Raw materials | 380 | 714 |
+| Raw materials | 372 | 714 |
 | Social issues | 19 | 19 |
-| Waterborne emissions | 3512 | 3846 |
+| Waterborne emissions | 3499 | 3846 |

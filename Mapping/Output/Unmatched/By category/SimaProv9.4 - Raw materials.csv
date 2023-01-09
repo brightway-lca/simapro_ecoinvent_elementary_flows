@@ -5,14 +5,11 @@ Anodes (used),,,Anodes (used),kg,Raw materials,Raw materials,94E06690-B8CA-4643-
 Antimonite,,,Antimonite,kg,Raw materials,Raw materials,2682A1CB-481E-4D13-B349-A470861A2837,
 Apatite,,,Apatite,kg,Raw materials,Raw materials,F1048BEF-39C8-4FAE-8782-140B84F6CF3C,
 Argon,007440-37-1,Ar,Argon,kg,Raw materials,Raw materials,C3605DBE-42B4-4DA1-8211-9081B7CA1B98,
-Argon-40/kg,,,Argon-40/kg,kg,Raw materials,Raw materials,2726C3D7-C07B-4579-8B51-B833365E82F8,CAS number: 1290046-39-7
 Barite,013462-86-7,BaSO4,Barite,kg,Raw materials,Raw materials,337FFABF-B9F5-4FCF-9F61-09D905A15AFD,
 Bauxite,001318-16-7,"Al, Fe, O, OH ",Bauxite,kg,Raw materials,Raw materials,4C6185DF-504A-47BF-B127-59C2069B91C7,
 Biomass,,,Biomass,kg,Raw materials,Raw materials,D12BA322-D469-41F1-AF9D-AE05B119AFA6,
 "Biomass, feedstock",,,"Biomass, feedstock",MJ,Raw materials,Raw materials,906167F1-AECF-44A6-B206-CE8AD947D9FC,
 Bromine,010097-32-2,Br,Bromine,kg,Raw materials,Raw materials,5D0440C5-2681-4054-9921-8C234157F144,
-Calcium carbonate,,,Calcium carbonate,kg,Raw materials,Raw materials,2EE55BBB-A073-4708-A157-925562703E5C,
-Calcium chloride,010043-52-4,"CaCl2 Synonyms: Calcium(II) chloride, Calcium dichloride",Calcium chloride,kg,Raw materials,Raw materials,5C512F9C-A606-49C7-B7B7-0E8D8101264E,
 Calcium sulfate,007778-18-9,CaSO4,Calcium sulfate,kg,Raw materials,Raw materials,D783AFF6-CDD6-41FF-B1B8-AE926C71CA1E,
 Carbon,,,Carbon,kg,Raw materials,Raw materials,B9795222-AF33-4F34-A16C-FD060714F467,
 "Carbon dioxide, non-fossil, resource correction",000124-38-9,,"Carbon dioxide, non-fossil, resource correction",kg,Raw materials,Raw materials,889E2211-3741-4FBB-830D-7F2237E61F6A,"Flow introduced by ecoinvent to transparently correct imbalance in biogenic carbon, caused by economic allocation. It is characterized in methods, which give biogenic carbon factor different than 0."
@@ -23,8 +20,6 @@ Chromium ore,,,Chromium ore,kg,Raw materials,Raw materials,FEA32988-CD65-4181-9F
 "Clay, ball",,,"Clay, ball",kg,Raw materials,Raw materials,5153184C-9126-46B8-8BE1-1ECC967E3BA3,
 "Clay, fire",,,"Clay, fire",kg,Raw materials,Raw materials,3CF948C5-2A03-4E7E-BDDA-FB10535E6470,
 "Coal, 18 MJ per kg",,,"Coal, 18 MJ per kg",kg,Raw materials,Raw materials,8A23E8AE-9D54-4BCB-BEA8-0D65620D6F9D,Higher heating value (HHV): 18.9 MJ/kgLower heating value (LHV): 18 MJ/kg
-"Coal, 26.4 MJ per kg",,,"Coal, 26.4 MJ per kg",kg,Raw materials,Raw materials,C0F2A644-3C69-4F02-B13A-029561B69A3E,Higher heating value (HHV): 27.8 MJ/kgLower heating value (LHV): 26.4 MJ/kg
-"Coal, 29.3 MJ per kg",,,"Coal, 29.3 MJ per kg",kg,Raw materials,Raw materials,AE4A9855-8598-4363-B541-A56625F7BB63,Higher heating value (HHV): 30.8 MJ/kgLower heating value (LHV): 29.3 MJ/kg
 "Coal, bituminous, 24.8 MJ per kg",,,"Coal, bituminous, 24.8 MJ per kg",kg,Raw materials,Raw materials,4E230376-C4F5-4487-BD03-85C7909FF598,Higher heating value (HHV): 26.1 MJ/kgLower heating value (LHV): 24.8 MJ/kg
 "Coal, brown, 10 MJ per kg",,,"Coal, brown, 10 MJ per kg",kg,Raw materials,Raw materials,451475C9-8BD3-4C7B-81F8-C6BA2CAD0B68,Higher heating value (HHV): 11.3 MJ/kgLower heating value (LHV): 10 MJ/kg
 "Coal, brown, 8 MJ per kg",,,"Coal, brown, 8 MJ per kg",kg,Raw materials,Raw materials,051C0752-2B47-45D6-9A1C-F3983D3C9831,Higher heating value (HHV): 9.05 MJ/kgLower heating value (LHV): 8.00 MJ/kg
@@ -91,7 +86,6 @@ Ilmenite,,,Ilmenite,kg,Raw materials,Raw materials,C6A47E53-38F6-4656-8EDC-A7873
 Inert rock,,,Inert rock,kg,Raw materials,Raw materials,522812D0-0986-41B0-B15B-889DEE32C368,
 Iodine,014362-44-8,I,Iodine,kg,Raw materials,Raw materials,CF812438-7347-42A2-AA5C-B67DB3459802,
 Iron ore,,,Iron ore,kg,Raw materials,Raw materials,8CBDC7F7-7D61-467F-868D-06A4833CCDD2,
-Kaolin ore,,,Kaolin ore,kg,Raw materials,Raw materials,DB782BDC-4D2A-4754-93CF-4B7AE1DAA98E,
 Krypton,007439-90-9,Kr,Krypton,kg,Raw materials,Raw materials,53E12C94-04EA-469F-938B-92B836BB3763,
 Kyanite,,,Kyanite,kg,Raw materials,Raw materials,1CCE939B-A1AD-4DC4-AA42-A8BC0E9E27E8,
 Land use II-III,,,Land use II-III,m2a,Raw materials,Raw materials,8DF97FC1-B336-4AC5-B37B-6916B4357380,
@@ -103,7 +97,6 @@ Lead ore,,,Lead ore,kg,Raw materials,Raw materials,8D2A5F5B-CFCA-4EC8-9D1B-842B5
 Limestone,001317-65-3,Ca(CO3),Limestone,kg,Raw materials,Raw materials,C9E452CF-BDD5-4D70-BB15-3D5F4D5FAA86,
 Littering,,,Littering,m2,Raw materials,Raw materials,B88AB1A4-7251-4211-9792-9932FDCBE19F,
 Lubricant,,,Lubricant,kg,Raw materials,Raw materials,73485D43-1F57-4AB4-9F38-936D07C3ED40,
-Magnesium chloride,007786-30-3,MgCl2,Magnesium chloride,kg,Raw materials,Raw materials,6DC04633-8FA7-4494-9CA9-D6B20A853873,
 Manganese ore,,,Manganese ore,kg,Raw materials,Raw materials,B72019D9-33B3-4823-8F1C-D4881038B82D,
 Methane,000074-82-8,CH4 Higher heating value (HHV): 55.5 MJ/kgLower heating value (LHV): 50 MJ/kg,Methane,kg,Raw materials,Raw materials,F27471CA-E590-4D5C-8403-5F491F48129A,
 Minerals nec. (incl nitrogen and hydrogen),,,Minerals nec. (incl nitrogen and hydrogen),ton,Raw materials,Raw materials,B59BCC06-54EA-4E37-BB69-9EEBB6F1910C,
@@ -209,7 +202,6 @@ Rutile,001317-80-2,C12H8,Rutile,kg,Raw materials,Raw materials,3CECA063-EDD1-4A
 "Salt, unspecified",,C4H10NO3PS ,"Salt, unspecified",kg,Raw materials,Raw materials,A361F00B-883A-4176-ACB0-A15E19E1CB64,
 Sand,014808-60-7,,Sand,kg,Raw materials,Raw materials,DB6FA69A-F39E-40F6-A53F-F118285FBB4F,Formula: SiO2 
 Sand and clay,,,Sand and clay,kg,Raw materials,Raw materials,EFDC8C8B-4575-4B93-9261-659157662EA1,
-"Sand, gravel and stone, extracted for use",,"C2H3ClOSynonyms: chloroacetaldehyde; 2-chloro-1-ethanal; 2-Chloroacetaldehyde; 2-Chloroethanal; alpha-chloroacetaldehyde; Chloroacetaldehyde, 45% aqueous solution (CAA); chloroethanal; Monochloroacetaldehyde","Sand, gravel and stone, extracted for use",kg,Raw materials,Raw materials,7AA611CD-6312-475F-853D-11C4BB7C36A2,
 "Sand, quartz",,"C2HCl3OSynonyms: Chloral; 2,2,2-trichloroacetaldehyde; grasex; Trichloroacetaldehyde; trichloroethanal","Sand, quartz",kg,Raw materials,Raw materials,07C593F3-7643-4EA3-B3B1-CD9836820FCC,
 Seed corn,,,Seed corn,kg,Raw materials,Raw materials,20AE8C33-FE51-483D-8650-EEF9FB698A87,
 "Silver, Ag 9.7E-4%, Au 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore",007440-22-4,,"Silver, Ag 9.7E-4%, Au 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore",kg,Raw materials,Raw materials,1A74B480-F202-486E-901C-1FDBA523B6FB,"Silver and Gold, Zinc, Copper and Lead in ore, in groundFormula: Ag"

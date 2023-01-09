@@ -1,6 +1,5 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
 "Aluminium, 24% in bauxite, 11% in crude ore, in ground",007429-90-5,,,kg,geological,,0.0,natural resource/in ground,8bc65fca-548d-4831-b102-391bbdd6bc8c,,,
-Argon-40,007440-37-1,Ar,,kg,chemical,,,natural resource/in air,8b46f615-69c9-4ca3-815e-a7bde116d202,,,13965-95-2; 1290046-39-7; 14163-25-8; 7440-37-1
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,water/ground-,1f607ae2-b42d-4411-90b8-e9bbac66a554,,,
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,"water/ground-, long-term",e60edb16-3c74-415b-9aff-a22a6f49fecb,,,
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,water/ocean,d70b4182-d633-4178-84c0-8854f5f6594b,,,
@@ -9,11 +8,6 @@ Argon-40,007440-37-1,Ar,,kg,chemical,,,natural resource/in air,8b46f615-69c9-4ca
 "Astatine, in ground",007440-68-8,At,,kg,geological,,1.0,natural resource/in ground,e58cbe2f-15da-5fbe-8899-d632e3cbdfe9,,,
 "Barite, 15% in crude ore, in ground",007727-43-7,,,kg,geological,,0.0,natural resource/in ground,c13beafb-2aed-4a52-b09a-78d28913b6ce,,,
 Beta-cypermethrin,052315-07-8,C22H19Cl2NO3,,kg,chemical,,,soil/agricultural,6098e65f-3e52-5672-89b4-519dd8987d19,,,211504-94-8; 71697-59-1; 1224510-29-5; 72204-44-5; 67375-30-8; 65731-84-2; 97955-44-7; 71697-59-1; 67375-30-8; 66290-20-8; 66841-24-5; 82523-65-7; 137497-61-1; 97955-44-7; 72204-44-5; 71697-59-1; 52315-07-8; 65731-84-2; 86753-92-6; 67375-30-8; 52315-07-8
-"BOD5, Biological Oxygen Demand",,,,kg,other,,,water/ground-,57c27ba7-a61a-4932-8cd5-095c88ff0245,,,
-"BOD5, Biological Oxygen Demand",,,,kg,other,,,"water/ground-, long-term",aedea697-930a-4a0e-9e4f-b9c369aa9a33,,,
-"BOD5, Biological Oxygen Demand",,,,kg,other,,,water/ocean,f012d2d5-ebb4-4531-8285-0b98af3dcbd4,,,
-"BOD5, Biological Oxygen Demand",,,,kg,other,,,water/surface water,70d467b6-115e-43c5-add2-441de9411348,,,
-"BOD5, Biological Oxygen Demand",,,,kg,other,,,water/unspecified,91955aba-6ebc-4413-9342-f0298860b4aa,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,"air/low population density, long-term",454e32e4-09f5-4155-ae4c-7deab810a4b2,,,12316-49-3; 12069-32-8
 Boron carbide,012069-32-8,,,kg,chemical,,,air/lower stratosphere + upper troposphere,5128d076-e7a6-4bba-9a3a-432b2bce31fd,,,12316-49-3; 12069-32-8
 Boron carbide,012069-32-8,,,kg,chemical,,,air/non-urban air or from high stacks,8a2ab025-c85d-49f0-9229-45f211ea6890,,,12316-49-3; 12069-32-8
@@ -52,12 +46,6 @@ Carfentrazone ethyl ester,128639-02-1,,Carfentrazone-ethyl,kg,chemical,,,soil/ag
 "Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,water/surface water,85727faa-6607-4834-a34c-45a742a24c29,,,
 "Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,water/unspecified,26202571-16f9-48c3-bf4d-e9c189f43b2c,,,
 "Chromium, 25.5% in chromite, 11.6% in crude ore, in ground",007440-47-3,,,kg,geological,,0.0,natural resource/in ground,ef6dd09f-bddc-49b4-a207-dbaec2f07bb5,,,
-"Coal, hard, unspecified, in ground",,,,kg,fossil/nuclear,,,natural resource/in ground,b6d0042d-0ef8-49ed-9162-a07ff1ccf750,,,
-"COD, Chemical Oxygen Demand",,,,kg,other,,,water/ground-,be10dd54-eb4d-48ae-9e14-7d79ce8b170d,,,
-"COD, Chemical Oxygen Demand",,,,kg,other,,,"water/ground-, long-term",a8fea8cf-9b09-49fc-aa58-5a732494a2a0,,,
-"COD, Chemical Oxygen Demand",,,,kg,other,,,water/ocean,ec76fb5c-b402-416b-825c-53e074fe7525,,,
-"COD, Chemical Oxygen Demand",,,,kg,other,,,water/surface water,fc0b5c85-3b49-42c2-a3fd-db7e57b696e3,,,
-"COD, Chemical Oxygen Demand",,,,kg,other,,,water/unspecified,961ccd56-2eee-4f57-bb18-fc4362b49000,,,
 "Copper, 1.25% in sulfide, Cu 0.24% and Zn 0,1% in crude ore, in ground",007440-50-8,Cu,,kg,geological,,0.0,natural resource/in ground,01b9f1e8-4423-5393-ba63-2067935bdb13,,,
 "Copper, Cu 0.38%, in mixed ore, in ground",007440-50-8,,,kg,geological,,0.0,natural resource/in ground,5afa470c-ab8c-4ec3-8a18-5c0bed973571,,,
 "Copper, ion",017493-86-6,,,kg,chemical,,,water/ground-,c3b659e5-35f1-408c-8cb5-b5f9b295c76e,,,
@@ -79,8 +67,6 @@ Diborane,019287-45-7,,,kg,chemical,,,"water/ground-, long-term",ae7a3110-d355-4c
 Diborane,019287-45-7,,,kg,chemical,,,water/ocean,16176f2c-6c9e-447b-99fb-e2f1d651c849,,,14452-61-0; 19287-45-7
 Diborane,019287-45-7,,,kg,chemical,,,water/surface water,40cb6ea0-d72a-47aa-b186-0c05891187e0,,,14452-61-0; 19287-45-7
 Diborane,019287-45-7,,,kg,chemical,,,water/unspecified,5ff293fa-85f0-4d44-b63b-00f651316fad,,,14452-61-0; 19287-45-7
-"Discarded fish, demersal, to ocean",,,,kg,biological,,,water/ocean,61505469-d82e-4f73-9ac6-bb6910038c26,,,
-"Discarded fish, pelagic, to ocean",,,,kg,biological,,,water/ocean,68e3130c-7c4b-4825-a383-c54410568d5d,,,
 Dissolved solids,,,,kg,other,,,water/ground-,54c743a4-5438-4f3c-8e84-89b3e6ec0cc0,,,
 Dissolved solids,,,,kg,other,,,"water/ground-, long-term",bd254636-6538-4bcf-b0e5-62a2e8252b57,,,
 Dissolved solids,,,,kg,other,,,water/ocean,901a459c-9a1c-46a0-a785-6ec01a33b04f,,,
@@ -114,7 +100,6 @@ Hydrochloric acid,007647-01-0,,,kg,chemical,,,air/unspecified,c9a8073a-8a19-5b9b
 Ioxynil methyl ester,002436-73-9,,,kg,chemical,,,soil/agricultural,a5a8cee4-65ed-5e02-a1d1-9f81d88223c8,,,
 "Iron, 46% in ore, 25% in crude ore, in ground",007439-89-6,,,kg,geological,,0.0,natural resource/in ground,f77aacc3-2c22-4bda-99ab-fe1110a1b891,,,
 "Iron, 72% in magnetite, 14% in crude ore, in ground",007439-89-6,Fe,,kg,geological,,0.0,natural resource/in ground,99c56f25-9ebb-4e6a-a3e2-e4dc61e9d697,,,
-"Kaolinite, 24% in crude ore, in ground",001318-74-7,Al2H4O9Si2,,kg,geological,,0.0,natural resource/in ground,ee540366-b970-46af-94d8-4c253ded5577,,,
 "Kieserite, 25% in crude ore, in ground",014567-64-7,,,kg,geological,,0.0,natural resource/in ground,38eff837-5465-47a9-a1c9-e1edd70922ef,,,
 "Krypton, in air",007439-90-9,,,kg,chemical,,,natural resource/in air,4602b501-1c9b-4af7-bb1c-864c70c3e855,,,
 Krypton-85,013983-27-2,,,kBq,chemical,,,water/ground-,b8c4cd64-27cd-43ca-ac5e-011ebdbee7ec,,,13983-27-2
@@ -135,7 +120,6 @@ Krypton-85,013983-27-2,,,kBq,chemical,,,water/unspecified,4f46f2a8-545c-44d8-a40
 "Magnesium, 0.13% in water",007439-95-4,,,kg,chemical,,,natural resource/in water,752d138f-3723-42c1-bf5c-ca5316809c4c,,,
 "Magnesium, in water",007439-95-4,Mg,,kg,chemical,,,natural resource/in water,247f3d96-7da2-5adf-a399-65745bc042fb,,,
 "Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore, in ground",007439-96-5,,,kg,geological,,0.0,natural resource/in ground,9f9f1f14-6eee-4067-b4a5-80e75fc7b295,,,
-Metaldehyde,009002-91-9,,"r-2,c-4,c-6,c-8-tetramethyl-1,3,5,7-tetroxocane",kg,chemical,,,soil/agricultural,597847df-518f-4bd6-ae50-1de01f2761a4,,,9002-91-9; 108-62-3
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,"air/low population density, long-term",b42ad523-227d-4774-bcc6-a5f4f7ba2bb2,,,74-89-5
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/lower stratosphere + upper troposphere,78457869-af20-404f-a3bf-bad384fc177b,,,74-89-5
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/non-urban air or from high stacks,a7284b4f-39ea-40a8-8207-91e77c455a08,,,74-89-5
