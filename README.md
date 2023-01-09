@@ -5,6 +5,8 @@ This repository is a openly-developed and openly-available mapping of the elemen
 ## Table of Contents
 
 - [Background](#background)
+- [Status](#status)
+- [Methodology](#methodology)
 - [Contributing](#contributing)
 - [Authors](#authors)
 - [Maintainers](#maintainers)
@@ -18,6 +20,12 @@ Translating across nomenclature lists is an eternal problem in many problem doma
 * [Output flow mapping](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources/blob/master/Formats/FlowMapping.md)
 
 Our objective is to improve on the UNEP workflow by making the process of creating the mappings transparent and open to any one who wants to contribute. In addition to other benefits, this should also make future updates easier.
+
+## Status
+
+Current status is reported in [status.md](status.md)
+
+## Methodology
 
 ### Simapro `Context` values
 
@@ -58,12 +66,18 @@ Here is our current mapping for different base `Context` values
 | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
 | ----------------- | --------------- | -------------------------------------- |
 | natural resource/land | Resources/land | = |
+| natural resource/unspecified | Resources/(unspecified) | = |
+| natural resource/biotic | Resources/biotic | = |
+| natural resource/in ground | Resources/in ground | = |
+| natural resource/in air | Resources/in air | = |
+| natural resource/in water | Resources/in water | = |
+| natural resource/in water | Resources/fossil well | ~ |
 
 #### Water
 
 | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
 | ----------------- | --------------- | -------------------------------------- |
-| water/fossil well | Emissions to water/groundwater, long-term | ~ |
+| water/fossil well | Emissions to water/fossilwater | ~ |
 | water/ground- | Emissions to water/groundwater | = |
 | water/ground-, long-term | Emissions to water/groundwater, long-term | = |
 | water/ocean | Emissions to water/ocean | = |
@@ -78,7 +92,8 @@ Here is our current mapping for different base `Context` values
 | ----------------- | --------------- | -------------------------------------- |
 | air/indoor | Emissions to air/indoor | = |
 | air/low population density, long-term | Emissions to air/low. pop., long-term | = |
-| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere + troposphere | = |
+| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere | ~ |
+| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere + troposphere | ~ |
 | air/non-urban air or from high stacks | Emissions to air/low. pop. | = |
 | air/unspecified | Emissions to air/(unspecified) | = |
 | air/urban air close to ground | Emissions to air/high. pop. | = |
@@ -90,9 +105,14 @@ Here is our current mapping for different base `Context` values
 | soil/agricultural |  Emissions to soil/agricultural | = |
 | soil/forestry |  Emissions to soil/forestry | = |
 | soil/industrial |  Emissions to soil/industrial | = |
+| soil/industrial |  Emissions to soil/urban, non industrial | ~ |
 | soil/unspecified |  Emissions to soil/(unspecified) | = |
 
 ## Contributing
+
+Your contributions are welcome! This effort, and indeed consistent, high-quality LCA results, are only possible when we work together.
+
+You will need a Github account.
 
 We follow the [Github Flow, a workflow based around pull requests](https://docs.github.com/en/get-started/quickstart/github-flow), and use Github actions to do quality assurance. The Github flow documentation covers the basics; to make a contribution here you will need to:
 So, if you want to contribute you need to:
@@ -104,28 +124,11 @@ A contributor forks this repository and adds their mapping contribution as a new
 * They create a pull request, which triggers Github Actions which check the validity of their mapping file, and checks whether the new mappings contradict existing mappings. If there are errors, an error log is created and attached to the pull request.
 * If the pull request is accepted, a separate set of Github Actions are run which merge the new mappings into `Mapping/Output/Mapped_files`, and updates the `README.md` file and status reports.
 
-## Status
-
-Current status is reported in [status.md](status.md)
-
-## Contributing
-
-Your contributions are welcome! This effort, and indeed consistent, high-quality LCA results, are only possible when we work together.
-
-You will need a Github account.
-
-Additions to the existing mapping are done using Github Actions, and can be done manually or programmatically. If you are interested in contributing, please first check the `Status` directory, whose readme file describes the number and types of flows already mapped.
-
-Contributions should come as pull requests from named branches. So, you should:
-
-* Fork this repo
-* Create a new branch with a descriptive name
-* Work work work, and then commit
-* Create a Pull Request, and put `@cmutel` in the Pull Request description
-
 ## Authors
 
-{{ authors }}
+* [Chris Mutel](https://github.com/cmutel/)
+* [Aleksandra Kim](https://github.com/aleksandra-kim)
+* [Huo Jing](https://github.com/jhuo2021)
 
 ## Maintainers
 

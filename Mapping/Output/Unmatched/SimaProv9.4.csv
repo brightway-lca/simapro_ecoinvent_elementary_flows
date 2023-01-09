@@ -15,10 +15,7 @@ Calcium carbonate,,,Calcium carbonate,kg,Raw materials,Raw materials,2EE55BBB-A0
 Calcium chloride,010043-52-4,"CaCl2 Synonyms: Calcium(II) chloride, Calcium dichloride",Calcium chloride,kg,Raw materials,Raw materials,5C512F9C-A606-49C7-B7B7-0E8D8101264E,
 Calcium sulfate,007778-18-9,CaSO4,Calcium sulfate,kg,Raw materials,Raw materials,D783AFF6-CDD6-41FF-B1B8-AE926C71CA1E,
 Carbon,,,Carbon,kg,Raw materials,Raw materials,B9795222-AF33-4F34-A16C-FD060714F467,
-"Carbon dioxide, in air",000124-38-9,CO2,"Carbon dioxide, in air",kg,Raw materials,Raw materials,32722990-B7D8-44A8-BC7D-EC3A89F533FF,
 "Carbon dioxide, non-fossil, resource correction",000124-38-9,,"Carbon dioxide, non-fossil, resource correction",kg,Raw materials,Raw materials,889E2211-3741-4FBB-830D-7F2237E61F6A,"Flow introduced by ecoinvent to transparently correct imbalance in biogenic carbon, caused by economic allocation. It is characterized in methods, which give biogenic carbon factor different than 0."
-"Carbon, organic, in soil or biomass stock",007440-44-0,,"Carbon, organic, in soil or biomass stock",kg,Raw materials,Raw materials,BC48BB98-D59E-418A-B426-0CDEA3FD90CB,
-Carnallite,,,Carnallite,kg,Raw materials,Raw materials,413F493D-6DB5-44F6-AC3E-4FBC1A8387CA,"KMgCL3 6H2O, hydrated potassium magnesium chloride"
 Cesium,007440-46-2,Cs,Cesium,kg,Raw materials,Raw materials,0DF20014-9C63-415E-8D6F-E17EC782C33A,
 Chemical and fertilizer minerals,,,Chemical and fertilizer minerals,ton,Raw materials,Raw materials,F166876A-92B5-4AF9-8332-ADBF1B6B56E5,
 Chlorine,022537-15-1,Cl,Chlorine,kg,Raw materials,Raw materials,54DAA03F-8DAB-4273-8874-54D01FA4FFF1,
@@ -54,13 +51,7 @@ Copper ore,,,Copper ore,kg,Raw materials,Raw materials,56BD6921-4EF0-4C89-957D-C
 "Energy, from uranium",,,"Energy, from uranium",MJ,Raw materials,Raw materials,ED2C8071-9649-447D-91BC-22CCDB2FA93D,
 "Energy, from wood",,,"Energy, from wood",MJ,Raw materials,Raw materials,E81FE9EF-36CE-452C-BE65-90DCAAEC64DB,
 "Energy, geothermal",,,"Energy, geothermal",MJ,Raw materials,Raw materials,426682DA-8473-471B-A0B1-85F55BD8AC95,
-"Energy, geothermal, converted",,,"Energy, geothermal, converted",MJ,Raw materials,Raw materials,564CF364-C8FE-4CF2-8E10-529352748229,
-"Energy, gross calorific value, in biomass",,,"Energy, gross calorific value, in biomass",MJ,Raw materials,Raw materials,0CF23570-F012-4805-B7DB-15EE1ED92105,
-"Energy, gross calorific value, in biomass, primary forest",,,"Energy, gross calorific value, in biomass, primary forest",MJ,Raw materials,Raw materials,8EC69874-9044-4B74-924A-7145176D8A9A,
-"Energy, kinetic (in wind), converted",,,"Energy, kinetic (in wind), converted",MJ,Raw materials,Raw materials,E694E38B-56C2-4311-A0F3-D4273250A9CA,
-"Energy, potential (in hydropower reservoir), converted",,,"Energy, potential (in hydropower reservoir), converted",MJ,Raw materials,Raw materials,11B2E759-29E7-4ECE-BC34-F239E98D1D48,
 "Energy, recovered",,,"Energy, recovered",MJ,Raw materials,Raw materials,C07354C1-1837-4743-B6CA-BF6CCC6C6F00,
-"Energy, solar, converted",,,"Energy, solar, converted",MJ,Raw materials,Raw materials,08FE28EF-B9CC-44BA-9F54-97F286F8CECA,
 "Energy, unspecified",,,"Energy, unspecified",MJ,Raw materials,Raw materials,45AB6A85-3297-4663-8F05-8860E3769B6A,
 Ferromanganese,012604-53-4,,Ferromanganese,kg,Raw materials,Raw materials,8190FB3F-F54E-40AC-B0D8-DBAFBB395CAF,
 "Fish, alaska pollock (=walleye poll.), theragra chalcogramma, in ocean",,,"Fish, alaska pollock (=walleye poll.), theragra chalcogramma, in ocean",kg,Raw materials,Raw materials,4C270569-F762-4BAB-8E9D-790DCCFF6229,
@@ -69,11 +60,9 @@ Ferromanganese,012604-53-4,,Ferromanganese,kg,Raw materials,Raw materials,8190FB
 "Fish, atlantic herring, clupea harengus, in ocean",,,"Fish, atlantic herring, clupea harengus, in ocean",kg,Raw materials,Raw materials,E90EA5FF-99B0-4177-A0FA-EBE7ABA5F138,
 "Fish, atlantic mackerel, scomber scombrus, in ocean",,,"Fish, atlantic mackerel, scomber scombrus, in ocean",kg,Raw materials,Raw materials,7621BC98-B01B-48C2-852A-9F7470DE4266,
 "Fish, common sole, solea solea, in ocean",,,"Fish, common sole, solea solea, in ocean",kg,Raw materials,Raw materials,C49C9531-10D8-4406-A542-E7B42DFBE15E,
-"Fish, demersal, in ocean",,,"Fish, demersal, in ocean",kg,Raw materials,Raw materials,13BCC53B-EE0B-45E7-A320-870CAFA30442,
 "Fish, european seabass, dicentrarchus labrax, in ocean",,,"Fish, european seabass, dicentrarchus labrax, in ocean",kg,Raw materials,Raw materials,AC070594-CB4E-47C0-A9D1-CB1F44F0E3F9,
 "Fish, japanese anchovy, engraulis japonicus, in ocean",,,"Fish, japanese anchovy, engraulis japonicus, in ocean",kg,Raw materials,Raw materials,797EC2B6-7778-422B-8DE4-A89430DC5AD1,
 "Fish, pacific chub mackerel, scomber japonicus, in ocean",,,"Fish, pacific chub mackerel, scomber japonicus, in ocean",kg,Raw materials,Raw materials,31340F63-8107-4941-A4BA-3A92E81F644D,
-"Fish, pelagic, in ocean",,,"Fish, pelagic, in ocean",kg,Raw materials,Raw materials,5A3317C8-BCE2-4452-8359-1119E9C3EDE2,
 "Fish, skipjack tuna, katsuwonus pelamis, in ocean",,,"Fish, skipjack tuna, katsuwonus pelamis, in ocean",kg,Raw materials,Raw materials,3F7C2466-AA2E-40E1-81F3-BE8DDC134434,
 "Fish, turbot, psetta maxima, in ocean",,,"Fish, turbot, psetta maxima, in ocean",kg,Raw materials,Raw materials,23ED30B7-0CB3-4F10-A137-AF0661C3A3E7,
 "Fish, unspecified, in ocean",,,"Fish, unspecified, in ocean",kg,Raw materials,Raw materials,612C2AF0-3EF0-4FA2-B3F6-F44A6370E521,
@@ -192,10 +181,8 @@ Other industrial minerals,,C9H9NO7,Other industrial minerals,ton,Raw materials,
 Other metal ore,,,Other metal ore,ton,Raw materials,Raw materials,F8AD1341-7F4B-4EA9-9A51-F7AEC2AA461C,
 "Other minerals, extracted for use",,,"Other minerals, extracted for use",kg,Raw materials,Raw materials,3143096B-A1B9-4426-AB56-00B5DB22C9DC,
 "Other minerals, related unused extraction",,,"Other minerals, related unused extraction",kg,Raw materials,Raw materials,C9859603-884D-472D-88C0-9311431AEFEF,
-Oxygen,007782-44-7,,Oxygen,kg,Raw materials,Raw materials,860DF662-34E9-4651-B2E4-1874D97DD7FD,Formula: O2
 "Palladium, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore",007440-05-3,C11H22 ,"Palladium, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore",kg,Raw materials,Raw materials,48612C52-B385-45B5-9015-6533C7FDC291,
 "Palladium, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore",007440-05-3,,"Palladium, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore",kg,Raw materials,Raw materials,26650991-B835-425F-AC54-9D1B72E3A082,Formula: Pd
-Peat,,,Peat,kg,Raw materials,Raw materials,FA729411-56AC-47E3-9B13-0E47E913817A,
 "PGM, 4.7E-4% Pt, 3.1E-4% Pd, 0.2E-4% Rh, in crude ore",,,"PGM, 4.7E-4% Pt, 3.1E-4% Pd, 0.2E-4% Rh, in crude ore",kg,Raw materials,Raw materials,46B2AC00-2E16-4F20-B731-5AADE0A068D5,PGM = Platinum Group Metals
 Phonolite,,,Phonolite,kg,Raw materials,Raw materials,434421D9-91C5-405C-B9CF-EC64CCF84AA9,
 Phosphate ore,,,Phosphate ore,kg,Raw materials,Raw materials,69B9B1B9-0934-49DF-9CDC-CD10AB4CC61E,
@@ -340,10 +327,6 @@ Unspecified input,,"C4H8N2O Synonyms: 1-nitroso-Pyrrolidine; Nitrosopyrrolidine
 "Uranium, 451 GJ per kg",007440-61-1,,"Uranium, 451 GJ per kg",kg,Raw materials,Raw materials,EBAAD556-A534-4F35-8DBA-F6D235A97842,Formula: U
 "Uranium, 560 GJ per kg",007440-61-1,,"Uranium, 560 GJ per kg",kg,Raw materials,Raw materials,A0BB5FD9-F5E1-45E5-92E9-A57ED660ABA0,Formula: U
 Vanadium ore,,,Vanadium ore,kg,Raw materials,Raw materials,A494011A-9100-4A59-BE29-AE3F744A45E4,
-"Volume occupied, final repository for low-active radioactive waste",,"C11H10N4 Synonyms: 2-amino-3-methyl-3H-imidazo(4,5-f)quinoline; 2-Amino-3-methylimidazo[4,5-f]quinoline; 3-methyl-3H-imidazo(4,5-f)quinolin-2-amine; IQ;","Volume occupied, final repository for low-active radioactive waste",m3,Raw materials,Raw materials,4BA52878-1DDA-45AC-99CB-0A18749C3478,
-"Volume occupied, final repository for radioactive waste",,C18H15N3O,"Volume occupied, final repository for radioactive waste",m3,Raw materials,Raw materials,CC789CB2-91EC-4F4B-BF44-A2647E0A1D54,
-"Volume occupied, reservoir",,,"Volume occupied, reservoir",m3y,Raw materials,Raw materials,D1F89E49-83C7-45FE-BDBA-B261637C2F5F,
-"Volume occupied, underground deposit",,"C6H4O2 Synonyms: 1,4-benzoquine; 1,4-dioxybenzene; 1,4-cyclohexadienedione; p-Benzoquinone; para-Quinone; Benzoquinone; Chinone; Steara PBQ","Volume occupied, underground deposit",m3,Raw materials,Raw materials,AB9ACB75-9450-437B-9C34-F801D42816F2,
 "Water, barrage",007732-18-5,C15H11NO2 ,"Water, barrage",kg,Raw materials,Raw materials,13C6E6A8-B591-45E6-91BC-9CA61F5B4570,
 "Water, cooling, drinking",007732-18-5,C14H8O3 ,"Water, cooling, drinking",kg,Raw materials,Raw materials,295F85BA-6EDB-44B5-A224-3270478B649C,
 "Water, cooling, salt, ocean",007732-18-5,,"Water, cooling, salt, ocean",kg,Raw materials,Raw materials,A85A8033-094B-451A-B949-36BCCCE77E64,
@@ -355,8 +338,6 @@ Vanadium ore,,,Vanadium ore,kg,Raw materials,Raw materials,A494011A-9100-4A59-BE
 "Water, fossil",007732-18-5,C9H8OSynonyms: CINNAMIC ALDEHYDE,"Water, fossil",m3,Raw materials,Raw materials,5CA8DD05-ECC2-4499-8751-265B25DD12EE,
 "Water, fresh",007732-18-5,"C6H12Synonyms: 1,1-Dimethyl-2-butene, 2-Pentene,4-methyl-, 2-Pentene,4-methyl-,(E)-,  4-METHYL-2-PENTENE, 4-METHYL-2-PENTENE(TRANS), 4-Methylpent-2-ene, 4-Methyl-trans-2-pentene, (E)-4-Methyl-2-pentene, (E)-4-methylpent-2-ene","Water, fresh",m3,Raw materials,Raw materials,B73150F7-EC33-4CB0-8D5C-6CF62510834D,
 "Water, groundwater consumption",007732-18-5,,"Water, groundwater consumption",kg,Raw materials,Raw materials,49535727-4BA7-46A2-AE05-A69C7BADB0A5,
-"Water, in air",007732-18-5,,"Water, in air",m3,Raw materials,Raw materials,E53B6A5B-3345-4CE3-B5A2-B6990D9890B4,
-"Water, lake",007732-18-5,,"Water, lake",m3,Raw materials,Raw materials,38A83A56-92FE-485D-80D7-88034D688DCB,
 "Water, lake, NA",007732-18-5,C4H5N3O3,"Water, lake",m3,Raw materials,Raw materials,06255343-5DA3-4FCD-B62E-44CE7257CA97,
 "Water, process and cooling, unspecified natural origin",007732-18-5,C4H9NO5Synonyms: Cimcool wafers; Nitroisobutylglycerol; Nitrotris(hydroxymethyl)methane; Tris(hydroxymethyl)nitromethane; Trimethylolnitromethane; Tris-Nitro,"Water, process and cooling, unspecified natural origin",m3,Raw materials,Raw materials,1265FB3E-1783-423B-8F4E-82622C0E01C8,
 "Water, process, drinking",007732-18-5,,"Water, process, drinking",kg,Raw materials,Raw materials,4C0C36C5-DED6-4FB5-903C-A3FD2B5CFB48,
@@ -367,16 +348,12 @@ Vanadium ore,,,Vanadium ore,kg,Raw materials,Raw materials,A494011A-9100-4A59-BE
 "Water, process, well",007732-18-5,,"Water, process, well",kg,Raw materials,Raw materials,48CF55D8-67E6-427F-8440-948BC77F9032,
 "Water, rain",007732-18-5,CAS number: 027676-62-6C48H69N3O6,"Water, rain",m3,Raw materials,Raw materials,26261E7F-F4DA-4016-AC5A-AD0F38023D61,
 "Water, rain/kg",007732-18-5,,"Water, rain/kg",kg,Raw materials,Raw materials,9A33E1DA-EC17-4DEF-9DF7-C43072289B5E,
-"Water, river",007732-18-5,C7H10N2 Synonyms: ar-methylbenzenediamine; Diaminotoluene (mixed isomers); methylbenzenediamine,"Water, river",m3,Raw materials,Raw materials,05FE2761-B91D-4530-AD4C-5581B322DAD6,
 "Water, river, NA",007732-18-5,,"Water, river",m3,Raw materials,Raw materials,65526751-59B5-41C9-AD98-F6E2E894AB44,NA = Namibia
 "Water, Saline water consumption",007732-18-5,,"Water, Saline water consumption",kg,Raw materials,Raw materials,442A40F3-A97C-4037-902C-BFA31E540AC0,
-"Water, salt, ocean",007732-18-5,,"Water, salt, ocean",m3,Raw materials,Raw materials,6393A12A-DE85-4444-84BD-8044616715C8,
-"Water, salt, sole",007732-18-5,,"Water, salt, sole",m3,Raw materials,Raw materials,B0364664-3842-4614-AE92-7D8C08A3711C,
 "Water, surface water consumption",007732-18-5,,"Water, surface water consumption",kg,Raw materials,Raw materials,412A1A57-DDBD-4709-8E78-7DEF330E88EF,
 "Water, thermoelectric groundwater consumption",007732-18-5,,"Water, thermoelectric groundwater consumption",kg,Raw materials,Raw materials,9A1FBC7E-DA17-47EB-8F98-EFD918A88A41,
 "Water, thermoelectric saline water consumption",007732-18-5,,"Water, thermoelectric saline water consumption",kg,Raw materials,Raw materials,FFD14BDB-780C-4816-881D-F12C21D6DC25,
 "Water, thermoelectric surface water consumption",007732-18-5,,"Water, thermoelectric surface water consumption",kg,Raw materials,Raw materials,FE37D8C1-9A8C-4660-8FC7-4AA58AF2BA14,
-"Water, turbine use, unspecified natural origin",007732-18-5,,"Water, turbine use, unspecified natural origin",m3,Raw materials,Raw materials,687A4FB2-EB23-4D9C-A26B-8520589E2179,
 "Water, turbine use, unspecified natural origin, NA",007732-18-5,C4H10NO3PS ,"Water, turbine use, unspecified natural origin",m3,Raw materials,Raw materials,297A3B21-90F3-463A-9434-866F0C88DE65,
 "Water, unspecified natural origin, extreme water stress",007732-18-5,C7H8N2O2 Synonyms: 1-amino-2-methyl-5-nitrobenzene; 2-Amino-4-nitrotoluene; 2-methyl-5-nitrobenzenamine,"Water, unspecified natural origin, extreme water stress",m3,Raw materials,Raw materials,23E8C92F-EAD9-4613-9B9F-3A9A1D7FAF90,
 "Water, unspecified natural origin, high water stress",007732-18-5,CAS number: 032536-52-0C12H2Br8O,"Water, unspecified natural origin, high water stress",m3,Raw materials,Raw materials,F9B767D4-CB62-41FE-8F17-3DACB5064D39,
@@ -387,7 +364,6 @@ Vanadium ore,,,Vanadium ore,kg,Raw materials,Raw materials,A494011A-9100-4A59-BE
 "Water, unspecified natural origin, very high water stress",007732-18-5,C4H8O Synonyms: Butal; Butaldehyde; butalyde; Butyraldehyde; 1-Butanal; Butyric Aldehyde; Butyl Aldehyde; n-butanal; n-butyraldehyde; n-butyl aldehyde,"Water, unspecified natural origin, very high water stress",m3,Raw materials,Raw materials,61826A0F-BF88-4073-B692-E3B39B0611A9,
 "Water, unspecified natural origin/kg",007732-18-5,,"Water, unspecified natural origin/kg",kg,Raw materials,Raw materials,6B43FE9B-97AB-4A37-8698-ACD540DABE71,
 "Water, unspecified natural origin/m3",007732-18-5,,"Water, unspecified natural origin/m3",m3,Raw materials,Raw materials,FA80E48E-42F7-4AAD-A944-993C2CC217DF,
-"Water, well",007732-18-5,,"Water, well",m3,Raw materials,Raw materials,12923937-B784-4E2B-9E81-D76E1D1F5BCC,
 "Water, well, NA",007732-18-5,,"Water, well",m3,Raw materials,Raw materials,A0105568-310F-4818-8594-7BD01536358E,NA = Namibia
 Wollastonite,,,Wollastonite,kg,Raw materials,Raw materials,90E50A81-9766-4D57-B964-425A43A03265,
 Wood (16.9 MJ/kg),,,Wood (16.9 MJ/kg),kg,Raw materials,Raw materials,122E1E36-5F98-4471-8276-DE2E842AE81C,
@@ -395,9 +371,6 @@ Wood (16.9 MJ/kg),,,Wood (16.9 MJ/kg),kg,Raw materials,Raw materials,122E1E36-5F
 "Wood and wood waste, 9.5 MJ per kg",,,"Wood and wood waste, 9.5 MJ per kg",kg,Raw materials,Raw materials,530AF25E-250C-4907-97EB-E95FF7FDF95A,
 "Wood, dry matter",,,"Wood, dry matter",kg,Raw materials,Raw materials,EDFDC274-BFB3-4C60-80EE-5BAF0B35B3CE,
 "Wood, feedstock",,C21H30O3,"Wood, feedstock",kg,Raw materials,Raw materials,56312576-C30A-44D7-82C9-8BBFC8C4D7C6,
-"Wood, hard, standing",,,"Wood, hard, standing",m3,Raw materials,Raw materials,113A184F-2F9C-44CA-A7D8-96A161DABBC5,"Higher heating value (HHV): 12740 MJ/m3Specific weight (for absolutely dry, u=0%): 650 kg/m3based on ecoinvent report: Implementation of Life Cycle Impact Assessment Methods Data v2.2 (2010) "
-"Wood, primary forest, standing",,C22H19Br2NO3,"Wood, primary forest, standing",m3,Raw materials,Raw materials,71AAAF11-7E60-4F9F-BEDA-27694E1330C9,
-"Wood, soft, standing",,C16H38O6P2S4 ,"Wood, soft, standing",m3,Raw materials,Raw materials,F625C669-CDA6-47BA-AC64-3E741FF32387,
 "Wood, unspecified, standing/kg",,,"Wood, unspecified, standing/kg",kg,Raw materials,Raw materials,1729498C-F99A-4FD2-8C3E-BA42E36ABAA7,
 "Wood, unspecified, standing/m3",,,"Wood, unspecified, standing/m3",m3,Raw materials,Raw materials,D76EBDA1-30EA-4746-A456-F4F8998C2475,
 Xenon,007440-63-3,,Xenon,kg,Raw materials,Raw materials,1FC169B6-299B-442C-BB9C-9E35D489A553,Formula: Xe
