@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
 from pathlib import Path
+import itertools
 
 import pandas as pd
 
@@ -117,3 +118,35 @@ def finish_notebook(
     )
     check_required_columns(df=df)
     export_dataframe(df=df, name=filename, output_dir=output_dir)
+
+
+def expand_simapro_context(df: pd.DataFrame, kind: str = "air"):
+    if kind == "air":
+        df = df[df.Context == "Airborne emissions"]
+        AIR_CONTEXTS = [
+            "Emissions to air/(unspecified)",
+            "Emissions to air/indoor",
+            "Emissions to air/high. pop.",
+            "Emissions to air/low. pop.",
+            "Emissions to air/low. pop., long-term",
+            "Emissions to air/stratosphere + troposphere",
+            "Emissions to air/stratosphere",
+        ]
+        df = df.rename(columns={"Context": "ParentContext"})
+        expander = pd.DataFrame(zip(AIR_CONTEXTS, itertools.repeat("Airborne emissions")), columns=["Context", "ParentContext"])
+        df = df.merge(expander, how="outer", on="ParentContext")
+        return df
+
+
+def add_ecoinvent_context_column(df: pd.DataFrame, label: str, kind: str = "air"):
+    if kind == "air":
+        expander = pd.DataFrame([
+            ("Emissions to air/(unspecified)", "air/unspecified"),
+            ("Emissions to air/high. pop.", "air/urban air close to ground"),
+            ("Emissions to air/indoor", "air/indoor"),
+            ("Emissions to air/low. pop.", "air/non-urban air or from high stacks"),
+            ("Emissions to air/low. pop., long-term", "air/low population density, long-term"),
+            ("Emissions to air/stratosphere + troposphere", "air/lower stratosphere + upper troposphere"),
+            ("Emissions to air/stratosphere", "air/lower stratosphere + upper troposphere"),
+        ], columns=["Context", label])
+        return df.merge(expander, how="left", on="Context")
