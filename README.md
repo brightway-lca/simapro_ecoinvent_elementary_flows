@@ -66,12 +66,18 @@ Here is our current mapping for different base `Context` values
 | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
 | ----------------- | --------------- | -------------------------------------- |
 | natural resource/land | Resources/land | = |
+| natural resource/unspecified | Resources/(unspecified) | = |
+| natural resource/biotic | Resources/biotic | = |
+| natural resource/in ground | Resources/in ground | = |
+| natural resource/in air | Resources/in air | = |
+| natural resource/in water | Resources/in water | = |
+| natural resource/in water | Resources/fossil well | ~ |
 
 #### Water
 
 | ecoinvent context | Simapro context | Match condition (Simapro to ecoinvent) |
 | ----------------- | --------------- | -------------------------------------- |
-| water/fossil well | Emissions to water/groundwater, long-term | ~ |
+| water/fossil well | Emissions to water/fossilwater | ~ |
 | water/ground- | Emissions to water/groundwater | = |
 | water/ground-, long-term | Emissions to water/groundwater, long-term | = |
 | water/ocean | Emissions to water/ocean | = |
@@ -86,7 +92,8 @@ Here is our current mapping for different base `Context` values
 | ----------------- | --------------- | -------------------------------------- |
 | air/indoor | Emissions to air/indoor | = |
 | air/low population density, long-term | Emissions to air/low. pop., long-term | = |
-| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere + troposphere | = |
+| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere | ~ |
+| air/lower stratosphere + upper troposphere | Emissions to air/stratosphere + troposphere | ~ |
 | air/non-urban air or from high stacks | Emissions to air/low. pop. | = |
 | air/unspecified | Emissions to air/(unspecified) | = |
 | air/urban air close to ground | Emissions to air/high. pop. | = |
@@ -98,6 +105,7 @@ Here is our current mapping for different base `Context` values
 | soil/agricultural |  Emissions to soil/agricultural | = |
 | soil/forestry |  Emissions to soil/forestry | = |
 | soil/industrial |  Emissions to soil/industrial | = |
+| soil/industrial |  Emissions to soil/urban, non industrial | ~ |
 | soil/unspecified |  Emissions to soil/(unspecified) | = |
 
 ## Contributing
