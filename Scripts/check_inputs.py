@@ -41,7 +41,9 @@ def check_inputs():
     errors = []
 
     for filename in CONTRIBUTE_DIR.iterdir():
-        if filename.suffix.lower() == ".csv":
+        if not (CONTRIBUTE_DIR / filename).is_file():
+            continue
+        elif filename.suffix.lower() == ".csv":
             df = pd.read_csv(CONTRIBUTE_DIR / filename)
             if set(df.columns).symmetric_difference(REQUIRED_COLUMNS).difference(OPTIONAL_COLUMNS):
                 errors.append(
