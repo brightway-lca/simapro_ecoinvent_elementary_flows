@@ -14,6 +14,7 @@ UNMATCHED_DIR.mkdir(exist_ok=True)
 BY_CATEGORY = UNMATCHED_DIR / "By category"
 BY_CATEGORY.mkdir(exist_ok=True)
 
+
 def run():
     df_mapped = pd.read_csv(MAPPED_FILE)
     df_inputs_ei = pd.read_csv(INPUTS_EI)
