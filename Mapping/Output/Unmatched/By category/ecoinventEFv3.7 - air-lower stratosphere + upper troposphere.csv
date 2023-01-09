@@ -1,26 +1,11 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-2-Methyl pentane,000107-83-5,C6H14,Isohexane,kg,chemical,,,air/lower stratosphere + upper troposphere,a9afc2a9-9479-44b6-afcf-23f305bb261c,,,107-83-5
-2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,air/lower stratosphere + upper troposphere,f9501098-4a8e-4cd1-98b7-00afbac477a4,,,513-35-9
-"Benzene, dichloro",000095-50-1,,,kg,chemical,,,air/lower stratosphere + upper troposphere,77db8bd1-5a69-465c-b51f-7b27fbb574a5,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,air/lower stratosphere + upper troposphere,5128d076-e7a6-4bba-9a3a-432b2bce31fd,,,12316-49-3; 12069-32-8
-Butanol,000071-36-3,,,kg,chemical,,,air/lower stratosphere + upper troposphere,b83f893c-f4b4-473f-bd13-a23fd300c5d1,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 Calcium hydroxide,001305-62-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,411d78df-01f8-4a5f-8d13-92670620b934,,,1305-62-0
 Diborane,019287-45-7,,,kg,chemical,,,air/lower stratosphere + upper troposphere,e3a77fe9-4fa1-4977-93cf-3495b355817f,,,14452-61-0; 19287-45-7
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,air/lower stratosphere + upper troposphere,e385da6d-8c5a-42ff-a8fe-d18943079774,,,
-Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,air/lower stratosphere + upper troposphere,fe976683-7080-4a79-8538-810793d21c53,,,110-80-5
-"Methane, chloro-fluoro-, HCFC-31",000593-70-4,,,kg,chemical,,,air/lower stratosphere + upper troposphere,41f45128-cebe-4ece-aafa-7406a5c98775,,,
-"Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,air/lower stratosphere + upper troposphere,6c833956-6302-47c3-8abc-7ecae92266fb,,,
-"Methane, tetrafluoro-, R-14",000075-73-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,6d023c39-c04e-4305-b2e4-adc89b53e708,,,
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/lower stratosphere + upper troposphere,78457869-af20-404f-a3bf-bad384fc177b,,,74-89-5
-Monochloroethane,000075-00-3,,,kg,chemical,,,air/lower stratosphere + upper troposphere,4394c871-7245-4bfc-8e9d-9a875e81b7ee,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
 "NMVOC, non-methane volatile organic compounds, unspecified origin",,,not including single substances,kg,group,,,air/lower stratosphere + upper troposphere,36c96aed-9335-4564-8cdd-46f01a13700c,,,
-o-Nitrotoluene,000088-72-2,,"o-Mononitrotoluene, o-methylnitrobenzene, 2-nitrotoluene, ONT",kg,chemical,,,air/lower stratosphere + upper troposphere,4278f8fe-d3ac-4744-8386-7c8030f7386c,,,88-72-2
-"Phenol, 2,4-dichloro",000120-83-2,,,kg,chemical,,,air/lower stratosphere + upper troposphere,919aa517-c05d-4bcc-9070-422b8e16d9a9,,,
 Potassium chloride,007447-40-7,,,kg,chemical,,,air/lower stratosphere + upper troposphere,5f16e477-6c5d-4c10-98df-97d47e584351,,,14336-88-0; 7447-40-7
 Potassium hydroxide,001310-58-3,,,kg,chemical,,,air/lower stratosphere + upper troposphere,0a17349d-b0d6-4dae-b3e6-c363df32148c,,,1310-58-3
-Propanol,000071-23-8,,,kg,chemical,,,air/lower stratosphere + upper troposphere,f6979c44-2a8a-4730-a4b4-376d5539dcd0,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
 "Radiation, electromagnetic",,,,MJ,energy,,,air/lower stratosphere + upper troposphere,26997b2a-7acf-445b-b07e-d6736fd4ac81,,,
 Sodium perchlorate,007601-89-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,021b8f30-26ac-4012-880a-69bfd65bfed4,,,7601-89-0
-Sodium tetrahydridoborate,016940-66-2,,,kg,chemical,,,air/lower stratosphere + upper troposphere,f1a587cf-0335-4410-b7d3-ea90497a07a6,,,
-"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,air/lower stratosphere + upper troposphere,2df9d4e0-f095-4089-be46-1c1acbcf3a09,,,
 Trichlorosilane,010025-78-2,,,kg,chemical,,,air/lower stratosphere + upper troposphere,e4020f30-9370-4f8d-854b-a342d4d6419c,,,

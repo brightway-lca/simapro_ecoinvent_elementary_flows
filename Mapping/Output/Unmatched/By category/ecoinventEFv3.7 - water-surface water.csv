@@ -1,48 +1,28 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-"2,4-D amines",002008-39-1,,"2,4-D dimethylamine salt",kg,group?,,,water/surface water,c7dcf08c-f297-495b-b7db-f4f54799814b,,,
-"2,4-DB",000094-82-6,,,kg,chemical,,,water/surface water,05136060-b6a6-4383-ae42-6ca90aeec59a,,,94-82-6
-2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,water/surface water,2df5a2fe-1ab2-48e7-a9a6-1085703b17be,,,513-35-9
-"Acrylate, ion",000079-10-7,,,kg,chemical,,,water/surface water,eabb67d6-08cc-4c6e-ad95-6509e778730a,,,
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,water/surface water,8c8ffaa5-84ed-4668-ba7d-80fd0f47013f,,,
-Benz(a)anthracene,000056-55-3,C18H12,Tetraphene,kg,chemical,,,water/surface water,ad3f2ad1-7386-4725-9b33-57392b5c22ac,,,56-55-3
-Benzo(ghi)perylene,000191-24-2,C22H12,,kg,chemical,,,water/surface water,0017ce28-9f7a-404b-ad55-d3f43ad13cae,,,191-24-2
 "BOD5, Biological Oxygen Demand",,,,kg,other,,,water/surface water,70d467b6-115e-43c5-add2-441de9411348,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,water/surface water,cfd4f0cb-8f13-4d7b-a3a7-ea454aa7643a,,,12316-49-3; 12069-32-8
-Butanol,000071-36-3,,,kg,chemical,,,water/surface water,f6e3ce3b-ce57-4313-ac88-59a8361925cf,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 "Cadmium, ion",022537-48-0,,,kg,chemical,,,water/surface water,af83b42f-a4e6-4457-be74-46a87798f82a,,,
 "Calcium, ion",014127-61-8,,,kg,chemical,,,water/surface water,ac066c02-b403-407b-a1f0-b29ad0f8188f,,,
 "Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,water/surface water,85727faa-6607-4834-a34c-45a742a24c29,,,
-"Chromium, ion",016065-83-1,,,kg,chemical,,,water/surface water,e34d3da4-a3d5-41be-84b5-458afe32c990,,,
 "COD, Chemical Oxygen Demand",,,,kg,other,,,water/surface water,fc0b5c85-3b49-42c2-a3fd-db7e57b696e3,,,
 "Copper, ion",017493-86-6,,,kg,chemical,,,water/surface water,6d9550e2-e670-44c1-bad8-c0c4975ffca7,,,
 Diborane,019287-45-7,,,kg,chemical,,,water/surface water,40cb6ea0-d72a-47aa-b186-0c05891187e0,,,14452-61-0; 19287-45-7
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,water/surface water,d1d77d54-e19f-4c3d-8fdc-389f78e72515,,,
 Dissolved solids,,,,kg,other,,,water/surface water,cfecebe1-1e13-458d-85bc-d40a9f934927,,,
-Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,water/surface water,6192f17c-9390-4381-9e58-99e384428da5,,,110-80-5
 Fluoboric acid,016872-11-0,,,kg,chemical,,,water/surface water,88eaa159-4194-49eb-9905-9b937e644fb8,,,16872-11-0
 Fresh water (obsolete),,,,m3,water,,,water/surface water,8bdedc25-af46-4c46-9b3a-670d0c177d8f,,,
-"Iron, ion",015438-31-0,,,kg,chemical,,,water/surface water,7c335b9c-a403-47a8-bb6d-2e7d3c3a230e,,,
 Krypton-85,013983-27-2,Kr,,kBq,chemical,,,water/surface water,ae0d3325-09c1-45ad-90d0-a9b2097b707d,,,13983-27-2
 "Lithium, ion",017341-24-1,,,kg,chemical,,,water/surface water,e98084d6-88a2-48cf-9ad5-6462fe9cf857,,,17341-24-1
-MCPA,000094-74-6,,(4-chloro-2-methylphenoxy)acetic acid,kg,chemical,,,water/surface water,fc3c75dc-e39c-463b-8b26-96cfc0ed4b47,,,94-74-6
-"Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,water/surface water,4d93311d-5fc2-4f86-ab4f-b223ee9350e5,,,
-Methyl amine,000074-89-5,CH5N,,kg,chemical,,,water/surface water,b1945566-c8ad-4d48-9135-c39eedde1e63,,,74-89-5
 Methyl borate,000121-43-7,,,kg,chemical,,,water/surface water,931f666b-6665-48a5-8fb0-7beced65c144,,,1212-43-7; 3349-42-6; 121-43-7
-Monochloroethane,000075-00-3,,,kg,chemical,,,water/surface water,aca00a43-1ff9-489e-8fc6-00d2551eece8,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
-Naphtalene,000091-20-3,C10H8,"bicyclo(4.4.0)deca-1,3,5,7,9-pentene",kg,chemical,,,water/surface water,6ed91be2-eb3f-4676-957c-60de03d8e536,,,72931-45-4; 25135-16-4; 1683-98-3; 91-20-3; 91-20-3
 "Nickel, ion",014701-22-5,,,kg,chemical,,,water/surface water,9798359e-a3ee-4362-a038-23a188582c6e,,,
-o-Dichlorobenzene,000095-50-1,,,kg,chemical,,,water/surface water,79b3f708-dd3f-4ccb-9121-a4cdd46e0dc4,,,24634-92-2; 95-50-1; 95-50-1
 "Oils, non-fossil",,,,kg,group,,,water/surface water,8244db98-b33f-4f4e-98e5-39dd130a1713,,,
 "Perchlorate, ion",014797-73-0,,,kg,chemical,,,water/surface water,b59faa48-28a7-485e-b8c1-6284dff23282,,,
 "Potassium, ion",024203-36-9,,,kg,chemical,,,water/surface water,1653bf60-f682-4088-b02d-6dc44eae2786,,,
-Propanol,000071-23-8,,"propan-1-ol, 1-propanol, propyl alcohol, n-propanol, n-propyl alcohol",kg,chemical,,,water/surface water,3277a622-8234-4c73-ba22-526cf9a0fccc,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
-Pyraclostrobin,175013-18-0,,methyl N-{2-[1-(4-chlorophenyl)pyrazol-3-yloxymethyl]phenyl}(N-methoxy)carbamate,kg,chemical,,,water/surface water,746ad09d-3f01-40ed-9802-cb274bd4fb40,,,175013-18-0
 "Radioactive species, from fission and activation",,,,kBq,group,,,water/surface water,71b8d07b-d181-43f1-b8a2-67d7404a66ad,,,
 "Silver, ion",014701-21-4,,,kg,chemical,,,water/surface water,af9793ba-25a1-4928-a14a-4bcf7d5bd3f7,,,
 "Sodium, ion",017341-25-2,,,kg,chemical,,,water/surface water,1fc409bc-b8e7-48b2-92d5-2ced4aa7bae2,,,
 "Tin, ion",022537-50-4,,,kg,chemical,,,water/surface water,3ddb2e36-bc1b-43a5-8ef4-cbcdbeeeea70,,,
 "Titanium, ion",022541-75-9,,,kg,chemical,,,water/surface water,ff36578b-f403-4656-b934-81d8d4e02dc8,,,15969-58-1
-"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,water/surface water,ea5789d9-c0f9-4aeb-9df9-0caaf211534b,,,
 Trichlorosilane,010025-78-2,,,kg,chemical,,,water/surface water,8df6a0bc-e255-4091-b8d2-61fdda79fdd0,,,
 "Vanadium, ion",022541-77-1,,,kg,chemical,,,water/surface water,a46a250e-297d-43e9-b1c4-052cdcfb79c5,,,
 "Zinc, ion",023713-49-7,,,kg,chemical,,,water/surface water,541b633c-17a3-4047-bce6-0c0e4fdb7c10,,,

@@ -314,7 +314,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "2-Methyl-2,4-pentanediol",000107-41-5,,"2-Methyl-2,4-pentanediol",kg,Emissions to soil,Emissions to soil,403D6A09-13DB-4561-A676-FBF14AEC85D4,
 2-Methyl-3-butyn-2-ol,000115-19-5,,2-Methyl-3-butyn-2-ol,kg,Emissions to soil,Emissions to soil,D7776AE5-0E7B-4100-95E9-90C2BDF37D68,
 2-Methyl-4-chlorophenol,001570-64-5,,2-Methyl-4-chlorophenol,kg,Emissions to soil,Emissions to soil,7D10B7C5-924E-404A-9946-878A3C8B3E2D,
-2-Methyl-4-chlorophenoxyacetic acid,000094-74-6,,2-Methyl-4-chlorophenoxyacetic acid,kg,Emissions to soil,Emissions to soil,0F0AB1DE-A4BB-429D-A75B-EE60DFEBAEDF,Formula: C9H9ClO3
 2-Methyl-6-chlorophenol,000087-64-9,,2-Methyl-6-chlorophenol,kg,Emissions to soil,Emissions to soil,E41FBC99-7586-4DE9-86AB-FBE1230BB5B3,
 2-Methyl-6-nitrobenzeneamine,000570-24-1,,2-Methyl-6-nitrobenzeneamine,kg,Emissions to soil,Emissions to soil,7D3FAE9B-4619-47F9-9DB8-0BACD68BECC5,
 2-Methylanthracene,000613-12-7,,2-Methylanthracene,kg,Emissions to soil,Emissions to soil,4C48360B-6CC0-4C51-B6A6-9E4695A4CBDB,
@@ -417,7 +416,6 @@ Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
 "2,4-D sodium salt",002702-72-9,,"2,4-D sodium salt",kg,Emissions to soil,Emissions to soil,8F329383-2DFE-4064-8172-7660AC48CAC7,
 "2,4-D, Butoxypropyl ester",001928-45-6,,"2,4-D, Butoxypropyl ester",kg,Emissions to soil,Emissions to soil,A6BC2C9F-441C-4EAA-97B7-5B7D579C9D85,
 "2,4-D, diethanolamine salt",005742-19-8,,"2,4-D, diethanolamine salt",kg,Emissions to soil,Emissions to soil,A09711E0-6CBD-479E-BD08-5DE366BA6861,"Formula: C12H17Cl2NO5Synonyms: 2,4-Dichlorophenoxyacetic acid, diethanolamine salt; 2,4-Dichlorophenoxyacetic acid with 2,2'-iminodiethanol; Acetic acid, (2,4-dichlorophenoxy)-, compd. with 2,2'-iminobis(ethanol) (1:1); Diethanolamine (2,4-dichlorophenoxy)acetate"
-"2,4-D, dimethylamine salt",002008-39-1,,"2,4-D, dimethylamine salt",kg,Emissions to soil,Emissions to soil,EE987DD1-0C61-42F9-B392-A4B8F6C138DB,"Formula: C10H13Cl2NO3 Synonyms: (2,4-Dichlorophenoxy)acetic acid dimethylamine salt; 2,4-d dna; acetic acid,(2,4-dichlorophenoxy)-compd. with N-methyl methanamine (1:1); dimethylamine, (2,4-dichlorophenoxy)acetate; dimethylamine salt of 2,4-d; dimethylammonium 2,4-dichlorophenoxyacetate; N-methylmethanamine 2,4-dichlorophenoxyacetate"
 "2,4-D, isopropylamine salt",005742-17-6,,"2,4-D, isopropylamine salt",kg,Emissions to soil,Emissions to soil,213F172F-9D9F-4FED-ADEA-3567198CC405,"Formula: C11H15Cl2NO3Synonyms: 2,4-Dichlorophenoxyacetic acid, isopropylamine salt; Acetic acid, (2,4-dichlorophenoxy)-, compd. with 2-propanamine (1:1); Isopropylamine 2,4-dichlorophenoxyacetate"
 "2,4-Diaminoanisole sulfate",039156-41-7,,"2,4-Diaminoanisole sulfate",kg,Emissions to soil,Emissions to soil,49A701C1-ED1D-4CD8-ACED-9E7D21E11D4B,"Formula: C7H12N2O5SSynonyms: 1,3-Benzenediamine, 4-Methoxy, Sulfate; 1,3-diamino-4-methoxybenzene sulfate; 2,4-diamino-1-methoxybenzene sulfate; 2,4-DAA, Sulfate; 4-methoxy-m-phenylenediamine sulfate; 4-MMPD sulfate; anisole, 2,4-diamino-, hydrogen sulfate; C.I. 76051; C.I. Oxidation Base 12a; Fourrine SLA; Pelagol SLA"
 "2,4-Diaminoazobenzene",000495-54-5,,"2,4-Diaminoazobenzene",kg,Emissions to soil,Emissions to soil,EA98D8E4-95BB-4478-B866-0DD384F50F4C,
@@ -784,7 +782,6 @@ Acetyl bromide,000506-96-7,,Acetyl bromide,kg,Emissions to soil,Emissions to soi
 Acetyl chloride,000075-36-5,,Acetyl chloride,kg,Emissions to soil,Emissions to soil,CD97D4A6-A8C8-4330-9544-E079B1FA0EC4,
 "Acetylene, dichloro-",007572-29-4,,"Acetylene, dichloro-",kg,Emissions to soil,Emissions to soil,06C4CDF0-5848-47BF-B358-7FC3CCBC877C,Formula: C2Cl2Synonyms: Dichloroethyne; DCA
 Acetylsalicylic acid,000050-78-2,,Acetylsalicylic acid,kg,Emissions to soil,Emissions to soil,D21670BC-7B12-4D1F-8149-AF7F1E6B7470,
-Acibenzolar-s-methyl,135158-54-2,,Acibenzolar-s-methyl,kg,Emissions to soil,Emissions to soil,5EAE4591-92D9-412C-A5FA-1E984F408D12,"Formula: C8H6N2OS2Synonyms: Benzothiadiazole-7-carbothioic acid, S-methyl ester"
 "Acidity, unspecified",,,"Acidity, unspecified",kg,Emissions to soil,Emissions to soil,76549F64-1F5E-45EE-BECB-D9D280B2C17C,
 Acifluorfen sodium salt,062476-59-9,,Acifluorfen sodium salt,kg,Emissions to soil,Emissions to soil,186FBC23-3AF4-4756-A0C1-E6B158CB9401,Formula: C14H6ClF3NNaO5 Synonyms: Blazer; sodium 5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoate
 Acridine,000260-94-6,,Acridine,kg,Emissions to soil,Emissions to soil,E9E39823-ACB2-4874-8E2F-E84FDA09D978,
@@ -1004,7 +1001,6 @@ Benzene,000071-43-2,,Benzene,kg,Emissions to soil,Emissions to soil,3BBEED9B-5D9
 "Benzene, hexabromo-",000087-82-1,,"Benzene, hexabromo-",kg,Emissions to soil,Emissions to soil,74CC128A-07F3-4507-805D-58669F0E55F0,Formula: C6Br6
 "Benzene, hexachloro-",000118-74-1,,"Benzene, hexachloro-",kg,Emissions to soil,Emissions to soil,B7B2C796-19E2-4194-A448-02EB7FEC8DA7,Formula: C6Cl6
 "Benzene, pentachloro-",000608-93-5,,"Benzene, pentachloro-",kg,Emissions to soil,Emissions to soil,CDF3E855-4A16-49A6-A053-2154FD870295,Formula: C6HCl5
-"Benzene, pentachloronitro-",000082-68-8,,"Benzene, pentachloronitro-",kg,Emissions to soil,Emissions to soil,AE729AEA-5B49-4BF0-82B5-26265E5D49B4,"Formula: C6Cl5NO2Synonyms: Benzene, pentachloronitro-Avical; Avicol; Quintozine; saniclor 30; SA Terraclor; SA Terraclor 2E; Terrachlor; Terraclor; Terrafun; Tilcarex; Tri PCNB; tritisan; batrilex; Botrilex; brassicol; Earthcide; Eorthcicle; fartox; fomac 2; Fortox; fungiclor; gc 3944-3-4; Kobu; Kobutol; KP 2; Marison Forte; nitropentachlorobenzene; olpisan; PCNB; Pentachloronitrobenzene; Pentachloronitrobenzene ; Pentagen; Pkhnb; quintobenzene; quintocene; quintozen; "
 "Benzene, pentamethyl-",000700-12-9,,"Benzene, pentamethyl-",kg,Emissions to soil,Emissions to soil,817BBC40-CF79-4A95-9F7F-A3AA959A481A,
 "Benzene, trinitro-",000099-35-4,,"Benzene, trinitro-",kg,Emissions to soil,Emissions to soil,CC330625-7454-49A1-8090-3870A192C39E,"Formula: C6H3N3O6Synonyms: 1,3,5-trinitrobenzene; benzite; sym-Trinitrobenzene; Trinitrobenzol"
 "Benzeneacetic acid, ,alpha,-ethyl-",000090-27-7,,"Benzeneacetic acid, ,alpha,-ethyl-",kg,Emissions to soil,Emissions to soil,F4A499BF-367A-40C9-8713-D30AEC55CF45,
@@ -1084,7 +1080,6 @@ Benzylthiocyanate,003012-37-1,,Benzylthiocyanate,kg,Emissions to soil,Emissions 
 Beryllium compounds,,,Beryllium compounds,kg,Emissions to soil,Emissions to soil,57461A0A-1C26-4F0C-9EC2-49ADE5A1225B,
 beta-bromo-beta-nitrostyrene,007166-19-0,,beta-bromo-beta-nitrostyrene,kg,Emissions to soil,Emissions to soil,50E8775A-B37A-4EED-B38B-B79A305A49B8,Formula: C8H6BrNO2Synonyms: Bromonitrostyrene; 10245-w; (2-bromo-2-nitroethenyl)benzene; GIV 2-0820; Giv-cide BNS; Giv-gard BNS; Slimitrole; Slime-trol
 beta-Carotene,007235-40-7,,beta-Carotene,kg,Emissions to soil,Emissions to soil,94042C17-30FE-486E-AFCD-ACFF13C819DB,
-Beta-cyfluthrin,068359-37-5,,Beta-cyfluthrin,kg,Emissions to soil,Emissions to soil,4BEEC652-69CE-49A7-AF1F-668C14EAC394,
 Beta-cypermethrin isomer,065732-07-2,,Beta-cypermethrin isomer,kg,Emissions to soil,Emissions to soil,EAC58145-C6E3-4C85-B0FA-5636579DF0EA,
 beta-Naphthylamine,000091-59-8,,beta-Naphthylamine,kg,Emissions to soil,Emissions to soil,7AE37D32-CA8A-4707-BE8B-1F263AD3F83E,Formula: C10H9N Synonyms: 2-Aminonaphthalene; 2-Naphthalenamine; 2-naphthylamine; 6-naphthylamine; BNA
 Beta-phenylpropionic acid,000501-52-0,,Beta-phenylpropionic acid,kg,Emissions to soil,Emissions to soil,9E251601-406E-4D92-A187-8DBA8C15D5EF,
@@ -1171,7 +1166,6 @@ Butylated hydroxyanisole,025013-16-5,,Butylated hydroxyanisole,kg,Emissions to s
 Butylphthalyl butylglycolate,000085-70-1,,Butylphthalyl butylglycolate,kg,Emissions to soil,Emissions to soil,A821B060-2915-4CF4-B6E5-5F7A4E50A3C1,"Formula: C18H24O6Synonyms: Butylglycolyl butyl phthalate; 1,2-Benzenedicarboxylic acid 2-butoxy-2-oxoethyl butyl ester; Butoxycarbonylmethyl butyl phthalate; Butyl carbobutoxymethyl phthalate; Phthalic acid, butyl ester, ester with butyl glycolate"
 Butylurea,000592-31-4,,Butylurea,kg,Emissions to soil,Emissions to soil,2EFCD367-9F6A-4263-9695-0B99E960C2E9,
 Butyric acid,000107-92-6,,Butyric acid,kg,Emissions to soil,Emissions to soil,52B67C71-105E-4B1A-9708-73D8DF9C9122,
-"Butyric acid, 4-(2,4-dichlorophenoxy)-",000094-82-6,,"Butyric acid, 4-(2,4-dichlorophenoxy)-",kg,Emissions to soil,Emissions to soil,861B3BA9-5879-477F-8100-1426DEB138C0,"Formula: C10H10Cl2O3 Synonyms: 2,4-dichlorophenoxybutyric acid; 2,4-DB; 2,4-DB acid; 2,4-DB amine; 4-(2,4-dichlorophenoxy)butanoic acid; 4-(2,4-DB); Butyric acid, 4-(2,4-dichlorophenoxy) ; Embutone; Legumex; Venceweed; 2,4-DM"
 "Butyric acid, butyl ester",,,"Butyric acid, butyl ester",kg,Emissions to soil,Emissions to soil,5BE179E1-7069-47BE-B13E-ED77D2FF1B7F,
 "Butyric acid, ethyl ester",,,"Butyric acid, ethyl ester",kg,Emissions to soil,Emissions to soil,9923D09F-EFB5-4AF8-A4A0-E87779AB8D98,
 Butyrolactone,000096-48-0,,Butyrolactone,kg,Emissions to soil,Emissions to soil,1904813C-B0A8-4E1F-87EC-9A28DABC2BF3,
@@ -1241,8 +1235,6 @@ Caprolactam,000105-60-2,,Caprolactam,kg,Emissions to soil,Emissions to soil,CF36
 Capsaicin,000404-86-4,,Capsaicin,kg,Emissions to soil,Emissions to soil,8BF5B410-5B5F-447B-873E-3FB68695CB88,"Formula: C18H27NO3Synonyms: 6-Nonenamide, N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methyl-, (E)-; 8-Methyl-N-vanillyl-6-nonenamide; Nonenamide, N-((4-hydroxy-3-methoxyphenyl)methyl)-8-methyl-, (E)-; Zostrix"
 Captafol,002939-80-2,,Captafol,kg,Emissions to soil,Emissions to soil,527686D4-2CF9-419E-8739-86C54FB18748,Formula: C10H9Cl4NO2S 
 Carbamazepine,000298-46-4,,Carbamazepine,kg,Emissions to soil,Emissions to soil,899B8A39-EA03-4D0A-9259-1549B6AA48C1,
-"Carbamic acid, (3,4-diethoxyphenyl)-, 1-methylethyl ester",087130-20-9,,"Carbamic acid, (3,4-diethoxyphenyl)-, 1-methylethyl ester",kg,Emissions to soil,Emissions to soil,BE28CFDB-EAED-4AA6-AAF3-54A8C5E78646,Formula: C14H21NO4Synonyms: Diethofencarb
-"Carbamic acid, [(dibutylamino)thio]methyl-, 2,3-dihydro-2,2-dimethyl-7-benzofuranyl ester",055285-14-8,,"Carbamic acid, [(dibutylamino)thio]methyl-, 2,3-dihydro-2,2-dimethyl-7-benzofuranyl ester",kg,Emissions to soil,Emissions to soil,A5E1B82C-C37B-41F8-815C-952E049AFCE4,"Formula: C20H32N2O3SSynonyms: Carbosulfan, Dibutylaminosulfenylcarbofuran"
 "Carbamic acid, butyl-, 3-iodo-2-propynyl ester",055406-53-6,,"Carbamic acid, butyl-, 3-iodo-2-propynyl ester",kg,Emissions to soil,Emissions to soil,097C6AC4-3304-4CE6-89AC-AC59D48B3D20,Formula: C8H12INO2 Synonyms: 3-Iodo-2-propynyl butylcarbamate
 "Carbamic acid, ethyl ester",000051-79-6,,"Carbamic acid, ethyl ester",kg,Emissions to soil,Emissions to soil,0EAC314F-1482-4AA6-82F2-4E1A9AAC6AD0,Formula: C3H7NO2 Synonyms: o-Ethyl carbamate; o-ethylurethane; Carbamic acid ethyl ester; Ethyl carbamate; ethyl ester of carbamic acid; Ethyl urethane; leucethane; leucothane; pracarbamin; u-compound; urethane
 Carbarsone,000121-59-5,,Carbarsone,kg,Emissions to soil,Emissions to soil,7D925B49-58DC-4A2E-BEB6-06D4D1724B23,
@@ -1321,7 +1313,6 @@ Chlorpropamide,000094-20-2,,Chlorpropamide,kg,Emissions to soil,Emissions to soi
 Chlorpropham,000101-21-3,,Chlorpropham,kg,Emissions to soil,Emissions to soil,58DF18CF-7C5F-4EDF-A833-23A7AE8CCA03,Formula: C10H12ClNO2 
 Chlorthiamid,001918-13-4,,Chlorthiamid,kg,Emissions to soil,Emissions to soil,44F8D651-A28E-4E70-8A30-C8872FF1CFB3,
 Chlorthiophos (main isomer),021923-23-9,,Chlorthiophos (main isomer),kg,Emissions to soil,Emissions to soil,CC21C3BE-45F6-4BF9-B452-B1EAAFDE4FEE,
-Chlortoluron,015545-48-9,,Chlortoluron,kg,Emissions to soil,Emissions to soil,5C97A115-4718-4211-97B2-BD493EAAC02B,
 Chromium compounds,,,Chromium compounds,kg,Emissions to soil,Emissions to soil,20ABE36D-92E1-4BC6-AF37-52D31DBA2549,
 Chromium III,016065-83-1,,Chromium III,kg,Emissions to soil,Emissions to soil,448CFFD2-9734-4F23-861D-4A537BC18DB2,Formula: Cr3+
 Chrysazin,000117-10-2,,Chrysazin,kg,Emissions to soil,Emissions to soil,61C84007-D940-49C6-8FFD-CBC0B6CCA5AD,"Formula: C14H8O4Synonyms: 1,8-dihydroxy-9,10-anthracenedione; 1,8-dihydroxy-9,10-anthraquinone; Modane; zwitsalax; 1,8-dioxyanthraquinone; Altan; antrapurol; dianthon; diaquone; dioxyanthrachinonum; danivac; danthro-lax; Danthron; Dantron; dorbane; dorbanex; duolax; Istin; istizin; laxanorm; laxanthreen; laxipur; laxipurin; LTAN"
@@ -1571,7 +1562,6 @@ Dinoterb,001420-07-1,,Dinoterb,kg,Emissions to soil,Emissions to soil,D1A65FD1-B
 Dioxacarb,006988-21-2,,Dioxacarb,kg,Emissions to soil,Emissions to soil,D8D03459-BE7D-4A75-87D9-E693985C5718,
 Dioxathion,000078-34-2,,Dioxathion,kg,Emissions to soil,Emissions to soil,6901BC81-3DA1-4AAF-B5BD-17855EB2022C,
 "Dioxin, 1,2,3,7,8,9-hexachlorodibenzo-",019408-74-3,,"Dioxin, 1,2,3,7,8,9-hexachlorodibenzo-",kg,Emissions to soil,Emissions to soil,FC33AFA4-7B23-4B01-9BB8-6A34A70669A3,"Formula: C12H2Cl6O2Synonyms: 1,2,3,7,8,9-hcdd; 1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin; HXCDD"
-"Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",001746-01-6,,"Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",kg,Emissions to soil,Emissions to soil,E3C0E77F-7FE5-402D-B28D-EE512EEF3297,"Synonym: 2,3,7,8-tetracdd"
 Dioxolane,000100-79-8,,Dioxolane,kg,Emissions to soil,Emissions to soil,0E84C533-2D5A-42F9-A8B1-E6EA16BD6788,
 Diphenamid,000957-51-7,,Diphenamid,kg,Emissions to soil,Emissions to soil,252A598D-71C4-4C63-BE4F-1326106FE68D,"Formula: C16H17NOSynonyms: DIF 4; Diherbid; Dimethyl-2,2-diphenylacetamide; Dimid; Diphenyl-N,N-dimethylacetamide; Dyfen; Dymid; Enide; Fenam; Lilly 34,314; N,N-dimethyl-alpha-phenylbenzeneacetamide; Rideon"
 Diphenyl disulfide,000882-33-7,,Diphenyl disulfide,kg,Emissions to soil,Emissions to soil,98B07B6D-568E-4A89-92E4-892F864287F1,
@@ -1588,16 +1578,13 @@ Dipropyl phthalate,000131-16-8,,Dipropyl phthalate,kg,Emissions to soil,Emission
 Dipropylamine,000142-84-7,,Dipropylamine,kg,Emissions to soil,Emissions to soil,62A801D8-2061-47E8-BC95-227BEAECEB30,
 Dipropylene glycol,025265-71-8,,Dipropylene glycol,kg,Emissions to soil,Emissions to soil,68348709-9BC3-4754-821E-9ABE6B91E4A6,
 Dipropylene glycol methyl ether,034590-94-8,,Dipropylene glycol methyl ether,kg,Emissions to soil,Emissions to soil,CB340ADD-9198-4F41-8295-89813DEAECBB,"Formula: C7H16O3Synonyms: (2-methoxymethylethoxy)propanol; Arcosolve DPM; bis-(2-Methoxypropyl) ether; Dipropylene Glycol Methyl Ether; dipropylene glycol monomethyl ether; dowanol 50b; Dowanol DPM; Oxybispropanol, Methyl Ether; PPG-2 methyl ether; Propanol, 1(or 2)-(2-methoxymethylethoxy)-;"
-Dipropylthiocarbamic acid S-ethyl ester,000759-94-4,,Dipropylthiocarbamic acid S-ethyl ester,kg,Emissions to soil,Emissions to soil,4A7F7CFD-E829-4A7D-8F33-DABEC2882D6D,Formula: C9H19NOS Synonyms: Alirox; Eptam; EPTC; Ethyl di-n-propylthiolcarbamate; Ethyl dipropylthiocarbamate; Farmarox; Genep; Genep EPTC; Niptan; Rhino; S-ethyl dipropylcarbamothioate; Sutan 10G; Sutan 6.7E; Dipropylthiocarbamic acid S-ethyl ester
 Dipyrone,000068-89-3,,Dipyrone,kg,Emissions to soil,Emissions to soil,AA5FF414-7CCC-4B3A-BFFB-00A92782CF63,
 "Disodium 4,4'-bis(2-sulfostyryl)biphenyl",027344-41-8,,"Disodium 4,4'-bis(2-sulfostyryl)biphenyl",kg,Emissions to soil,Emissions to soil,D970FBDE-B384-4D02-A626-E9A947A7654C,
-Disodium acid methane arsenate,000144-21-8,,Disodium acid methane arsenate,kg,Emissions to soil,Emissions to soil,88A92619-4CA7-478C-A139-4713784F29CC,"Formula: CH3AsNa2O3 Synonyms: Ansar 184; Ansar 8100; Arrhenal; Arsinyl; Diarsen; Dinate;Disodium methanearsonate; disodium methylarsonate; Disodium monomethylarsonate; Di-Tac; Calar-e-rad; Chipco crab-kleen; Crab-E-Rad; DAL-E-RAD 100; DMSA; DSMA; Methanearsonic acid, disodium salt; Methar; Methar 30; Metharsan; Metharsinat; Methylarsonic acid, disodium salt; Namate; Scotts Clout; Sodar; Versar DSMA-LQ; Vertac Weed-e-rad; Weedone Crabgrass Killer; Disodium acid methane arsenate"
 Disodium cyanodithioimidocarbonate,000138-93-2,,Disodium cyanodithioimidocarbonate,kg,Emissions to soil,Emissions to soil,F560CC2C-FE35-4B97-A4B9-F43544AE4C86,"Formula: C2N2Na2S2 Synonyms:Carbamodithioic acid, cyano-, disodium salt; Cyanodithioimidocarbonate, disodium"
 Disodium ethydronate,007414-83-7,,Disodium ethydronate,kg,Emissions to soil,Emissions to soil,7E2985C0-C0D7-466D-8883-D2EFAE1B5201,
 Disodium phosphonate,,,Disodium phosphonate,kg,Emissions to soil,Emissions to soil,9ECD28A9-DC0D-40F3-BCB4-F845FDEA8BA7,
 Disulfiram,000097-77-8,,Disulfiram,kg,Emissions to soil,Emissions to soil,8774F45B-7BE1-4077-BF03-BB4321C0C5C7,
 Disulfoton sulfoxide,002497-07-6,,Disulfoton sulfoxide,kg,Emissions to soil,Emissions to soil,257AFB45-9DD6-448C-A492-26A9F58B9B04,
-Dithianone,003347-22-6,,Dithianone,kg,Emissions to soil,Emissions to soil,80AF1C65-6701-46FA-A758-4C507959B0A6,
 Dithiopyr,097886-45-8,,Dithiopyr,kg,Emissions to soil,Emissions to soil,552F9F4C-D96D-472A-84C7-26235F2B98E1,"Formula: C15H16F5NO2S2Synonyms: Dimension; MON-15100; MON-15151; MON-7200; S,S-dimethyl (2-difluoromethyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3,5-pyridinedicarbothioate"
 Diundecyl phthalate,003648-20-2,,Diundecyl phthalate,kg,Emissions to soil,Emissions to soil,56DAF503-A0EC-448B-9473-580000EB2E0A,
 DL-ethionine,000067-21-0,,DL-ethionine,kg,Emissions to soil,Emissions to soil,01A59E8E-6582-45E3-9500-69366F2E0828,Formula: C6H13NO2SSynonyms: (+-)-ethionine; DL-2-amino-4-(ethylthio)butyric acid; S-ethyl DL-Homocysteine
@@ -1943,7 +1930,6 @@ Iodofenphos,018181-70-9,,Iodofenphos,kg,Emissions to soil,Emissions to soil,BDC8
 Iodoform,000075-47-8,,Iodoform,kg,Emissions to soil,Emissions to soil,698D00B8-3F71-4B39-A047-82F98AE47D8F,
 Iopromide,073334-07-3,,Iopromide,kg,Emissions to soil,Emissions to soil,AFDD3E0E-D24A-441F-8CB3-6DA8A7110C2F,
 Ioxynil-sodium,002961-62-8,,Ioxynil-sodium,kg,Emissions to soil,Emissions to soil,84EF52EB-286D-44DB-BA7D-FFE76B033616,
-Iprodione,036734-19-7,,Iprodione,kg,Emissions to soil,Emissions to soil,A3295C91-B79C-49F0-A9A0-B80A93942119,"Formula: C13H13Cl2N3O3 Synonyms: 3-(3,5-dichlorophenyl)-2,4-dioxo-N-isopropylimidazolidine-1-carboxamide; 3-(3,5-dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide; Anfor; Chipco 26019; Glycophene; Iprodine; Iprodione; Iprodione ; Rovral; "
 Ipt (isoprothiolane),050512-35-1,,Ipt (isoprothiolane),kg,Emissions to soil,Emissions to soil,47675D81-78FE-4C71-A6AD-9D2A82A0BF98,
 Irgarol,028159-98-0,,Irgarol,kg,Emissions to soil,Emissions to soil,2BF7A69C-229E-4AE1-BE5E-781A7559D983,"Formula: C11H19N5SSynonyms: 1,3,5-Triazine-2,4-diamine, N-cyclopropyl-N'-(1,1-dimethylethyl)-6-(methylthio)-; 1,3,5-Triazine, 2-(tert-butylamino)-4-(cyclopropylamino)-6-(methylthio)-; Cyclopropyl-N'-(1,1-dimethylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine"
 Iron II,015438-31-0,,Iron II,kg,Emissions to soil,Emissions to soil,89C4C312-C8F2-47EE-9D63-A4BB5D724F2D,
@@ -1978,7 +1964,6 @@ Isoprene,000078-79-5,,Isoprene,kg,Emissions to soil,Emissions to soil,AD071458-F
 Isoprocarb,002631-40-5,,Isoprocarb,kg,Emissions to soil,Emissions to soil,E2C13479-3889-4899-9D12-0A70338677A6,
 Isopropalin,033820-53-0,,Isopropalin,kg,Emissions to soil,Emissions to soil,FFF74BA5-6B6F-4D23-A42A-D1D310FEF23B,"Formula: C15H23N3O4Synonyms: 2,6-Dinitro-N,N-dipropylcumidine; 2,6-Dinitro-N,N-dipropylcumidene; 4-Isopropyl-2,6-dinitro-N,N-dipropylaniline; 4-(1-methylethyl)-2,6-dinitro-N,N-dipropylbenzenamine; EL-179; Paarlan"
 "Isopropyl 2-(4-methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylate",149877-41-8,,"Isopropyl 2-(4-methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylate",kg,Emissions to soil,Emissions to soil,A91CAEAC-B502-4F05-9E6E-BA21E4CFC55F,Chemical formula: C17H20N2O3Synonym: Bifenazate
-"Isopropyl 4,4'dibromobenzilate",018181-80-1,,"Isopropyl 4,4'dibromobenzilate",kg,Emissions to soil,Emissions to soil,1BE1820D-6DD1-46DC-91EC-634636CDEBC6,
 Isopropyl acetate,000108-21-4,,Isopropyl acetate,kg,Emissions to soil,Emissions to soil,24BBBD9A-EAD3-460F-87A1-8C31DED59B20,
 Isopropyl disulfide,004253-89-8,,Isopropyl disulfide,kg,Emissions to soil,Emissions to soil,9D912950-4B4F-4B34-914E-BBDF24052C46,
 Isopropyl methacrylate,004655-34-9,,Isopropyl methacrylate,kg,Emissions to soil,Emissions to soil,A16E1681-1C97-46E8-8969-CD0CE258885A,
@@ -2075,7 +2060,6 @@ Mestranol,000072-33-3,,Mestranol,kg,Emissions to soil,Emissions to soil,D2AC2923
 meta-Cresidine,000102-50-1,,meta-Cresidine,kg,Emissions to soil,Emissions to soil,810FD36E-59F9-46B4-87B7-13B0EA7B82BF,Formula: C8H11NOSynonyms: 2-amino-5-methoxytoluene; 2-methyl-p-anisidine; 4-methoxy-2-methylaniline
 "Metacresol, parachloro-",000059-50-7,,"Metacresol, parachloro-",kg,Emissions to soil,Emissions to soil,A79B2087-E46C-46A3-9485-A93F0B46EA95,Formula: C7H7ClO 2-Chloro-5-hydroxytoluene; 3-Methyl-4-chlorophenol; p-Chloro-m-cresol; 4-chloro-3-methylphenol; 4-Chloro-3-cresol; 6-Chloro-3-hydroxytoluene; Aptal
 Metaldehyde (tetramer),000108-62-3,,Metaldehyde (tetramer),kg,Emissions to soil,Emissions to soil,6BD355D9-97A4-45A9-B191-7F89E03FE7C7,
-Metam-sodium dihydrate,000137-42-8,,Metam-sodium dihydrate,kg,Emissions to soil,Emissions to soil,7030C869-879C-4798-908A-9F3E7D4BD876,"Formula: C2H4NNaS2 Synonyms: Basamid-fluid; Busan 1020; carbam; Gatorooter; Karbation; Maposol; metham; methyl-Carbamodithioic acid, monosodium salt; Nemasol; Roo-Pru; Sistan; SMDC; Sometam; Carbam, sodium salt; Methylaminomethanethionothiolic acid, sodium salt; Sodium Methyldithiocarbamate; Solasan 500; Trimaton; Vapam; Vaporooter; VPM; Woodfume vapam; "
 Metepa,000057-39-6,,Metepa,kg,Emissions to soil,Emissions to soil,61B4EED4-76ED-473C-BFE2-E5722E8ED6C1,Formula: C9H18N3OPSynonyms: Tris(2-Methyl-1-aziridinyl)phosphine Oxide; Tris (1-methylethylene) phosphoric triamide
 Methacrylic acid,000079-41-4,,Methacrylic acid,kg,Emissions to soil,Emissions to soil,24FE8D8F-6F1D-4E4A-BA11-AB8C0E343DE5,Formula: C4H6O2 
 "Methacrylic acid, ethyl ester",000097-63-2,,"Methacrylic acid, ethyl ester",kg,Emissions to soil,Emissions to soil,B60FCEB0-6013-4E17-8461-F50F08B367C8,Formula: C6H10O2Synonyms: 2-Methyl-2-Propenoic Acid Ethyl Ester; EMA; ethyl 2-methyl-2-propenoate; ethyl alpha-methylacrylate; ethyl methacrylate; Methacrylic Acid Ethyl Ester; Rhoplex ac-33
@@ -2161,7 +2145,6 @@ Methylnitramine,000598-57-2,,Methylnitramine,kg,Emissions to soil,Emissions to s
 Methylsulfonyl chloride,000124-63-0,,Methylsulfonyl chloride,kg,Emissions to soil,Emissions to soil,25BE0B9C-A654-4BD6-BD42-B1369CBF38C2,
 Methylthiouracil,000056-04-2,,Methylthiouracil,kg,Emissions to soil,Emissions to soil,584E8E87-154B-490C-8B03-7A49F8093C8D,
 Methylvinylketone,000078-94-4,,Methylvinylketone,kg,Emissions to soil,Emissions to soil,2C32DC05-B918-481C-93E8-4858943E70E1,Formula: C4H6OSynonyms: 3-Buten-2-one; But-3-en-2-one; Butenone
-"Metolachlor, (S)",087392-12-9,,"Metolachlor, (S)",kg,Emissions to soil,Emissions to soil,4A940ADC-5B54-406B-BABB-D2B00ACC62FF,Formula: C15H22ClNO2 
 Metomidate,005377-20-8,,Metomidate,kg,Emissions to soil,Emissions to soil,C47C27AF-38D0-4687-8F0D-1681F25D14A3,
 Metoprolol,051384-51-1,,Metoprolol,kg,Emissions to soil,Emissions to soil,440C85E7-64ED-41C9-B3AD-DCE35351AFA5,
 Metoxuron,019937-59-8,,Metoxuron,kg,Emissions to soil,Emissions to soil,7B53C672-AF42-42A3-B263-6317857FDE08,
@@ -2177,7 +2160,6 @@ Molybdenium-93,,,Molybdenium-93,kBq,Emissions to soil,Emissions to soil,60C27F99
 Molybdenum trioxide,001313-27-5,,Molybdenum trioxide,kg,Emissions to soil,Emissions to soil,A748B606-7EC2-4EED-AF89-B88E617C303B,Formula: MoO3 Synonyms: Molybdic acid anhydride; Molybdic anhydride; molybdena; molybdenum anhydride; Molybdenum oxide
 Monocrotaline,000315-22-0,,Monocrotaline,kg,Emissions to soil,Emissions to soil,E3D6C3A5-E2EE-406D-BB61-52990853A7D7,Formula: C16H23NO6 
 Monoethanolamine,000141-43-5,,Monoethanolamine,kg,Emissions to soil,Emissions to soil,8DAEF8E6-E39E-4138-B25C-453C31EEE5E8,Formula: C2H7NO
-Monosodium acid methanearsonate,002163-80-6,,Monosodium acid methanearsonate,kg,Emissions to soil,Emissions to soil,A2D724A5-7A47-4A52-8601-444C270D464A,"Formula: CH4AsNaO3 Synonyms: Ansar; Arsanote; Arsonate; Bueno; Clean Crop MSMA 6.6; Daconate 6; Dal-E-Rad; Deconate; Drexar 530; Drexel MSMA 6.6; Merge; Mesamate; methanearsonic acid, monosodium salt; MSMA; phyban; silvisar 550; Methanearsonic acid sodium salt; Monosodium acid methanearsonate"
 Morpholine,000110-91-8,,Morpholine,kg,Emissions to soil,Emissions to soil,CB05E1A6-AECA-436D-8A44-05BDD11F2E6F,Formula: C4H9NO 
 "Morpholine, 2,6-dimethyl-",000141-91-3,,"Morpholine, 2,6-dimethyl-",kg,Emissions to soil,Emissions to soil,E82AC5D4-8BE6-4D1A-9405-C7685CC0255B,
 "Morpholine, 4-(2-benzothiazolylthio)-",000102-77-2,,"Morpholine, 4-(2-benzothiazolylthio)-",kg,Emissions to soil,Emissions to soil,D7FC738E-DE64-48CF-910B-CE2CE4841DBB,
@@ -2186,7 +2168,6 @@ Mucochloric acid,000087-56-9,,Mucochloric acid,kg,Emissions to soil,Emissions to
 Mylerlan,000055-98-1,,Mylerlan,kg,Emissions to soil,Emissions to soil,8984641B-8C80-46F2-8BB7-A9C185E5AAF4,
 Myristyltrimethylammonium bromide,001119-97-7,,Myristyltrimethylammonium bromide,kg,Emissions to soil,Emissions to soil,A20B6DCA-6C72-4CD9-9354-E2B2F57C37FD,
 "N'-(4-chlorophenyl)-N,N-dimethylurea",000150-68-5,,"N'-(4-chlorophenyl)-N,N-dimethylurea",kg,Emissions to soil,Emissions to soil,A6BF92E8-8791-425E-A4AA-1CB2974D9B84,"Formula: C9H11ClN2O Synonyms: 1,1-dimethyl-3-(p-chlorophenyl)urea; 1-(4-Chlorophenyl)-3,3-dimethylurea; 3-(para-Chlorophenyl)-1,1,dimethylurea; chlorfenidim; CMU; lirobetarex; monurex; Monuron; monurox; monuruon"
-"N-(2,3-dichloro-4-hydroxyphenyl)-1-methylcyclohexane-1-carboxamide",126833-17-8,,"N-(2,3-dichloro-4-hydroxyphenyl)-1-methylcyclohexane-1-carboxamide",kg,Emissions to soil,Emissions to soil,C310CBCD-8AF0-44EE-A5E8-8501998267B4,"Chemical formula: C14H17Cl2NO2Synonyms: Fenhexamid, Elevate, Teldor, Fenhexamide, Fenhexamid [ISO:BSI], HSDB 7273, KBR 2738, 46278_RIEDEL, KBR2738, KBR-2738, CID213031, NCGC00163791-01, NCGC00163791-02, LS-56568, N-(2,3-Dichloro-4-hydroxyphenyl)-1-methylcyclohexanecarboxamide, C451426, Cyclohexanecarboxamide, N-(2,3-dichloro-4-hydroxyphenyl)-1-methyl-, 126833-17-8"
 N-(4-(5-Nitro-2-furyl)-2-thiazolyl)acetamide,000531-82-8,,N-(4-(5-Nitro-2-furyl)-2-thiazolyl)acetamide,kg,Emissions to soil,Emissions to soil,7B07C566-4910-44EC-A520-D84913968E3A,Formula: C9H7N3O4SSynonyms: Furathiazole; Furium; NFTA; Furothiazole
 N-[4-(5-Nitro-2-furyl)-2-thiazolyl]formamide,024554-26-5,,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]formamide,kg,Emissions to soil,Emissions to soil,F76E8237-4072-4015-ADE0-8CACA65485C6,Formula: C8H5N3O4SSynonyms: 2-formylamino-4-(5-nitro-2-furyl)thiazole; Fanft; N-[4-(5-nitro-2-furanyl)-2-thiazolyl]formamide
 "N-[5-(5-nitro-2-furyl)-1,3,4-thiadiazol-2-yl]acetamide",002578-75-8,,"N-[5-(5-nitro-2-furyl)-1,3,4-thiadiazol-2-yl]acetamide",kg,Emissions to soil,Emissions to soil,3959E767-BDA9-45A9-9D69-C6618A10B044,
@@ -2406,7 +2387,6 @@ Oxazolidine E,007747-35-5,,Oxazolidine E,kg,Emissions to soil,Emissions to soil,
 Oxolinic acid,014698-29-4,,Oxolinic acid,kg,Emissions to soil,Emissions to soil,05D4532E-F491-4779-951F-6B2F23EE7AA2,
 Oxycarboxin,005259-88-1,,Oxycarboxin,kg,Emissions to soil,Emissions to soil,87B3A6FB-FC8A-48F3-A783-470237B3AE09,
 Oxychlordane,027304-13-8,,Oxychlordane,kg,Emissions to soil,Emissions to soil,E4AC892E-062C-431F-8335-41B399C923B7,
-Oxydemeton methyl,000301-12-2,,Oxydemeton methyl,kg,Emissions to soil,Emissions to soil,D6720BBA-6104-423D-BB20-10955F700589,"Formula: C6H15O4PS2 Synonyms: O,O-dimethyl S-(2-eththionylethyl)phosphorothioate; O,O-dimethyl S-(2-ethylsulfinyl)ethyl thiophosphate; O,O-dimethyl S-ethylsulfinylethyl phosphorothiolate; metaisosystox sulfoxide; metasystemox; Metasystox R; bay 21097; bayer 21097; dimethyl S-(2-eththionylethyl)thiophosphate; Dimethyl S-(2-(ethylsulfinyl)ethyl) thiophosphate; demeton-o-methyl sulfoxide; demeton-methyl sulfoxide; demeton-s-methyl sulfoxide; Dylox/MSR; ethanethiol, 2-(ethylsulfinyl)-, S-ester with O,O-dimethyl phosphorothioate; Harpoon; Inject-A-Cide; isomethylsystox sulfoxide; methyl demeton-o-sulfoxide; metilmercaptofosoksid; MSR; ODM; Oxydemeton-Me; Oxydemeton-Methyl; Phosphorothioic acid S-[2-(ethylsulfinyl)ethyl] O,O-dimethyl ester; R2170; S-(2-(ethylsulfinyl)ethyl) O,O-dimethyl phosphorothioate;"
 Oxydiazon,019666-30-9,,Oxydiazon,kg,Emissions to soil,Emissions to soil,D575B823-26E2-4349-95E2-53CC2B84672A,"Formula: C15H18Cl2N2O3 Synonyms: 2-tert-Butyl-4-(2,4-dichloro-5-isopropoxyphenyl)-1,3,4-oxadiazolin-5-one; Oxadiazon; Ronstar"
 Oxymetholone,000434-07-1,,Oxymetholone,kg,Emissions to soil,Emissions to soil,2EF4A5FC-49C2-434A-95F1-E0C1CEBE30C6,
 Oxytetracycline,000079-57-2,,Oxytetracycline,kg,Emissions to soil,Emissions to soil,C110FCA8-9793-4DE1-8857-31E51B0978B9,"Formula: C22H24N2O9 Synonyms: 4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,6,10,12,12a-hexahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide; 5-Hydroxytetracycline; Berkmycen; Bio-mycin200; Biostat; Engemycin; Glomycin; Hydroxytetracycline; Maxim 200; Mycoshield; Oxacycline; Oxatets; Oxydon; Oxy-Dumocyclin; Oxymycin; Oxypan; OXY-TET 200; Oxytetracid; Riomitsin; Ryomycin; Stevacin; Terrafungine; Terraject; Terramycin; Tetramel; Tetran; Vendarcin; Vendracin"
@@ -2464,7 +2444,6 @@ Palladium-234m,,,Palladium-234m,kBq,Emissions to soil,Emissions to soil,91245BD3
 Palustric acid,001945-53-5,,Palustric acid,kg,Emissions to soil,Emissions to soil,1ACAAFC4-FD4B-4AE7-961D-1FE14D2DA716,
 Paraoxon,000311-45-5,,Paraoxon,kg,Emissions to soil,Emissions to soil,CEF8E80D-974C-48A0-AFE2-50F3C6AAD166,
 Paraquat dichloride,001910-42-5,,Paraquat dichloride,kg,Emissions to soil,Emissions to soil,13EC5BC4-59D1-4564-BC1C-28A73B398DC4,
-"Parathion, methyl",000298-00-0,,"Parathion, methyl",kg,Emissions to soil,Emissions to soil,5E4FC9BF-3517-4DA2-9B30-254D378C5937,Formula: C8H10NO5PS 
 Paromomycin,007542-37-2,,Paromomycin,kg,Emissions to soil,Emissions to soil,2084EACB-4A4D-49FF-A99A-308FE3CB1BEA,
 Patulin,000149-29-1,,Patulin,kg,Emissions to soil,Emissions to soil,E65CD046-8BA2-4CC4-B95F-D7804EC014E0,
 Pebulate,001114-71-2,,Pebulate,kg,Emissions to soil,Emissions to soil,99ABBF28-158E-4C7E-A563-3916B212D840,Formula: C10H21NOS Synonyms: Butylethylcarbamothioic acid S-propyl ester; PEBC; Propyl butylethylcarbamothioate; Propyl ethyl-n-butylthiolcarbamate; Tillam
@@ -2899,7 +2878,6 @@ Tamoxifen,010540-29-1,,Tamoxifen,kg,Emissions to soil,Emissions to soil,4491EE24
 Tannins,001401-55-4,,Tannins,kg,Emissions to soil,Emissions to soil,8A95D754-D4FE-4680-8205-392BA58EEBEF,
 "Tartaric acid, diethyl ester",000087-91-2,,"Tartaric acid, diethyl ester",kg,Emissions to soil,Emissions to soil,09607666-36DC-4367-91C4-D7997FB5EE4C,
 Tartrazine,001934-21-0,,Tartrazine,kg,Emissions to soil,Emissions to soil,7551E5C9-A003-4DF1-B59A-E410F0A647C8,
-Tau-fluvalinate,102851-06-9,,Tau-fluvalinate,kg,Emissions to soil,Emissions to soil,4674EE98-6A4D-48E6-8313-2685296EB2D5,Formula: C26H22ClF3N2O3 
 Taurine,000107-35-7,,Taurine,kg,Emissions to soil,Emissions to soil,144E95A7-CC6C-4E10-A1BD-A12504ED67E5,
 Tebuthiuron,034014-18-1,,Tebuthiuron,kg,Emissions to soil,Emissions to soil,CFC287F8-3196-4876-BD95-D7AD9B96C6BB,"Formula: C9H16N4OS Synonyms: 1-(5-tert-Butyl-1,3,4-thiadiazol-2-yl)-1,3-dimethylurea; Graslan;  Perflan; Spike; Terbuthiuron "
 Technetium-99,,,Technetium-99,kBq,Emissions to soil,Emissions to soil,228C5728-F1C4-491E-AA5E-A6B62BDCF048,
@@ -2922,7 +2900,6 @@ Tetrachloroguaiacol,002539-17-5,,Tetrachloroguaiacol,kg,Emissions to soil,Emissi
 Tetrachlorophenols,025167-83-3,,Tetrachlorophenols,kg,Emissions to soil,Emissions to soil,8701DD72-4C43-4EE4-B112-593408303AB9,
 Tetrachlorophthalide,027355-22-2,,Tetrachlorophthalide,kg,Emissions to soil,Emissions to soil,4DF236FB-D1A3-4CC0-95EC-DE79F78630AF,
 Tetrachlorvinphos,000961-11-5,,Tetrachlorvinphos,kg,Emissions to soil,Emissions to soil,3904B76B-73FB-43A0-8B99-A0EDC44F4FA7,"Formula: C10H9Cl4O4P Synonyms: 2,4,5-trichloro-alpha-(chloromethylene)benzyl alcohol dimethyl phosphate; 2-Chloro-1-(2,4,5-trichlorophenyl)vinyl dimethyl phosphate; 2-chloro-1-(2,4,5-trichlorophenyl)vinyl phosphoric acid dimethyl ester; Dietreen; Gardona; Phosphoric acid, 2-chloro-1-(2,4,5-trichlorophenyl) ethenyl dimethyl ester; phosphoric acid, 2-chloro-1-(2,4,5-trichlorophenyl)vinyl dimethyl ester; Rabon; rabond; SD 8447; Shell SD 8447; Stirofos; Stirofus; Stirophos; Tetrachlorvinphos; "
-Tetrachlorvinphos ((Z)-isomer),022248-79-9,,Tetrachlorvinphos ((Z)-isomer),kg,Emissions to soil,Emissions to soil,E2C621A1-79BE-474F-8DC2-FDBE11967D30,Formula: C10H9Cl4O4P 
 Tetraconazole,,,Tetraconazole,kg,Emissions to soil,Emissions to soil,B46745C4-E695-49D4-8648-75AEF7CC008A,
 Tetracycline,000060-54-8,,Tetracycline,kg,Emissions to soil,Emissions to soil,59AD3F37-1BD3-4CB4-B994-6537639E3FDE,
 Tetracycline hydrochloride,000064-75-5,,Tetracycline hydrochloride,kg,Emissions to soil,Emissions to soil,F024A70D-ED71-4820-968E-132321493376,
@@ -2962,7 +2939,6 @@ Theophylline,000058-55-9,,Theophylline,kg,Emissions to soil,Emissions to soil,67
 "Thiadiazole, 2-amino-5-(5-nitro-2-furyl)-1,3,4-",000712-68-5,,"Thiadiazole, 2-amino-5-(5-nitro-2-furyl)-1,3,4-",kg,Emissions to soil,Emissions to soil,BAA7A17A-1B7C-4488-87EC-074A9B95D350,Formula: C6H4N4O3S 
 Thiamphenicol,015318-45-3,,Thiamphenicol,kg,Emissions to soil,Emissions to soil,82A40F16-5119-4100-AF34-492D5AA21F41,
 Thiazafluron,025366-23-8,,Thiazafluron,kg,Emissions to soil,Emissions to soil,BFBD93E6-6DC2-422C-996E-69DB71B95780,
-"Thiazole, 2-(thiocyanatemethylthio)benzo-",021564-17-0,,"Thiazole, 2-(thiocyanatemethylthio)benzo-",kg,Emissions to soil,Emissions to soil,2238C38D-B9A7-4B21-BFDD-ECDFE227D688,Formula:  C9H6N2S3Synonyms: (2-benzothiazolylthio)methyl thiocyanate; 2-(thiocyanatomethylthio)benzothiazole; Busan; BUSAN 30; BUSAN 72; Busan 72A; TCMTB; Thiocyanic acid (2-benzothiazolylthio)methyl ester;
 "Thiazole, 2-amino-4-(5-nitro-2-furyl)-",038514-71-5,,"Thiazole, 2-amino-4-(5-nitro-2-furyl)-",kg,Emissions to soil,Emissions to soil,1C8C3440-42F5-4931-A2A8-98F8EF542574,Formula: C7H5N3O3S 
 "Thiazole, 2-amino-5-nitro-",000121-66-4,,"Thiazole, 2-amino-5-nitro-",kg,Emissions to soil,Emissions to soil,96D7E31D-B0CF-47ED-87A5-6B81613B4CBA,Formula: C3H3N3O2S
 "Thiazole, 2-hydrazino-4-(5-nitro-2-furyl)-",026049-68-3,,"Thiazole, 2-hydrazino-4-(5-nitro-2-furyl)-",kg,Emissions to soil,Emissions to soil,3A46DF6A-D079-44F8-926A-BF90CFF9E769,Formula: C7H6N4O3S 
@@ -2981,7 +2957,6 @@ Thiometon,000640-15-3,,Thiometon,kg,Emissions to soil,Emissions to soil,A985531A
 Thionazin,000297-97-2,,Thionazin,kg,Emissions to soil,Emissions to soil,E4A03328-DA24-4BF4-BA50-98BF7515BFC6,
 Thiopental sodium,000071-73-8,,Thiopental sodium,kg,Emissions to soil,Emissions to soil,C7E5AE48-EE29-4853-B7ED-397781E2B312,
 Thiophanate,023564-06-9,,Thiophanate,kg,Emissions to soil,Emissions to soil,20ED4B4A-5AFD-4E0E-9CEB-BC3BAB5E90B2,
-Thiophanate-methyl,023564-05-8,,Thiophanate-methyl,kg,Emissions to soil,Emissions to soil,F5A27C28-2640-4D35-AD9B-D86B8390CC8A,"Formula: C12H14N4O4S2 Synonyms: 1,2-bis(3-(methoxycarbonyl)-2-thioureido)benzene; caligran; cercobin methyl; cycosin; easout; enovit methyl; enovit super; frumidor; methylthiofanate; methylthiophanate; methyl topsin; metoben; mildothane; neotopsin; Sigma; sipcaplant; sipcasan; sipcavit; Thiophanate-Me; Thiophanate methyl"
 Thiophene,000110-02-1,,Thiophene,kg,Emissions to soil,Emissions to soil,D479A6B7-2A52-4941-BC71-EF76FF4789E3,
 Thiosemicarbazide,000079-19-6,,Thiosemicarbazide,kg,Emissions to soil,Emissions to soil,C1ABE148-9190-4F3E-9D23-1DB802A0F5A1,Formula: CH5N3S Synonyms: 3-thiosemicarbazide; hydrazinecarbothioamide; N-aminothiourea; Thiocarbamoylhydrazine
 Thiotepa,000052-24-4,,Thiotepa,kg,Emissions to soil,Emissions to soil,E8C44AEE-95D8-414C-ADF4-66A643432391,Formula: C6H12N3PS 
@@ -3035,7 +3010,6 @@ Tri-m-cresyl phosphate,000563-04-2,,Tri-m-cresyl phosphate,kg,Emissions to soil,
 Tri-o-cresyl phosphate,000078-30-8,,Tri-o-cresyl phosphate,kg,Emissions to soil,Emissions to soil,3ABE49B9-2C32-445F-A1EF-D2907C4A3D2E,
 Tri n-butylamine,000102-82-9,,Tri n-butylamine,kg,Emissions to soil,Emissions to soil,3CC054D0-8978-42A1-8BAA-98835B100432,
 Triadimefon,043121-43-3,,Triadimefon,kg,Emissions to soil,Emissions to soil,593F47D9-F247-4FA0-80F9-A10B9EC1D21E,"Formula: C14H16ClN3O2 Synonyms: 1,2,4-Triazole, 1-((tert-butylcarbonyl-4-chlorophenoxy)methyl)-; 1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)-2-butanone; Amiral; azocene; Bayleton;Rofon; tidifon; triadimephon; triamefon"
-Triallate,002303-17-5,,Triallate,kg,Emissions to soil,Emissions to soil,A90DF914-059C-42B1-8EB0-A951F87921A3,"Formula: C10H16Cl3NOSSynonyms: 2,3,3-trichloro-2-propene-1-thiol diisopropylcarbamate; Avadex BE; Avadex BW; Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester; diisopropylthiocarbamic acid S-(2,3,3-trichloroallyl)ester; CP 23426; Far-Go; S-(2,3,3-trichloro-2-propenyl) bis(1-methylethyl)carbamothioate; S-2,3,3-trichloroallyl diisopropylthiocarbamate; Triallate; Triallate ;"
 Triamcinolone acetonide,000076-25-5,,Triamcinolone acetonide,kg,Emissions to soil,Emissions to soil,21281428-CFEE-45FA-AE2B-49CAE77AB655,Formula: C24H31FO6 
 "Triazine, 1,3,5-",000290-87-9,,"Triazine, 1,3,5-",kg,Emissions to soil,Emissions to soil,F15DDC41-92C8-41DF-B972-6E5E477F8224,Formula: C3H3N3 Synonyms: s-Triazine; sym-Triazine
 "Triazine, 4,6-diamino-2-(5-nitro-2-furyl)-S-",000720-69-4,,"Triazine, 4,6-diamino-2-(5-nitro-2-furyl)-S-",kg,Emissions to soil,Emissions to soil,CC19F594-1D0F-49F9-A0C9-0007B5D86032,Formula: C7H6N6O3 

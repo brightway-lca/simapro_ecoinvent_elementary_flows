@@ -1,39 +1,26 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,"water/ground-, long-term",fc81e3b6-8538-4e74-9303-26cf397f19cb,,,513-35-9
-"Acrylate, ion",000079-10-7,,,kg,chemical,,,"water/ground-, long-term",d18ec0cf-b4d2-43e6-abe2-19170a40659a,,,
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,"water/ground-, long-term",e60edb16-3c74-415b-9aff-a22a6f49fecb,,,
 "BOD5, Biological Oxygen Demand",,,,kg,other,,,"water/ground-, long-term",aedea697-930a-4a0e-9e4f-b9c369aa9a33,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,"water/ground-, long-term",4ba71de1-43c2-42fe-b477-93423ad2213c,,,12316-49-3; 12069-32-8
-Butanol,000071-36-3,,,kg,chemical,,,"water/ground-, long-term",370e587f-58ad-4bc7-ad35-9605b6dcd138,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 "Cadmium, ion",022537-48-0,,,kg,chemical,,,"water/ground-, long-term",4ce23896-a82f-49f1-a8e3-8848734805a3,,,
 "Calcium, ion",014127-61-8,,,kg,chemical,,,"water/ground-, long-term",ae28c923-a4a3-4f00-b862-1ae6e748efb9,,,
 "Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,"water/ground-, long-term",ae521be9-6534-4962-9183-3d36c4c74201,,,
-"Chromium, ion",016065-83-1,,,kg,chemical,,,"water/ground-, long-term",d9c23a8d-e7bf-4f70-8d22-b9ad8a653204,,,
 "COD, Chemical Oxygen Demand",,,,kg,other,,,"water/ground-, long-term",a8fea8cf-9b09-49fc-aa58-5a732494a2a0,,,
 "Copper, ion",017493-86-6,,,kg,chemical,,,"water/ground-, long-term",40229ebf-9346-4f20-910a-f8ea3bd88d44,,,
 Diborane,019287-45-7,,,kg,chemical,,,"water/ground-, long-term",ae7a3110-d355-4c01-8a92-02616b28ee29,,,14452-61-0; 19287-45-7
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,"water/ground-, long-term",cce10142-69c4-4a72-a010-ac6b6abad1d3,,,
 Dissolved solids,,,,kg,other,,,"water/ground-, long-term",bd254636-6538-4bcf-b0e5-62a2e8252b57,,,
-Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,"water/ground-, long-term",2e2c0b46-41cf-4be8-9a92-246aecc58608,,,110-80-5
 Fluoboric acid,016872-11-0,,,kg,chemical,,,"water/ground-, long-term",c0b35c79-b073-40b6-931b-dfac9703acae,,,16872-11-0
-"Iron, ion",015438-31-0,,,kg,chemical,,,"water/ground-, long-term",9b6d6f07-ebc6-447d-a3c0-f2017d77d852,,,
 Krypton-85,013983-27-2,,,kBq,chemical,,,"water/ground-, long-term",429b04bf-fbdb-4416-b5b8-aa2d0e202a98,,,13983-27-2
 "Lithium, ion",017341-24-1,,,kg,chemical,,,"water/ground-, long-term",c44b0e3b-e65e-4276-aa1f-3db768757b66,,,17341-24-1
-"Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,"water/ground-, long-term",669778e5-b6e1-4c0d-8500-864563a74110,,,
-Methyl amine,000074-89-5,CH5N,,kg,chemical,,,"water/ground-, long-term",3a53d5b5-bc5a-4c94-b507-f94169a58f23,,,74-89-5
 Methyl borate,000121-43-7,,,kg,chemical,,,"water/ground-, long-term",059d4f43-8764-4b5e-95eb-c94df9913a55,,,1212-43-7; 3349-42-6; 121-43-7
-Monochloroethane,000075-00-3,,,kg,chemical,,,"water/ground-, long-term",48cb6314-1cbe-4ab1-9374-00720b682531,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
 "Nickel, ion",014701-22-5,,,kg,chemical,,,"water/ground-, long-term",9f69cb8e-51fe-447b-a1ac-4da74de8ebe4,,,
-o-Dichlorobenzene,000095-50-1,,,kg,chemical,,,"water/ground-, long-term",34e58a19-2d02-4e10-bc24-22e4bc7702d6,,,24634-92-2; 95-50-1; 95-50-1
 "Perchlorate, ion",014797-73-0,,,kg,chemical,,,"water/ground-, long-term",fa30d40e-91e8-4a8a-b9e1-f1a6b330a096,,,
 "Potassium, ion",024203-36-9,,,kg,chemical,,,"water/ground-, long-term",b93fc4df-91b2-4ac4-a315-89147515ddfb,,,
-Propanol,000071-23-8,,"propan-1-ol, 1-propanol, propyl alcohol, n-propanol, n-propyl alcohol",kg,chemical,,,"water/ground-, long-term",099aeca3-9b1a-44be-9b67-7bb90dffe37c,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
 "Radioactive species, from fission and activation",,,,kBq,group,,,"water/ground-, long-term",e9a2a465-ee3b-4edf-9933-80bbe0340f51,,,
 "Silver, ion",014701-21-4,,,kg,chemical,,,"water/ground-, long-term",94426df9-63b1-4dc6-ad1b-3509e22f1154,,,
 "Sodium, ion",017341-25-2,,,kg,chemical,,,"water/ground-, long-term",fb83d61e-6fe3-4da7-8eb2-b0e2dc85a76d,,,
 "Tin, ion",022537-50-4,,,kg,chemical,,,"water/ground-, long-term",60a6702f-20ad-444f-a6df-f6374f1e3183,,,
 "Titanium, ion",022541-75-9,,,kg,chemical,,,"water/ground-, long-term",2a46e7f4-c66c-43e5-8a8a-d119c4098aff,,,15969-58-1
-"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,"water/ground-, long-term",7f6cdfb5-f4ec-458f-9e57-c7e6849cfe99,,,
 Trichlorosilane,010025-78-2,,,kg,chemical,,,"water/ground-, long-term",8b03ef98-860a-4870-a598-199cd9679f67,,,
 "Vanadium, ion",022541-77-1,,,kg,chemical,,,"water/ground-, long-term",41dbbe1f-06e1-4a34-8497-5986be8f9e51,,,
 "Zinc, ion",023713-49-7,,,kg,chemical,,,"water/ground-, long-term",bdce3a7c-e008-4391-be26-285f71a02453,,,

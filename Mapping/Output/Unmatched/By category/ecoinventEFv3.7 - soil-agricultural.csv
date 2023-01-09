@@ -1,37 +1,11 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-"2,4-D amines",002008-39-1,,"2,4-D dimethylamine salt",kg,group?,,,soil/agricultural,0eba8639-12c1-40ce-b1b6-e3394ec94dc0,,,
-"2,4-DB",000094-82-6,,,kg,chemical,,,soil/agricultural,d051c442-f206-4d70-844d-7d44dbbc3d8e,,,94-82-6
-Acibenzolar-S-methyl,135158-54-2,,,kg,chemical,,,soil/agricultural,5b834f01-a5dd-5d6c-94cb-2f5d262d3ccf,,,135158-54-2
 Beta-cypermethrin,052315-07-8,C22H19Cl2NO3,,kg,chemical,,,soil/agricultural,6098e65f-3e52-5672-89b4-519dd8987d19,,,211504-94-8; 71697-59-1; 1224510-29-5; 72204-44-5; 67375-30-8; 65731-84-2; 97955-44-7; 71697-59-1; 67375-30-8; 66290-20-8; 66841-24-5; 82523-65-7; 137497-61-1; 97955-44-7; 72204-44-5; 71697-59-1; 52315-07-8; 65731-84-2; 86753-92-6; 67375-30-8; 52315-07-8
-Bromopropylate,018181-80-1,,,kg,chemical,,,soil/agricultural,8e51c792-b402-5f20-9957-6d80823d4fcc,,,18181-80-1
-Carbosulfan,055285-14-8,,,kg,chemical,,,soil/agricultural,e66d495d-aaf6-5709-9777-0da8ee74ca77,,,55285-14-8
 Carfentrazone ethyl ester,128639-02-1,,Carfentrazone-ethyl,kg,chemical,,,soil/agricultural,d07867e3-66a8-4454-babd-78dc7f9a21f8,,,
-Chlorotoluron,015545-48-9,,"3-(-3-chloro-p-tolyl)-1,1-dimethylurea",kg,chemical,,,soil/agricultural,e8bc4c9e-c34f-4983-aea0-2433f3397a3a,,,15545-48-9
-Cyfluthrin,068359-37-5,,,kg,chemical,,,soil/agricultural,dd786e61-d387-4dc4-8314-2a5f958e7168,,,68359-37-5
 Demeton-S-methylsulfon,017040-19-6,,,kg,chemical,,,soil/agricultural,dae66465-5c82-5b83-b400-2ec6e25b078a,,,17040-19-6
-Diethofencarb,087130-20-9,,,kg,chemical,,,soil/agricultural,bd6facb4-c818-5e08-9260-a077eb711497,,,87130-20-9
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,soil/agricultural,a7f661f4-da39-4571-a48b-a8d61314ce1b,,,
-Dithianon,003347-22-6,,"5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithiine-2,3-dicarbonitrile",kg,chemical,,,soil/agricultural,31913320-21f3-4cc2-b09a-a15ac9b65f5e,,,3347-22-6
-DSMA,000144-21-8,, Dinate,kg,chemical,,,soil/agricultural,9d32dff3-1e0e-44e1-8dab-2534399d5353,,,144-21-8
-EPTC,000759-94-4,," N,N-dipropylthiocarbamic acid s ethyl ester",kg,chemical,,,soil/agricultural,fd950a9b-db9f-41c9-a8b0-d61f152f6ef2,,,759-94-4
-Fenhexamid,126833-17-8,,,kg,chemical,,,soil/agricultural,e2cb70af-1995-5ac4-870f-c3c1cbfb820f,,,126833-17-8
 Guazatine,013516-27-3,,,kg,chemical,,,soil/agricultural,51a01057-22d3-533b-9831-7592ec368cdb,,,108173-90-6; 13516-27-3
 Haloxyfop-P-methyl,072619-32-0,C16H13ClF3NO4,,kg,chemical,,,soil/agricultural,a058168e-9a1e-5126-80b6-2d202e746835,,,72619-32-0
 Ioxynil methyl ester,002436-73-9,,,kg,chemical,,,soil/agricultural,a5a8cee4-65ed-5e02-a1d1-9f81d88223c8,,,
-Iprodion,036734-19-7,,"3-(3,5-dichlorophenyl)-N-isopropyl-2,4-dioxoimidazolidine-1-carboxamide",kg,chemical,,,soil/agricultural,299f371a-61c1-4ea2-8c38-901aa74acf7d,,,
-MCPA,000094-74-6,,(4-chloro-2-methylphenoxy)acetic acid,kg,chemical,,,soil/agricultural,e5492922-eaf5-4409-aa49-7f2a35cd0336,,,94-74-6
 Metaldehyde,009002-91-9,,"r-2,c-4,c-6,c-8-tetramethyl-1,3,5,7-tetroxocane",kg,chemical,,,soil/agricultural,597847df-518f-4bd6-ae50-1de01f2761a4,,,9002-91-9; 108-62-3
-Metam-sodium,000137-42-8,, Maposol,kg,chemical,,,soil/agricultural,00acb9f0-1640-4f8c-89ef-d857e1428be0,,,137-42-8
-Methyl parathion,000298-00-0,C8H10NO5PS,,kg,chemical,,,soil/agricultural,4218b9ea-78e7-44b5-b4e1-5a0fca05aeb8,,,298-00-0
-MSMA,002163-80-6,, Clean Crop MSMA 6 Plus,kg,chemical,,,soil/agricultural,ef4884eb-c75d-4ef8-9170-11b20401cbca,,,2163-80-6
 "Oils, non-fossil",,,,kg,group,,,soil/agricultural,79459b74-727a-465f-b0cb-aae38d1d39cc,,,
-Oxydemeton-methyl,000301-12-2,,"S-2-ethylsulfinylethyl O,O-dimethyl phosphorothioate",kg,chemical,,,soil/agricultural,83cc3810-ac58-40a3-97af-04a855d4c809,,,301-12-2
 Potassium soap,061789-30-8,,,kg,chemical,,,soil/agricultural,e888a409-63ef-5a7f-aea9-92bac7f51c8c,,,
 Pyrethrine,008003-34-7,,,kg,chemical,,,soil/agricultural,19d4089d-11a2-520c-84a0-b307ec625a0c,,,
-Quintozene,000082-68-8,, Botrilex,kg,chemical,,,soil/agricultural,99f78a2c-48e3-492c-aa5a-ed0c2f24a1a0,,,82-68-8
-Rabon,022248-79-9,,,kg,chemical,,,soil/agricultural,c70d7501-b022-5459-a8b5-dea60d3655e6,,,22248-79-9
-S-metolachlor,087392-12-9,,,kg,chemical,,,soil/agricultural,317c9f65-0142-5fa0-99da-98a5c7d639dd,,,87392-12-9
-tau-Fluvalinate,102851-06-9,,"(RS)-α-cyano-3-phenoxybenzyl N-(2-chloro-α,α,α-trifluoro-p-tolyl)-D-valinate",kg,chemical,,,soil/agricultural,92681c17-2514-4151-aabf-baee3fd8e5f5,,,102851-06-9
-TCMTB,021564-17-0,, Thiocyanic acid (2-benzothiazolylthio)methyl ester,kg,chemical,,,soil/agricultural,723a8b35-613c-4dbb-91af-ed3c06e273cc,,,21564-17-0
-Thiophanat-methyl,023564-05-8,,"dimethyl 4,4′-(o-phenylene)bis(3-thioallophanate)",kg,chemical,,,soil/agricultural,423112a9-b4c4-4041-8854-57bffde7b9cc,,,
-Tri-allate,002303-17-5,," Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester",kg,chemical,,,soil/agricultural,c5c25aa6-d630-40bd-bed7-4e718c877ef4,,,2303-17-5

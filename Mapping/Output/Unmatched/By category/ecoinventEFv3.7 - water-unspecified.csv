@@ -1,45 +1,28 @@
 Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,Unnamed: 11,Second CAS
-2-chlorobenzaldehyde,000089-98-5,,,kg,chemical,,,water/unspecified,2b8204fa-c9bf-5465-9aa2-d79024a19b1a,,,89-98-5
-2-Methyl-2-butene,000513-35-9,,n-Amylene,kg,chemical,,,water/unspecified,23868338-42bc-4baf-a9e2-8e84ff8c92f1,,,513-35-9
-"Acrylate, ion",000079-10-7,,,kg,chemical,,,water/unspecified,37f69770-85d0-4af3-a612-41e9d314f5bb,,,
 "Arsenic, ion",017428-41-0,,,kg,chemical,,,water/unspecified,e1bd008f-c3c2-47f1-ab60-35e1a842acc0,,,
 "BOD5, Biological Oxygen Demand",,,,kg,other,,,water/unspecified,91955aba-6ebc-4413-9342-f0298860b4aa,,,
 Boron carbide,012069-32-8,,,kg,chemical,,,water/unspecified,60b42f10-f538-4d77-ad4a-e83282f929e8,,,12316-49-3; 12069-32-8
-Butanol,000071-36-3,,,kg,chemical,,,water/unspecified,b50d8d03-7e88-4b29-9d10-67bbe01bdbc6,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 "Cadmium, ion",022537-48-0,,,kg,chemical,,,water/unspecified,2712fe5f-0d3c-4c8e-8bc4-26c604413849,,,
 "Calcium, ion",014127-61-8,,,kg,chemical,,,water/unspecified,08151735-9d1b-4b1c-a8b1-f341ade54f2f,,,
 "Chloride, ion",016887-00-6,,,kg,chemical,,,water/unspecified,c4e01cfb-2f50-52d5-8177-1518ad8b7bea,,,
 "Chlorosilane, trimethyl-",000075-77-4,,,kg,chemical,,,water/unspecified,26202571-16f9-48c3-bf4d-e9c189f43b2c,,,
-"Chromium, ion",016065-83-1,,,kg,chemical,,,water/unspecified,30f484ee-dec4-47ae-8e92-d00d4b93fe05,,,
 "COD, Chemical Oxygen Demand",,,,kg,other,,,water/unspecified,961ccd56-2eee-4f57-bb18-fc4362b49000,,,
 "Copper, ion",017493-86-6,,,kg,chemical,,,water/unspecified,615b1460-6860-4cf6-8678-ad92c03c5e8b,,,
 Diborane,019287-45-7,,,kg,chemical,,,water/unspecified,5ff293fa-85f0-4d44-b63b-00f651316fad,,,14452-61-0; 19287-45-7
-"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,water/unspecified,737c3221-1456-4c6b-8605-6ac00dc88b2e,,,
 Dissolved solids,,,,kg,other,,,water/unspecified,5ce634de-b810-4533-9efb-719c38fe7c09,,,
-Elemental carbon,007440-44-0,,,kg,chemical,,,water/unspecified,3ff3231e-3c38-5a47-a6fd-821d11c599e0,,,
-Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,water/unspecified,b608516c-d577-4957-bcaa-851c7377ada8,,,110-80-5
 Fluoboric acid,016872-11-0,,,kg,chemical,,,water/unspecified,19b0229f-7cda-4154-baee-c1b1efef532a,,,16872-11-0
-Hydrochloric acid,007647-01-0,HCl,,kg,chemical,,,water/unspecified,7dd051f1-c653-44d9-90e4-828f144253c3,,,185912-82-7; 124760-64-1; 2647-01-0; 7698-05-7; 7647-01-0
-"Iron, ion",015438-31-0,,,kg,chemical,,,water/unspecified,de444dc0-5964-4501-8367-50ba53bfc6b9,,,
 Krypton-85,013983-27-2,,,kBq,chemical,,,water/unspecified,4f46f2a8-545c-44d8-a40d-3e49571dcd51,,,13983-27-2
-Lauric acid,000143-07-7,,,kg,chemical,,,water/unspecified,4dc5b593-5953-57de-b908-c3c34a558f40,,,143-07-7
 "Lithium, ion",017341-24-1,,,kg,chemical,,,water/unspecified,eb2bfdf1-1881-40e8-bebb-d674b2a79149,,,17341-24-1
-"Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,water/unspecified,9a366c85-61a0-48bd-8af0-a2a96b327bc1,,,
-Methyl amine,000074-89-5,CH5N,,kg,chemical,,,water/unspecified,d3ac53b1-17d5-40e7-b51d-422e16316404,,,74-89-5
 Methyl borate,000121-43-7,,,kg,chemical,,,water/unspecified,d5a6fcba-b958-4b06-b193-b712eeb65cf4,,,1212-43-7; 3349-42-6; 121-43-7
-Monochloroethane,000075-00-3,,,kg,chemical,,,water/unspecified,60340c7f-e9ce-474f-ac08-a6d4d9f864fc,,,7371-46-2; 25854-33-5; 23072-56-2; 16520-13-1; 19199-91-8; 68411-72-3; 75-00-3
 "Nickel, ion",014701-22-5,,,kg,chemical,,,water/unspecified,6ec6cdaa-5a01-46d4-b716-1905e56690ea,,,
-o-Dichlorobenzene,000095-50-1,,,kg,chemical,,,water/unspecified,67070d27-426e-43e9-98e8-309952f78140,,,24634-92-2; 95-50-1; 95-50-1
 "Perchlorate, ion",014797-73-0,,,kg,chemical,,,water/unspecified,4f722a22-e077-4626-830a-c57d856decc0,,,
 "Potassium, ion",024203-36-9,,,kg,chemical,,,water/unspecified,130bbacf-e7c7-4ffd-b109-4d576f1d02c1,,,
-Propanol,000071-23-8,,"propan-1-ol, 1-propanol, propyl alcohol, n-propanol, n-propyl alcohol",kg,chemical,,,water/unspecified,4d567c70-f938-4a8f-b2ad-10c0b8f1366c,,,71-31-8; 19986-23-3; 71-23-8; 64118-40-7; 4712-36-1; 142583-61-7; 71-23-8
 "Radioactive species, from fission and activation",,,,kBq,group,,,water/unspecified,33fe9178-c7f7-4ebe-950a-8cbd1e799424,,,
 "Silver, ion",014701-21-4,,,kg,chemical,,,water/unspecified,6aa8673f-f7e3-4270-93dc-e97b745fced7,,,
 "Sodium, ion",017341-25-2,,,kg,chemical,,,water/unspecified,5ac961f0-8e53-42ff-b13f-1a7fb9133868,,,
 "Sulfate, ion",014996-02-2,,,kg,chemical,,,water/unspecified,f3e5bff4-5bdf-55d7-8dd9-3cac7b09e57f,,,
 "Tin, ion",022537-50-4,,,kg,chemical,,,water/unspecified,d5c40848-fc29-47fa-90a4-46db64a45a4e,,,
 "Titanium, ion",022541-75-9,,,kg,chemical,,,water/unspecified,a4c31e2a-915e-4ab2-accd-d3ae93d2e01e,,,15969-58-1
-"Toluene, 2-chloro",000095-49-8,,"1-chloro-2-methylbenzene, o-chlorotoluene, o-tolyl chloride",kg,chemical,,,water/unspecified,b1cbafef-4c5a-4b5f-9dfa-e49047f5f043,,,
 Trichlorosilane,010025-78-2,,,kg,chemical,,,water/unspecified,21806f1e-a21a-43f7-82b1-00dd5c42fe3f,,,
 "Vanadium, ion",022541-77-1,,,kg,chemical,,,water/unspecified,20839113-fbf2-4d2f-bab8-66861f86bc60,,,
 "Zinc, ion",023713-49-7,,,kg,chemical,,,water/unspecified,2c7be02c-791f-4fef-b231-b90321bbeb30,,,
