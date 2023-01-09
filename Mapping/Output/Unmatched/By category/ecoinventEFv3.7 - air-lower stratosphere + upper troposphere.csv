@@ -5,16 +5,10 @@ Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,F
 Boron carbide,012069-32-8,,,kg,chemical,,,air/lower stratosphere + upper troposphere,5128d076-e7a6-4bba-9a3a-432b2bce31fd,,,12316-49-3; 12069-32-8
 Butanol,000071-36-3,,,kg,chemical,,,air/lower stratosphere + upper troposphere,b83f893c-f4b4-473f-bd13-a23fd300c5d1,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 Calcium hydroxide,001305-62-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,411d78df-01f8-4a5f-8d13-92670620b934,,,1305-62-0
-"Carbon dioxide, from soil or biomass stock",000124-38-9,,,kg,chemical,,,air/lower stratosphere + upper troposphere,6d89125e-e9b7-4d7e-a1fc-ada45dbd8815,,,
-"Carbon dioxide, non-fossil",000124-38-9,,,kg,chemical,,,air/lower stratosphere + upper troposphere,4e1f0bb0-2703-4303-bf86-972d810612cf,,,
-"Carbon monoxide, from soil or biomass stock",000124-38-9,CO2,,kg,chemical,,,air/lower stratosphere + upper troposphere,e1da7e11-cc2c-4ea2-a42a-bf558150014b,,,
-"Carbon monoxide, non-fossil",000630-08-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,968495ec-1000-438a-9e11-467776ebb54e,,,
 Diborane,019287-45-7,,,kg,chemical,,,air/lower stratosphere + upper troposphere,e3a77fe9-4fa1-4977-93cf-3495b355817f,,,14452-61-0; 19287-45-7
 "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,air/lower stratosphere + upper troposphere,e385da6d-8c5a-42ff-a8fe-d18943079774,,,
 Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,air/lower stratosphere + upper troposphere,fe976683-7080-4a79-8538-810793d21c53,,,110-80-5
 "Methane, chloro-fluoro-, HCFC-31",000593-70-4,,,kg,chemical,,,air/lower stratosphere + upper troposphere,41f45128-cebe-4ece-aafa-7406a5c98775,,,
-"Methane, from soil or biomass stock",000074-82-8,CH4,,kg,chemical,,,air/lower stratosphere + upper troposphere,ef4566f0-60d5-4bbe-a2cb-7268a81fecd4,,,
-"Methane, non-fossil",000074-82-8,,,kg,chemical,,,air/lower stratosphere + upper troposphere,258263a0-6be3-4439-bd84-efee0498b849,,,
 "Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,air/lower stratosphere + upper troposphere,6c833956-6302-47c3-8abc-7ecae92266fb,,,
 "Methane, tetrafluoro-, R-14",000075-73-0,,,kg,chemical,,,air/lower stratosphere + upper troposphere,6d023c39-c04e-4305-b2e4-adc89b53e708,,,
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,air/lower stratosphere + upper troposphere,78457869-af20-404f-a3bf-bad384fc177b,,,74-89-5

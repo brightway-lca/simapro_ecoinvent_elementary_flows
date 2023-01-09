@@ -5,16 +5,10 @@ Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,F
 Boron carbide,012069-32-8,,,kg,chemical,,,"air/low population density, long-term",454e32e4-09f5-4155-ae4c-7deab810a4b2,,,12316-49-3; 12069-32-8
 Butanol,000071-36-3,,,kg,chemical,,,"air/low population density, long-term",f202452b-5aff-45e6-9001-5fb0a2de7992,,,91732-68-2; 21044-20-2; 32586-14-4; 118104-91-9; 71-36-3; 35296-72-1; 71-36-3
 Calcium hydroxide,001305-62-0,,,kg,chemical,,,"air/low population density, long-term",d01e19ca-a74b-4c54-88b8-8effdade14c9,,,1305-62-0
-"Carbon dioxide, from soil or biomass stock",000124-38-9,,,kg,chemical,,,"air/low population density, long-term",e1c597cc-14cb-4ebb-af07-7a93a5b77d34,,,
-"Carbon dioxide, non-fossil",000124-38-9,,,kg,chemical,,,"air/low population density, long-term",28e1e2d6-97ad-4dfd-932a-9edad36dcab9,,,
-"Carbon monoxide, from soil or biomass stock",000124-38-9,CO2,,kg,chemical,,,"air/low population density, long-term",bd086aa3-312a-47af-a7b2-04fddbf8f01e,,,
-"Carbon monoxide, non-fossil",000630-08-0,,,kg,chemical,,,"air/low population density, long-term",588356df-f3b4-43a7-a76e-c47175a7eae0,,,
 Diborane,019287-45-7,,,kg,chemical,,,"air/low population density, long-term",35087164-f31a-49b4-9518-c559e483fbe6,,,14452-61-0; 19287-45-7
 "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",001746-01-6,,,kg,group?,,,"air/low population density, long-term",e69dfe04-4b45-4e87-a6ce-08b1af61ca22,,,
 Ethylene glycol monoethyl ether,000110-80-5,,,kg,chemical,,,"air/low population density, long-term",5403d20f-0a41-44c0-8c17-9f13a99888f9,,,110-80-5
 "Methane, chloro-fluoro-, HCFC-31",000593-70-4,,,kg,chemical,,,"air/low population density, long-term",8b1912e7-fa62-4fa7-9d33-46da503ad788,,,
-"Methane, from soil or biomass stock",000074-82-8,CH4,,kg,chemical,,,"air/low population density, long-term",f757365c-c6fd-41fe-ad32-3594ccd97ef0,,,
-"Methane, non-fossil",000074-82-8,,,kg,chemical,,,"air/low population density, long-term",6c977009-5c4e-4901-a4c1-ab20389cb972,,,
 "Methane, tetrachloro-, R-10",000056-23-5,,Tetrachlormethan,kg,chemical,,,"air/low population density, long-term",ba5c9458-44df-4d93-a7c3-9389f65166d8,,,
 "Methane, tetrafluoro-, R-14",000075-73-0,,,kg,chemical,,,"air/low population density, long-term",e59a199f-d4ed-4d43-82b1-71c4a8fae867,,,
 Methyl amine,000074-89-5,CH5N,,kg,chemical,,,"air/low population density, long-term",b42ad523-227d-4774-bcc6-a5f4f7ba2bb2,,,74-89-5

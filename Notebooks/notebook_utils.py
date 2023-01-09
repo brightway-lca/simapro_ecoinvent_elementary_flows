@@ -5,7 +5,18 @@ import itertools
 import pandas as pd
 
 
-output_dir = (Path.cwd().parent / "Contribute").resolve()
+BASE_DIR = Path(__file__).parent.parent.resolve()
+CONTRIBUTE_DIR = BASE_DIR / "Contribute"
+MAPPED_FILES_DIR = BASE_DIR / "Mapping" / "Output" / "Mapped_files"
+
+FIELDS = [
+    "SourceFlowName",
+    "SourceFlowUUID",
+    "SourceFlowContext",
+    "TargetFlowName",
+    "TargetFlowUUID",
+    "TargetFlowContext",
+]
 
 
 def fix_names_after_merge(df: pd.DataFrame) -> pd.DataFrame:
@@ -70,7 +81,7 @@ def check_required_columns(df: pd.DataFrame) -> None:
         print("Missing the following required columns:", difference)
 
 
-def export_dataframe(df: pd.DataFrame, name: str, output_dir: Path) -> None:
+def export_dataframe(df: pd.DataFrame, name: str, output_dir: Path = CONTRIBUTE_DIR) -> None:
     SPEC_COLUMNS = [
         "SourceListName",
         "SourceFlowName",
@@ -101,13 +112,26 @@ def export_dataframe(df: pd.DataFrame, name: str, output_dir: Path) -> None:
     df.to_csv(output_dir / name, index=False)
 
 
+def exclude_duplicates(df: pd.DataFrame, mapping_file: str = "SimaProv94-ecoinventEFv3.7.csv") -> pd.DataFrame:
+    existing = pd.read_csv(MAPPED_FILES_DIR / mapping_file)[FIELDS]
+    existing["FILTER_ME"] = True
+
+    df = df.merge(existing, how="left", on=FIELDS)
+    df = df[df["FILTER_ME"] != True]
+    df = df.drop(columns=["FILTER_ME"])
+
+    return df
+
+
 def finish_notebook(
     df: pd.DataFrame,
     author: str,
     notebook_name: str,
     filename: str,
-    output_dir: Path = output_dir,
+    output_dir: Path = CONTRIBUTE_DIR,
     default_match_condition: str = "=",
+    mapping_file: str = "SimaProv94-ecoinventEFv3.7.csv",
+    exclude_existing: bool = True,
 ) -> None:
     df = fix_names_after_merge(df=df)
     df = add_common_columns(
@@ -117,6 +141,8 @@ def finish_notebook(
         default_match_condition=default_match_condition,
     )
     check_required_columns(df=df)
+    if exclude_existing:
+        df = exclude_duplicates(df=df, mapping_file=mapping_file)
     export_dataframe(df=df, name=filename, output_dir=output_dir)
 
 

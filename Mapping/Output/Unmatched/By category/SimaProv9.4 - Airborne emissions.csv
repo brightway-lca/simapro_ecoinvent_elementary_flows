@@ -1865,13 +1865,6 @@ Carbofuran,001563-66-2,,Carbofuran,kg,Airborne emissions,Airborne emissions,BE59
 Carbofuran phenol,001563-38-8,,Carbofuran phenol,kg,Airborne emissions,Airborne emissions,1AC4C2F3-BEF5-4DBE-A2E5-062227232874,
 Carbon,007440-44-0,,Carbon,kg,Airborne emissions,Airborne emissions,229DFD4A-CFFB-47DA-979C-768A352ED340,Formula: C
 Carbon black,001333-86-4,,Carbon black,kg,Airborne emissions,Airborne emissions,14359368-26EE-4C03-9AA5-40CF744F83A7,Formula: C 
-Carbon dioxide,000124-38-9,,Carbon dioxide,kg,Airborne emissions,Airborne emissions,DBE27C73-9DF4-4F21-B2EB-A0CE1FE87A4B,Formula: CO2
-"Carbon dioxide, biogenic",000124-38-9,,"Carbon dioxide, biogenic",kg,Airborne emissions,Airborne emissions,E8448B62-30C2-4E5C-86B8-574CDF7BB8C7,Formula: CO2
-"Carbon dioxide, land transformation",000124-38-9,,"Carbon dioxide, land transformation",kg,Airborne emissions,Airborne emissions,D077CAF5-D385-45FF-99AA-2478AF9371D0,Formula: CO2
-"Carbon dioxide, peat oxidation",000124-38-9,,"Carbon dioxide, peat oxidation",kg,Airborne emissions,Airborne emissions,FD7284A6-3F39-4CFC-BB68-C9F073FB6093,Formula: CO2
-Carbon monoxide,000630-08-0,,Carbon monoxide,kg,Airborne emissions,Airborne emissions,13931D8F-0BB0-48C4-A852-A5E95389056E,Formula: CO
-"Carbon monoxide, biogenic",000630-08-0,,"Carbon monoxide, biogenic",kg,Airborne emissions,Airborne emissions,BAF405CB-7896-4C68-815E-8353922B59F6,Formula: CO
-"Carbon monoxide, land transformation",000630-08-0,,"Carbon monoxide, land transformation",kg,Airborne emissions,Airborne emissions,67689928-427D-4D85-A7D9-C26C7EED04E1,
 "Carbonic acid, cyclic propylene ester",000108-32-7,,"Carbonic acid, cyclic propylene ester",kg,Airborne emissions,Airborne emissions,5011C27F-3C6D-488C-A74C-7EE6B9E62B44,Formula: C4H6O3 
 "Carbonic acid, diphenyl ester",000102-09-0,,"Carbonic acid, diphenyl ester",kg,Airborne emissions,Airborne emissions,E04708D3-1712-40A1-A4FC-4158432BE425,
 "Carbonodithioic acid, o-(2-methylpropyl) ester, sodium salt",025306-75-6,,"Carbonodithioic acid, o-(2-methylpropyl) ester, sodium salt",kg,Airborne emissions,Airborne emissions,E6F39EDD-E369-4A0B-A555-713A32020E19,
@@ -3115,7 +3108,6 @@ Metham (acid),000144-54-7,C28H14N2O4,Metham (acid),kg,Airborne emissions,Airbor
 Methamidophos,010265-92-6,C16H10N2Na2O7S2,Methamidophos,kg,Airborne emissions,Airborne emissions,3DB38FD0-D371-46EE-9E7B-7E4CD060DAB2,
 Methane arsonate,000124-58-3,C2H7AsO2 Synonyms: ansar 138; Arsan; Dimethylarsenic acid; Bolate; Bolls; chexmate; DMAA; Erase; hydroxydimethylarsine oxide; Moncide; phytar; rad-e-cat 25; silvisar 510,Methane arsonate,kg,Airborne emissions,Airborne emissions,4A4F4B75-33BF-4EB4-8573-8F967401C72F,
 "Methane, (difluoromethoxy)((difluoromethoxy)difluoromethoxy)difluoro-",249932-25-0,Cd,"Methane, (difluoromethoxy)((difluoromethoxy)difluoromethoxy)difluoro-",kg,Airborne emissions,Airborne emissions,E4797E14-E438-4A60-906F-DEE091FED768,
-"Methane, biogenic",000074-82-8,Chemical Cd ,"Methane, biogenic",kg,Airborne emissions,Airborne emissions,9FC4B6E4-A1ED-4DB3-93E6-8D5ACBF8FFC9,
 "Methane, bis(2-chloroethoxy)-",000111-91-1,,"Methane, bis(2-chloroethoxy)-",kg,Airborne emissions,Airborne emissions,81782F8D-E668-44DA-95DC-1ED57FCEE58B,"Formula: C5H10Cl2O2 Synonyms: 2,2'-dichlorodiethyl formal; bis(2-Chloroethoxy)methane; formaldehyde bis(beta-chloroethyl) acetal"
 "Methane, bromodichloro-",000075-27-4,Ca,"Methane, bromodichloro-",kg,Airborne emissions,Airborne emissions,3A1C5C26-5F86-43CE-8587-2CD4D70BE4BE,
 "Methane, bromodifluoro-, Halon 1201",001511-62-2,,"Methane, bromodifluoro-, Halon 1201",kg,Airborne emissions,Airborne emissions,6428574F-8C96-46BC-9A0A-96D3FA172933,Formula: CHBrF2 
@@ -3134,8 +3126,6 @@ Methane arsonate,000124-58-3,C2H7AsO2 Synonyms: ansar 138; Arsan; Dimethylarsen
 "Methane, fluoro(methoxy)-",000460-22-0,,"Methane, fluoro(methoxy)-",kg,Airborne emissions,Airborne emissions,457CF265-F743-458D-A0B4-0A1D04191708,
 "Methane, iodo-, Halon 10001",000074-88-4,C-14,"Methane, iodo-, Halon 10001",kg,Airborne emissions,Airborne emissions,40F31666-0191-4AE6-8B97-DD2CFC4D2E29,
 "Methane, iodotrifluoro-",002314-97-8,,"Methane, iodotrifluoro-",kg,Airborne emissions,Airborne emissions,62771DB1-E19D-4A28-8C42-F83852233125,Formula: CF3I
-"Methane, land transformation",000074-82-8,CS2,"Methane, land transformation",kg,Airborne emissions,Airborne emissions,27D9CE26-6A23-4DE4-9C2B-631A3EB80058,
-"Methane, peat oxidation",000074-82-8,,"Methane, peat oxidation",kg,Airborne emissions,Airborne emissions,7DF7E548-59D6-4714-9A54-4EE30057952D,Formula: CH4
 "Methane, sulfonylbis trichloro-",003064-70-8,,"Methane, sulfonylbis trichloro-",kg,Airborne emissions,Airborne emissions,666E2745-6B6D-43B7-932B-50B7C6BF6B88,
 "Methane, tetrachloro-, CFC-10",000056-23-5,,"Methane, tetrachloro-, CFC-10",kg,Airborne emissions,Airborne emissions,E8CBF935-527A-41C3-A362-67FEE61949A1,Formula: CCl4Synonyms: Benzinoform; carbona; carbon chloride; Carbon tet; Carbon tetrachloride; Carbon tetrachloride ; flukoids; Methane tetrachloride; necatorine; Necatorina; Perchloromethane; CFC-10; r 10 (refrigerant); Refrigerant R10; tetrachlorocarbon; Tetrachloromethane; tetrafinol; tetraform; tetrasol; univerm; vermoestricid; 
 "Methane, tetrafluoro-, CFC-14",000075-73-0,,"Methane, tetrafluoro-, CFC-14",kg,Airborne emissions,Airborne emissions,B8CB08F0-43BE-4BCA-80B9-206F521403DF,"Formula: CF4Synonyms: Carbon Tetrafluoride; Carbon tetrafluoride, 99.7% (Assay); FC 14; Halocarbon 14; R 14 (Refrigerant); Tetrafluoromethane;"
