@@ -126,7 +126,9 @@ A contributor forks this repository and adds their mapping contribution as a new
 
 ## Authors
 
-{{ authors }}
+* [Chris Mutel](https://github.com/cmutel/)
+* [Aleksandra Kim](https://github.com/aleksandra-kim)
+* [Huo Jing](https://github.com/jhuo2021)
 
 ## Maintainers
 
