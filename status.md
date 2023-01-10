@@ -6,13 +6,13 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 4007 | 303 | 4310 |
+| 4080 | 230 | 4310 |
 
 ## SimaPro flows
 
 | Matched | Unmatched | Total |
 | --- | --- | --- |
-| 1634 | 11669 | 13303 |
+| 1646 | 11657 | 13303 |
 
 ## Unmatched ecoinvent flows by context
 
@@ -33,11 +33,11 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 | soil/forestry | 1 | 45 |
 | soil/industrial | 1 | 48 |
 | soil/unspecified | 2 | 54 |
-| water/ground- | 24 | 300 |
-| water/ground-, long-term | 23 | 268 |
-| water/ocean | 25 | 279 |
-| water/surface water | 25 | 310 |
-| water/unspecified | 25 | 312 |
+| water/ground- | 9 | 300 |
+| water/ground-, long-term | 9 | 268 |
+| water/ocean | 11 | 279 |
+| water/surface water | 11 | 310 |
+| water/unspecified | 9 | 312 |
 
 
 ## Unmatched SimaPro flows by context
@@ -51,4 +51,4 @@ CSV files with unmatched flows are in [`Mapping/Output/Unmatched`](https://githu
 | Non material emissions | 12 | 12 |
 | Raw materials | 372 | 714 |
 | Social issues | 19 | 19 |
-| Waterborne emissions | 3499 | 3846 |
+| Waterborne emissions | 3487 | 3846 |
