@@ -8,6 +8,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).parent.parent.resolve()
 CONTRIBUTE_DIR = BASE_DIR / "Contribute"
 MAPPED_FILES_DIR = BASE_DIR / "Mapping" / "Output" / "Mapped_files"
+LOGS_DIR = BASE_DIR / "Logs"
 
 FIELDS = [
     "SourceFlowName",
@@ -79,6 +80,18 @@ def check_required_columns(df: pd.DataFrame) -> None:
     difference = expected.difference(given)
     if difference:
         print("Missing the following required columns:", difference)
+
+
+def add_unitary_conversion_when_missing(df: pd.DataFrame):
+    missing = df.ConversionFactor.isnull()
+    wrong_units = df.SourceUnit[missing] != df.TargetUnit[missing]
+    if wrong_units.sum():
+        name = "inconsistent-units-without-conversion.csv"
+        (df[missing][wrong_units]).to_csv(LOGS_DIR / name, index=False)
+        raise ValueError("Inconsistent units without conversion factor.\nSaved log to {}".format(LOGS_DIR / name))
+    else:
+        df.ConversionFactor[missing] = 1.0
+        return df
 
 
 def export_dataframe(df: pd.DataFrame, name: str, output_dir: Path = CONTRIBUTE_DIR) -> None:
