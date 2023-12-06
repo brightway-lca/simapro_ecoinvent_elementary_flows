@@ -8,7 +8,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
       - name: Setup Python environment
-        uses: actions/setup-python@v4.7.1
+        uses: actions/setup-python@v5.0.0
       - run: pip install pandas jinja2
       - name: List repo directory
         run: ls ${{ github.workspace }}
