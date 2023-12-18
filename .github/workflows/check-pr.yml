@@ -20,7 +20,7 @@ jobs:
       - run: python Scripts/check_condition_conflicts.py
       - run: python Scripts/check_duplicates.py
       - name: Archive error logs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: JSON error logs
           path: Logs/*.json
